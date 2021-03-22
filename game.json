@@ -4691,14 +4691,14 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 6,
+                    "y": 53
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 6,
+                    "y": 53
                   },
                   "customCollisionMask": []
                 }
@@ -10189,7 +10189,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": true,
-        "zoomFactor": 0.898
+        "zoomFactor": 0.586
       },
       "objectsGroups": [],
       "variables": [],
