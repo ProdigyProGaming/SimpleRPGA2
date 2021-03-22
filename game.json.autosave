@@ -617,15 +617,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "Sword2-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sword2-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "Slot-1-1.png",
         "kind": "image",
         "metadata": "",
@@ -900,15 +891,6 @@
         "kind": "image",
         "metadata": "",
         "name": "Gun1-1-0.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "kisspng-pixel-art-sword-5af2ba5f2821c4-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "kisspng-pixel-art-sword-5af2ba5f2821c4-1.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -3409,6 +3391,42 @@
         "name": "NewStage5-20-0.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sword2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sword2-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sword2-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sword2-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sword-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sword-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "kisspng-pixel-art-sword-5af2ba5f2821c4-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "kisspng-pixel-art-sword-5af2ba5f2821c4-1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -4631,7 +4649,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "kisspng-pixel-art-sword-5af2ba5f2821c4",
+          "name": "Sword1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -4652,6 +4670,35 @@
                     "name": "centre",
                     "x": 8,
                     "y": 54
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sword2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sword-1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6,
+                    "y": 53
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 6,
+                    "y": 53
                   },
                   "customCollisionMask": []
                 }
@@ -5049,11 +5096,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Sword2\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAk0lEQVR4Xu3ZAQ0AIQwDwGJzAmfzCcm76OGABkYvnCRfitd5AcxMZQS7GwE4Aa6AGWAIegU8g3qAItSYgCaoCrMADNEgDdIgDdIgDdIgDTZaKDAEQzAEQzAEQzAEQzAEQzAEQzDUmAAN0iAN0iAN0iAN0iAN0iAN0mCjhXyN0SAN0iAN0iAN0iAN0mC9Bish8G/6AqH8+gEwGts8AAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,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\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"paths\":[\"D:\\\\Arron\\\\Github\\\\SimpleRPGA2\\\\Sword2-1-0.png\"],\"name\":\"Sword2\",\"singleFrame\":false}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Slot-1-0.png",
+                  "image": "Sword2-1-0.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -21607,7 +21655,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "name": "Sword",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -21638,10 +21686,10 @@
                     {
                       "type": {
                         "inverted": false,
-                        "value": "VarGlobalTxt"
+                        "value": "StrEqual"
                       },
                       "parameters": [
-                        "Player.Weapon",
+                        "SubStr(GlobalVariableString(Player.Weapon), 0, 5)",
                         "=",
                         "\"Sword\""
                       ],
@@ -21729,6 +21777,17 @@
                     "Sword.Variable(Angles[Player.AnimationName()])",
                     "0",
                     ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Sword",
+                    "GlobalVariableString(Player.Weapon)"
                   ],
                   "subInstructions": []
                 }
@@ -24123,7 +24182,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "name": "HotBar Management",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -24236,7 +24295,7 @@
                       "parameters": [
                         "Player.Weapon",
                         "=",
-                        "\"Sword\""
+                        "GlobalVariableString(Inventory[\"Slot\"+GlobalVariableString(SelectedItem)].Item)"
                       ],
                       "subInstructions": []
                     },
