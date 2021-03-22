@@ -3427,6 +3427,60 @@
         "name": "kisspng-pixel-art-sword-5af2ba5f2821c4-1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Seed1-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Seed1-1-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "InventorySlot-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "InventorySlot-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "InventorySlot-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "InventorySlot-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "InventorySlot-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "InventorySlot-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "InventorySlot-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "InventorySlot-1-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "InventorySlot-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "InventorySlot-1-4.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -4945,53 +4999,53 @@
                     },
                     {
                       "name": "Quantity01",
-                      "x": 82,
-                      "y": 72
+                      "x": 35,
+                      "y": 78
                     },
                     {
                       "name": "Quantity02",
-                      "x": 156,
-                      "y": 72
+                      "x": 109,
+                      "y": 78
                     },
                     {
                       "name": "Quantity03",
-                      "x": 230,
-                      "y": 72
+                      "x": 183,
+                      "y": 78
                     },
                     {
                       "name": "Quantity04",
-                      "x": 304,
-                      "y": 72
+                      "x": 257,
+                      "y": 78
                     },
                     {
                       "name": "Quantity05",
-                      "x": 378,
-                      "y": 72
+                      "x": 331,
+                      "y": 78
                     },
                     {
                       "name": "Quantity06",
-                      "x": 82,
-                      "y": 146
+                      "x": 35,
+                      "y": 152
                     },
                     {
                       "name": "Quantity07",
-                      "x": 156,
-                      "y": 146
+                      "x": 109,
+                      "y": 152
                     },
                     {
                       "name": "Quantity08",
-                      "x": 230,
-                      "y": 146
+                      "x": 183,
+                      "y": 152
                     },
                     {
                       "name": "Quantity09",
-                      "x": 304,
-                      "y": 146
+                      "x": 257,
+                      "y": 152
                     },
                     {
                       "name": "Quantity10",
-                      "x": 378,
-                      "y": 146
+                      "x": 331,
+                      "y": 152
                     },
                     {
                       "name": "TrashSlot",
@@ -5209,6 +5263,65 @@
           ]
         },
         {
+          "name": "Old2Seed1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"InventorySlot\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAk0lEQVR4Xu3ZAQ0AIQwDwGJzAmfzCcm76OGABkYvnCRfitd5AcxMZQS7GwE4Aa6AGWAIegU8g3qAItSYgCaoCrMADNEgDdIgDdIgDdIgDTZaKDAEQzAEQzAEQzAEQzAEQzAEQzDUmAAN0iAN0iAN0iAN0iAN0iAN0mCjhXyN0SAN0iAN0iAN0iAN0mC9Bish8G/6AqH8+gEwGts8AAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACHElEQVR4Xu2av0oDQRDGLwoiFiKxEUQJIhIQFKKdnbWtjaVg4wuI2ARfwM7SUvAF9BFsNKAiBBE5NZZGEREV/NPNzcENO4vCzu1Mqrtjkt399vftzO6lkij/VJSPPzEBOARUa7UfV1w3TUspJqvTJoBGAvCs9zQHwQF9V0NwPdD+gutu68HlkkSiTUgLmAAIe/UEYLarjdFC7PFzHP9W74Xb9/277LtCsgbLAiYAUiBqAqiFDxPw3XxxrvYcYqRkhJwFTABi5VdPAKf4wamSI1ipLGACMMrf6AjoXxkvXO2p+h/Hf049w3eprCHeAiaARgJyBQxKiZgGjgXw70is/3H/WHsBEwDZQSUB1FYXnwJxYqSs/N4W4AyOE2MCCDkEYRFAZQT8fGZ4Dm7PH08LCyeJs24CIAX+9GIkagImJ+bhddjyyJLzFOj446IwpvN0C8+vb05Ygjsb+8cAskMmgEYCfGcdk0hZAMdItEPOAiaAJ/ZRE3C0PQvj29sdg+vV9fvCNXhtJzsFwgFbi69wu3GYZYTWZVtERiAtYAJoJKAxXYfi52BzwavcSM86znjxFjABtBOAGfalgbKAROxZ22ETwNMO0RHAsUNZB82ygAmAFKDWAzUEUDRQlY+UOt9ZmSWJ/9/lMQ0mAKFA1ARwsCpTjIg9eUjBTICQ6kto2wiQMAsh+2AEhFRfQttGgIRZCNkHIyCk+hLaVk/AL4K03VCk6MjAAAAAAElFTkSuQmCC\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"paths\":[\"D:\\\\Arron\\\\Github\\\\SimpleRPGA2\\\\InventorySlot-1-2.png\"],\"name\":\"Seed1\",\"singleFrame\":false}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "InventorySlot-1-2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OldSeed1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Seed1-1-3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Seed1",
           "useMultipleDirections": false,
           "directions": [
@@ -5218,7 +5331,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Seed1-1-2.png",
+                  "image": "InventorySlot-1-4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5552,7 +5665,7 @@
       "behaviors": [],
       "string": "0",
       "font": "",
-      "characterSize": 20,
+      "characterSize": 15,
       "color": {
         "b": 0,
         "g": 0,
@@ -10189,7 +10302,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": true,
-        "zoomFactor": 0.898
+        "zoomFactor": 0.586
       },
       "objectsGroups": [],
       "variables": [],
@@ -15937,7 +16050,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.664
+        "zoomFactor": 1.336
       },
       "objectsGroups": [
         {
@@ -17437,8 +17550,8 @@
           "name": "InventoryQuantity",
           "persistentUuid": "97b9fc39-fb63-488c-bc44-1538652feb53",
           "width": 0,
-          "x": 800,
-          "y": 670,
+          "x": 752,
+          "y": 675,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -17458,8 +17571,8 @@
           "name": "InventoryQuantity",
           "persistentUuid": "9f6abcb3-c48d-4c8a-ab58-86045b2d4da0",
           "width": 0,
-          "x": 900,
-          "y": 670,
+          "x": 852,
+          "y": 675,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -17479,8 +17592,8 @@
           "name": "InventoryQuantity",
           "persistentUuid": "438ef917-239e-4223-bf89-2916384bb588",
           "width": 0,
-          "x": 1000,
-          "y": 670,
+          "x": 952,
+          "y": 675,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -17500,8 +17613,8 @@
           "name": "InventoryQuantity",
           "persistentUuid": "1db22ba6-bd71-4b30-830b-164d64cf1ab0",
           "width": 0,
-          "x": 1100,
-          "y": 670,
+          "x": 1052,
+          "y": 675,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -17521,8 +17634,8 @@
           "name": "InventoryQuantity",
           "persistentUuid": "86004bdd-03e5-4f53-9702-6c8dbb9989fe",
           "width": 0,
-          "x": 1200,
-          "y": 670,
+          "x": 1152,
+          "y": 675,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -19953,7 +20066,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Shop",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -21655,7 +21768,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Sword",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -23027,7 +23140,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "name": "Inventory",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
