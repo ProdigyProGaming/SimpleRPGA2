@@ -9263,6 +9263,177 @@
         "name": "CheatsEffects-1-4.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-24.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-25.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-26.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NPC1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NPC1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NPC2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NPC2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NPC3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NPC3-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NPC4-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NPC4-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NPC5-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NPC5-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NPC6-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NPC6-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NPC1-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NPC1-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NPC2-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NPC2-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NPC3-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NPC3-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NPC4-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NPC4-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NPC5-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NPC5-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NPC6-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NPC6-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "SwordSwing.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "SwordSwing.ogg",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GunShot.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GunShot.ogg",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "Shotgun.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Shotgun.ogg",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "KillEnemy.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "KillEnemy.ogg",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -16382,6 +16553,259 @@
           ]
         }
       ]
+    },
+    {
+      "name": "NextLevel",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewObject",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"New Animation\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":32,\\\"width\\\":32,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAWElEQVRYR2NkQAIWyvr/kfm0Yp+4e5ERZjacARIYmQ5A9vXUJDNahTqKudnzTsH5jKMOGA2B0RAYDYHREBgNgdEQGA2B0RAYDYHREBgNgQEPgdHO6UCHAADkIo4LiDLJXAAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 3\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAk0lEQVRYR+2WsRLAIAhD8f8/uj2HLj0hCQwucVWSZ/TQFZfHuuwfBugm8CRHJ+vJBRGxzbO6au7IbAAn4AScgBNACag9X11fPsdyXy/+FqkWkwBag/405UYY8UkSsJYB2DuEQocYqBoWQIWgzLeoAsBC0OYdAAQhmXcBMgjZfALwh2iZTwE+iJGOeglR05HnDeAEXuKyLCEnw5qiAAAAAElFTkSuQmCC\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"paths\":[\"D:\\\\Arron\\\\Github\\\\SimpleRPGA2\\\\NewObject-1-25.png\"],\"name\":\"NewObject\",\"singleFrame\":false}}",
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NewObject-1-25.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NPC",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NPC1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NPC1-1-0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NPC2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NPC2-1-0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NPC3",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NPC3-1-0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NPC4",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NPC4-1-0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NPC5",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NPC5-1-0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NPC6",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NPC6-1-0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NPC7",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NewObject2-2-1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsGroups": [
@@ -16427,6 +16851,9 @@
         },
         {
           "name": "CheatsEffects"
+        },
+        {
+          "name": "NextLevel"
         }
       ]
     }
@@ -24390,6 +24817,26 @@
       "name": "LastFarmUnlocked",
       "type": "string",
       "value": "025"
+    },
+    {
+      "name": "EnemiesKilled",
+      "type": "string",
+      "value": "0"
+    },
+    {
+      "name": "CropsHarvested",
+      "type": "string",
+      "value": "0"
+    },
+    {
+      "name": "TotalCoinsGained",
+      "type": "string",
+      "value": "0"
+    },
+    {
+      "name": "TotalCoinsSpent",
+      "type": "string",
+      "value": "0"
     }
   ],
   "layouts": [
@@ -29598,9 +30045,9 @@
           "name": "StatsText",
           "persistentUuid": "504a8ddd-e2a0-4dd9-8289-e1fc9f864c6a",
           "width": 0,
-          "x": 856,
-          "y": 56,
-          "zOrder": 29,
+          "x": 933,
+          "y": 238,
+          "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -40667,6 +41114,30 @@
                             {
                               "type": {
                                 "inverted": false,
+                                "value": "ModVarGlobal"
+                              },
+                              "parameters": [
+                                "TotalCoinsGained",
+                                "+",
+                                "GlobalVariable(SeedTypes[GlobalVariableString(Farm[\"Slot\" + FarmLand.VariableString(Slot)].SeedType)].SellPrice)*GlobalVariable(Player.HarvestProfitMultiplier)"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ModVarGlobal"
+                              },
+                              "parameters": [
+                                "CropsHarvested",
+                                "+",
+                                "1"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
                                 "value": "ModVarObjet"
                               },
                               "parameters": [
@@ -40725,7 +41196,467 @@
                               "subInstructions": []
                             }
                           ],
-                          "events": []
+                          "events": [
+                            {
+                              "disabled": false,
+                              "folded": false,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "GlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "Objectives[GlobalVariable(ObjectivesStructure.Plant1Seed)].Completed",
+                                    "False"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarGlobal"
+                                  },
+                                  "parameters": [
+                                    "CropsHarvested",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "BuiltinCommonInstructions::Once"
+                                  },
+                                  "parameters": [],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetGlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "Objectives[GlobalVariable(ObjectivesStructure.Plant1Seed)].Completed",
+                                    "True"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetSceneVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "child.Completed",
+                                    ""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarSceneTxt"
+                                  },
+                                  "parameters": [
+                                    "child.Text",
+                                    "=",
+                                    "\"Plant and harvest 10 seeds\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetSceneVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "child.Active",
+                                    "False"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarSceneTxt"
+                                  },
+                                  "parameters": [
+                                    "child.Type",
+                                    "=",
+                                    "\"Plant\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "GlobalVariablePush"
+                                  },
+                                  "parameters": [
+                                    "Objectives",
+                                    "child"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetGlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "ObjectivesReadyToUpdate",
+                                    "True"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarGlobal"
+                                  },
+                                  "parameters": [
+                                    "ObjectivesStructure.Plant10Seeds",
+                                    "=",
+                                    "GlobalVariableChildCount(Objectives)-1"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "events": []
+                            },
+                            {
+                              "disabled": false,
+                              "folded": false,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "GlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "Objectives[GlobalVariable(ObjectivesStructure.Plant10Seeds)].Completed",
+                                    "False"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarGlobal"
+                                  },
+                                  "parameters": [
+                                    "CropsHarvested",
+                                    "=",
+                                    "10"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "BuiltinCommonInstructions::Once"
+                                  },
+                                  "parameters": [],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetGlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "Objectives[GlobalVariable(ObjectivesStructure.Plant10Seeds)].Completed",
+                                    "True"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetSceneVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "child.Completed",
+                                    ""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarSceneTxt"
+                                  },
+                                  "parameters": [
+                                    "child.Text",
+                                    "=",
+                                    "\"Plant and harvest 100 seeds\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetSceneVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "child.Active",
+                                    "False"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarSceneTxt"
+                                  },
+                                  "parameters": [
+                                    "child.Type",
+                                    "=",
+                                    "\"Plant\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "GlobalVariablePush"
+                                  },
+                                  "parameters": [
+                                    "Objectives",
+                                    "child"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetGlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "ObjectivesReadyToUpdate",
+                                    "True"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarGlobal"
+                                  },
+                                  "parameters": [
+                                    "ObjectivesStructure.Plant100Seeds",
+                                    "=",
+                                    "GlobalVariableChildCount(Objectives)-1"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "events": []
+                            },
+                            {
+                              "disabled": false,
+                              "folded": false,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "GlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "Objectives[GlobalVariable(ObjectivesStructure.Plant100Seeds)].Completed",
+                                    "False"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarGlobal"
+                                  },
+                                  "parameters": [
+                                    "CropsHarvested",
+                                    "=",
+                                    "100"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "BuiltinCommonInstructions::Once"
+                                  },
+                                  "parameters": [],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetGlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "Objectives[GlobalVariable(ObjectivesStructure.Plant100Seeds)].Completed",
+                                    "True"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetSceneVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "child.Completed",
+                                    ""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarSceneTxt"
+                                  },
+                                  "parameters": [
+                                    "child.Text",
+                                    "=",
+                                    "\"Plant and harvest 1000 seeds\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetSceneVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "child.Active",
+                                    "False"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarSceneTxt"
+                                  },
+                                  "parameters": [
+                                    "child.Type",
+                                    "=",
+                                    "\"Plant\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "GlobalVariablePush"
+                                  },
+                                  "parameters": [
+                                    "Objectives",
+                                    "child"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetGlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "ObjectivesReadyToUpdate",
+                                    "True"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarGlobal"
+                                  },
+                                  "parameters": [
+                                    "ObjectivesStructure.Plant1000Seeds",
+                                    "=",
+                                    "GlobalVariableChildCount(Objectives)-1"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "events": []
+                            },
+                            {
+                              "disabled": false,
+                              "folded": false,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "GlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "Objectives[GlobalVariable(ObjectivesStructure.Plant1000Seeds)].Completed",
+                                    "False"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarGlobal"
+                                  },
+                                  "parameters": [
+                                    "CropsHarvested",
+                                    "=",
+                                    "1000"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "BuiltinCommonInstructions::Once"
+                                  },
+                                  "parameters": [],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetGlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "Objectives[GlobalVariable(ObjectivesStructure.Plant1000Seeds)].Completed",
+                                    "True"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetGlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "ObjectivesReadyToUpdate",
+                                    "True"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "events": []
+                            }
+                          ]
                         }
                       ]
                     }
@@ -41278,7 +42209,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1.0400000000000205
+        "zoomFactor": 0.8600000000000205
       },
       "objectsGroups": [
         {
@@ -49241,6 +50172,17 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "PauseTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"DialogWait\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "Cache"
                   },
                   "parameters": [
@@ -49656,17 +50598,6 @@
                     {
                       "type": {
                         "inverted": false,
-                        "value": "SetGlobalVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "ObjectivesReadyToUpdate",
-                        "True"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
                         "value": "ModVarSceneTxt"
                       },
                       "parameters": [
@@ -49707,6 +50638,17 @@
                       "parameters": [
                         "Objectives",
                         "child"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetGlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "ObjectivesReadyToUpdate",
+                        "True"
                       ],
                       "subInstructions": []
                     },
@@ -49932,14 +50874,6 @@
                   "subInstructions": []
                 }
               ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [],
               "events": []
             }
           ],
@@ -51435,6 +52369,21 @@
                     "GlobalVariableString(Player.Weapon)"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "SwordSwing.ogg",
+                    "0",
+                    "",
+                    "GlobalVariable(SoundVolume)",
+                    ""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -52306,7 +53255,82 @@
                           "subInstructions": []
                         }
                       ],
-                      "events": []
+                      "events": [
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "Animation"
+                              },
+                              "parameters": [
+                                "Gun",
+                                "!=",
+                                "3"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "PlaySoundCanal"
+                              },
+                              "parameters": [
+                                "",
+                                "GunShot.ogg",
+                                "0",
+                                "",
+                                "GlobalVariable(SoundVolume)",
+                                ""
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        },
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "Animation"
+                              },
+                              "parameters": [
+                                "Gun",
+                                "=",
+                                "3"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "PlaySoundCanal"
+                              },
+                              "parameters": [
+                                "",
+                                "Shotgun.ogg",
+                                "0",
+                                "",
+                                "GlobalVariable(SoundVolume)",
+                                ""
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        }
+                      ]
                     }
                   ]
                 }
@@ -52867,6 +53891,18 @@
                   },
                   "parameters": [
                     "Player.Coins",
+                    "+",
+                    "GlobalVariable(Player.CoinsPerUnit)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "TotalCoinsGained",
                     "+",
                     "GlobalVariable(Player.CoinsPerUnit)"
                   ],
@@ -54050,6 +55086,20 @@
                         "CheatsTitle.VariableString(Text)"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "NextLevel",
+                        "=",
+                        "ObjectivesBackground.PointX(\"CheatsEffects\")",
+                        "=",
+                        "ObjectivesBackground.PointY(\"CheatsEffects\") + 63"
+                      ],
+                      "subInstructions": []
                     }
                   ],
                   "events": [
@@ -54780,7 +55830,7 @@
                       "parameters": [
                         "StatsText",
                         "=",
-                        "\"Deaths: \" + GlobalVariableString(Deaths)"
+                        "\"Player Stats\nDeaths: \" + GlobalVariableString(Deaths) + \"\nEnemies Killed: \" + GlobalVariableString(EnemiesKilled) + \"\nCrops Harvested: \" + GlobalVariableString(CropsHarvested) + \"\nMax Cave Level: \" + GlobalVariableString(MaxCaveLevelReached) + \"\nTotal Coins Gained: \" + GlobalVariableString(TotalCoinsGained) + \"\nTotal Coins Spent: \" + GlobalVariableString(TotalCoinsSpend) + \"\nGame Stats\nFPS: \""
                       ],
                       "subInstructions": []
                     },
@@ -54794,7 +55844,7 @@
                         "=",
                         "ObjectivesBackground.PointX(\"VolumeTitle\")",
                         "=",
-                        "ObjectivesBackground.PointY(\"VolumeTitle\")"
+                        "ObjectivesBackground.PointY(\"VolumeTitle\")-20"
                       ],
                       "subInstructions": []
                     }
@@ -60364,7 +61414,7 @@
                         "value": "VarGlobal"
                       },
                       "parameters": [
-                        "Player.Effects[0].CurrentDuration",
+                        "Player.Effects[1].CurrentDuration",
                         "!=",
                         "-1"
                       ],
@@ -60468,7 +61518,7 @@
                         "value": "VarGlobal"
                       },
                       "parameters": [
-                        "Player.Effects[0].CurrentDuration",
+                        "Player.Effects[2].CurrentDuration",
                         "!=",
                         "-1"
                       ],
@@ -60571,7 +61621,7 @@
                         "value": "VarGlobal"
                       },
                       "parameters": [
-                        "Player.Effects[0].CurrentDuration",
+                        "Player.Effects[3].CurrentDuration",
                         "!=",
                         "-1"
                       ],
@@ -60674,7 +61724,7 @@
                         "value": "VarGlobal"
                       },
                       "parameters": [
-                        "Player.Effects[0].CurrentDuration",
+                        "Player.Effects[4].CurrentDuration",
                         "!=",
                         "-1"
                       ],
@@ -60777,7 +61827,7 @@
                         "value": "VarGlobal"
                       },
                       "parameters": [
-                        "Player.Effects[0].CurrentDuration",
+                        "Player.Effects[5].CurrentDuration",
                         "!=",
                         "-1"
                       ],
@@ -60881,7 +61931,7 @@
                         "value": "VarGlobal"
                       },
                       "parameters": [
-                        "Player.Effects[0].CurrentDuration",
+                        "Player.Effects[6].CurrentDuration",
                         "!=",
                         "-1"
                       ],
@@ -60983,7 +62033,7 @@
                         "value": "VarGlobal"
                       },
                       "parameters": [
-                        "Player.Effects[0].CurrentDuration",
+                        "Player.Effects[7].CurrentDuration",
                         "!=",
                         "-1"
                       ],
@@ -62992,6 +64042,59 @@
               "events": []
             }
           ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "5",
+                "\"DialogWait\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PauseTimer"
+              },
+              "parameters": [
+                "",
+                "\"DialogWait\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "HideDialogBox",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -63161,7 +64264,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.46200000000000135
+        "zoomFactor": 0.6420000000000015
       },
       "objectsGroups": [
         {
@@ -63430,7 +64533,7 @@
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": ""
+                  "value": "100"
                 },
                 {
                   "name": "Speed",
@@ -63456,7 +64559,7 @@
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": ""
+                  "value": "100"
                 },
                 {
                   "name": "Speed",
@@ -63482,7 +64585,7 @@
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": ""
+                  "value": "100"
                 },
                 {
                   "name": "Speed",
@@ -63508,7 +64611,7 @@
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": ""
+                  "value": "100"
                 },
                 {
                   "name": "Speed",
@@ -64705,9 +65808,9 @@
           "name": "StatsText",
           "persistentUuid": "543f7d5f-b92a-4c7b-8f3b-9fa329e1a41f",
           "width": 0,
-          "x": 856,
-          "y": 56,
-          "zOrder": 29,
+          "x": 879,
+          "y": 227,
+          "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -66139,6 +67242,70 @@
           "x": 925,
           "y": 344,
           "zOrder": 105,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Inventory",
+          "locked": false,
+          "name": "NextLevel",
+          "persistentUuid": "34f38342-0244-45fd-aaf3-98b02905bcd3",
+          "width": 0,
+          "x": 760,
+          "y": 469,
+          "zOrder": 111,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "30ae3ee0-d5d4-41c6-a765-e3d8e7c93227",
+          "width": 0,
+          "x": -442.25860595703125,
+          "y": 164.7308807373047,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "HUD",
+          "locked": false,
+          "name": "DialogBox",
+          "persistentUuid": "358abe9d-84f1-437b-9083-2d48f7ab61d7",
+          "width": 0,
+          "x": 20,
+          "y": 750,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "HUD",
+          "locked": false,
+          "name": "DialogText",
+          "persistentUuid": "ecd7b9c9-fbd5-445b-9912-ef0741789f9c",
+          "width": 0,
+          "x": 47,
+          "y": 893,
+          "zOrder": 60,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -71104,6 +72271,45 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Fireball",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-1-26.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -71179,6 +72385,17 @@
                     "yes",
                     "GlobalVariable(MusicVolume)",
                     ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PauseTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"DialogWait\""
                   ],
                   "subInstructions": []
                 }
@@ -71402,22 +72619,314 @@
                 {
                   "disabled": false,
                   "folded": false,
-                  "type": "BuiltinCommonInstructions::Repeat",
-                  "repeatExpression": "Variable(NumberOfEnemiesToSpawn)",
-                  "conditions": [],
-                  "actions": [
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
                     {
                       "type": {
                         "inverted": false,
-                        "value": "ModVarScene"
+                        "value": "VarGlobal"
                       },
                       "parameters": [
-                        "RandomValue",
-                        "=",
-                        "RandomFloatInRange(0, 4)"
+                        "CurrentCaveLevel",
+                        "!=",
+                        "10"
                       ],
                       "subInstructions": []
                     },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "CurrentCaveLevel",
+                        "!=",
+                        "20"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "CurrentCaveLevel",
+                        "!=",
+                        "30"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "CurrentCaveLevel",
+                        "!=",
+                        "40"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "CurrentCaveLevel",
+                        "!=",
+                        "50"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Repeat",
+                      "repeatExpression": "Variable(NumberOfEnemiesToSpawn)",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarScene"
+                          },
+                          "parameters": [
+                            "RandomValue",
+                            "=",
+                            "RandomFloatInRange(0, 4)"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "Enemy",
+                            "Random(1504)",
+                            "Random(846)",
+                            ""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetAnimationName"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "VariableString(EnemyLevels[Variable(LevelGroup)][Variable(RandomValue)])+\"Left\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ChangeSprite"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "=",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarObjetTxt"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Type",
+                            "=",
+                            "VariableString(EnemyLevels[Variable(LevelGroup)][Variable(RandomValue)])"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarObjet"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Health",
+                            "=",
+                            "Variable(EnemyValues[Enemy.VariableString(Type)].Health)"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarObjet"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Speed",
+                            "=",
+                            "Variable(EnemyValues[Enemy.VariableString(Type)].Speed)"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarObjet"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Damage",
+                            "=",
+                            "Variable(EnemyValues[Enemy.VariableString(Type)].Damage)"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarObjet"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Debuff",
+                            "=",
+                            "Variable(EnemyValues[Enemy.VariableString(Type)].Debuff)"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": [
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "infiniteLoopWarning": true,
+                          "type": "BuiltinCommonInstructions::While",
+                          "whileConditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "BuiltinCommonInstructions::Or"
+                              },
+                              "parameters": [],
+                              "subInstructions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "CollisionNP"
+                                  },
+                                  "parameters": [
+                                    "Enemy",
+                                    "Background",
+                                    "",
+                                    "",
+                                    ""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "CollisionNP"
+                                  },
+                                  "parameters": [
+                                    "Enemy",
+                                    "SolidObject",
+                                    "",
+                                    "",
+                                    ""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "CollisionNP"
+                                  },
+                                  "parameters": [
+                                    "Enemy",
+                                    "NoMonsterSpawnArea",
+                                    "",
+                                    "",
+                                    ""
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ]
+                            }
+                          ],
+                          "conditions": [],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "MettreXY"
+                              },
+                              "parameters": [
+                                "Enemy",
+                                "=",
+                                "Random(1504)",
+                                "=",
+                                "Random(846)"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "CurrentCaveLevel",
+                        "=",
+                        "10"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "MaxCaveLevelReached",
+                        "=",
+                        "10"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
                     {
                       "type": {
                         "inverted": false,
@@ -71425,9 +72934,9 @@
                       },
                       "parameters": [
                         "",
-                        "Enemy",
-                        "Random(1504)",
-                        "Random(846)",
+                        "NPC",
+                        "533",
+                        "513",
                         ""
                       ],
                       "subInstructions": []
@@ -71435,21 +72944,34 @@
                     {
                       "type": {
                         "inverted": false,
-                        "value": "SetAnimationName"
+                        "value": "ChangeAnimation"
                       },
                       "parameters": [
-                        "Enemy",
-                        "VariableString(EnemyLevels[Variable(LevelGroup)][Variable(RandomValue)])+\"Left\""
+                        "NPC",
+                        "=",
+                        "5"
                       ],
                       "subInstructions": []
                     },
                     {
                       "type": {
                         "inverted": false,
-                        "value": "ChangeSprite"
+                        "value": "TextObject::String"
                       },
                       "parameters": [
-                        "Enemy",
+                        "DialogText",
+                        "=",
+                        "\"Thank you for saving me!\nCome by my seed shop for\nsome new seeds\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "SummonDialogBox",
                         "=",
                         "1"
                       ],
@@ -71458,148 +72980,465 @@
                     {
                       "type": {
                         "inverted": false,
-                        "value": "ModVarObjetTxt"
+                        "value": "ModVarGlobal"
                       },
                       "parameters": [
-                        "Enemy",
-                        "Type",
+                        "HideDialogBox",
                         "=",
-                        "VariableString(EnemyLevels[Variable(LevelGroup)][Variable(RandomValue)])"
+                        "0"
                       ],
                       "subInstructions": []
                     },
                     {
                       "type": {
                         "inverted": false,
-                        "value": "ModVarObjet"
+                        "value": "UnPauseTimer"
                       },
                       "parameters": [
-                        "Enemy",
-                        "Health",
-                        "=",
-                        "Variable(EnemyValues[Enemy.VariableString(Type)].Health)"
+                        "",
+                        "\"DialogWait\""
                       ],
                       "subInstructions": []
                     },
                     {
                       "type": {
                         "inverted": false,
-                        "value": "ModVarObjet"
+                        "value": "ResetTimer"
                       },
                       "parameters": [
-                        "Enemy",
-                        "Speed",
-                        "=",
-                        "Variable(EnemyValues[Enemy.VariableString(Type)].Speed)"
+                        "",
+                        "\"DialogWait\""
                       ],
                       "subInstructions": []
                     },
                     {
                       "type": {
                         "inverted": false,
-                        "value": "ModVarObjet"
+                        "value": "ModVarScene"
                       },
                       "parameters": [
-                        "Enemy",
-                        "Damage",
+                        "TempSummon",
                         "=",
-                        "Variable(EnemyValues[Enemy.VariableString(Type)].Damage)"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ModVarObjet"
-                      },
-                      "parameters": [
-                        "Enemy",
-                        "Debuff",
-                        "=",
-                        "Variable(EnemyValues[Enemy.VariableString(Type)].Debuff)"
+                        "1"
                       ],
                       "subInstructions": []
                     }
                   ],
-                  "events": [
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
                     {
-                      "disabled": false,
-                      "folded": false,
-                      "infiniteLoopWarning": true,
-                      "type": "BuiltinCommonInstructions::While",
-                      "whileConditions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "BuiltinCommonInstructions::Or"
-                          },
-                          "parameters": [],
-                          "subInstructions": [
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "CollisionNP"
-                              },
-                              "parameters": [
-                                "Enemy",
-                                "Background",
-                                "",
-                                "",
-                                ""
-                              ],
-                              "subInstructions": []
-                            },
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "CollisionNP"
-                              },
-                              "parameters": [
-                                "Enemy",
-                                "SolidObject",
-                                "",
-                                "",
-                                ""
-                              ],
-                              "subInstructions": []
-                            },
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "CollisionNP"
-                              },
-                              "parameters": [
-                                "Enemy",
-                                "NoMonsterSpawnArea",
-                                "",
-                                "",
-                                ""
-                              ],
-                              "subInstructions": []
-                            }
-                          ]
-                        }
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "CurrentCaveLevel",
+                        "=",
+                        "20"
                       ],
-                      "conditions": [],
-                      "actions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "MettreXY"
-                          },
-                          "parameters": [
-                            "Enemy",
-                            "=",
-                            "Random(1504)",
-                            "=",
-                            "Random(846)"
-                          ],
-                          "subInstructions": []
-                        }
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "MaxCaveLevelReached",
+                        "=",
+                        "20"
                       ],
-                      "events": []
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
                     }
-                  ]
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "NPC",
+                        "533",
+                        "513",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "NPC",
+                        "=",
+                        "2"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::String"
+                      },
+                      "parameters": [
+                        "DialogText",
+                        "=",
+                        "\"Oh nice work lad!\nThis means I can get \nback to work in my\ngun shop!\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "SummonDialogBox",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "HideDialogBox",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "UnPauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "TempSummon",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "CurrentCaveLevel",
+                        "=",
+                        "30"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "MaxCaveLevelReached",
+                        "=",
+                        "30"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "NPC",
+                        "533",
+                        "513",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "NPC",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::String"
+                      },
+                      "parameters": [
+                        "DialogText",
+                        "=",
+                        "\"Thank you so much!\nI thought I would be\nstuck forever\nCome by my hut to buy\npotions\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "SummonDialogBox",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "HideDialogBox",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "UnPauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "TempSummon",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "CurrentCaveLevel",
+                        "=",
+                        "50"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "MaxCaveLevelReached",
+                        "=",
+                        "50"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "NPC",
+                        "533",
+                        "513",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeAnimation"
+                      },
+                      "parameters": [
+                        "NPC",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::String"
+                      },
+                      "parameters": [
+                        "DialogText",
+                        "=",
+                        "\"Hmmm, good work\nCome find my place and\nill show you some \nspecial merchandise\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "SummonDialogBox",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "HideDialogBox",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "UnPauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "TempSummon",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
                 }
               ]
             }
@@ -71625,16 +73464,37 @@
               "conditions": [
                 {
                   "type": {
-                    "inverted": true,
-                    "value": "Distance"
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Or"
                   },
-                  "parameters": [
-                    "Player",
-                    "Enemy",
-                    "300",
-                    ""
-                  ],
-                  "subInstructions": []
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Distance"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Enemy",
+                        "300",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "MiscCheats.MonstersIgnorePlayer",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ]
                 }
               ],
               "actions": [
@@ -72125,12 +73985,51 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "KillEnemy.ogg",
+                    "0",
+                    "",
+                    "GlobalVariable(SoundVolume)",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "ModVarGlobal"
                   },
                   "parameters": [
                     "Player.Coins",
                     "+",
                     "ToNumber(SubStr(Enemy.VariableString(Type), 6, 2))*10*GlobalVariable(Player.EnemyProfitMultiplier)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "TotalCoinsGained",
+                    "+",
+                    "ToNumber(SubStr(Enemy.VariableString(Type), 6, 2))*10*GlobalVariable(Player.EnemyProfitMultiplier)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "EnemiesKilled",
+                    "+",
+                    "1"
                   ],
                   "subInstructions": []
                 },
@@ -72146,7 +74045,467 @@
                   "subInstructions": []
                 }
               ],
-              "events": []
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "GlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Objectives[GlobalVariable(ObjectivesStructure.Kill1Enemy)].Completed",
+                        "False"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "EnemiesKilled",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetGlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Objectives[GlobalVariable(ObjectivesStructure.Kill1Enemy)].Completed",
+                        "True"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "child.Completed",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarSceneTxt"
+                      },
+                      "parameters": [
+                        "child.Text",
+                        "=",
+                        "\"Kill 10 Enemies\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "child.Active",
+                        "False"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarSceneTxt"
+                      },
+                      "parameters": [
+                        "child.Type",
+                        "=",
+                        "\"Fight\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "GlobalVariablePush"
+                      },
+                      "parameters": [
+                        "Objectives",
+                        "child"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetGlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "ObjectivesReadyToUpdate",
+                        "True"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "ObjectivesStructure.Kill10Enemy",
+                        "=",
+                        "GlobalVariableChildCount(Objectives)-1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "GlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Objectives[GlobalVariable(ObjectivesStructure.Kill10Enemy)].Completed",
+                        "False"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "EnemiesKilled",
+                        "=",
+                        "10"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetGlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Objectives[GlobalVariable(ObjectivesStructure.Kill10Enemy)].Completed",
+                        "True"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "child.Completed",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarSceneTxt"
+                      },
+                      "parameters": [
+                        "child.Text",
+                        "=",
+                        "\"Kill 100 Enemies\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "child.Active",
+                        "False"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarSceneTxt"
+                      },
+                      "parameters": [
+                        "child.Type",
+                        "=",
+                        "\"Fight\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "GlobalVariablePush"
+                      },
+                      "parameters": [
+                        "Objectives",
+                        "child"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetGlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "ObjectivesReadyToUpdate",
+                        "True"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "ObjectivesStructure.Kill100Enemy",
+                        "=",
+                        "GlobalVariableChildCount(Objectives)-1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "GlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Objectives[GlobalVariable(ObjectivesStructure.Kill100Enemy)].Completed",
+                        "False"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "EnemiesKilled",
+                        "=",
+                        "100"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetGlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Objectives[GlobalVariable(ObjectivesStructure.Kill100Enemy)].Completed",
+                        "True"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "child.Completed",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarSceneTxt"
+                      },
+                      "parameters": [
+                        "child.Text",
+                        "=",
+                        "\"Kill 1000 Enemies\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "child.Active",
+                        "False"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarSceneTxt"
+                      },
+                      "parameters": [
+                        "child.Type",
+                        "=",
+                        "\"Fight\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "GlobalVariablePush"
+                      },
+                      "parameters": [
+                        "Objectives",
+                        "child"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetGlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "ObjectivesReadyToUpdate",
+                        "True"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "ObjectivesStructure.Kill1000Enemy",
+                        "=",
+                        "GlobalVariableChildCount(Objectives)-1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "GlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Objectives[GlobalVariable(ObjectivesStructure.Kill1000Enemy)].Completed",
+                        "False"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "EnemiesKilled",
+                        "=",
+                        "1000"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetGlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Objectives[GlobalVariable(ObjectivesStructure.Kill100Enemy)].Completed",
+                        "True"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetGlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "ObjectivesReadyToUpdate",
+                        "True"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
             },
             {
               "disabled": false,
@@ -72222,6 +74581,95 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "InventoryIsShown",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "EnableCheatMenu",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "InventoryTab",
+                "=",
+                "4"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "NextLevel",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisBouton"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Enemy",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         },
         {
           "colorB": 228,
@@ -72633,9 +75081,13 @@
             {
               "type": {
                 "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
+                "value": "NbObjet"
               },
-              "parameters": [],
+              "parameters": [
+                "CaveHole",
+                "=",
+                "0"
+              ],
               "subInstructions": []
             }
           ],
@@ -73303,9 +75755,9 @@
           "name": "StatsText",
           "persistentUuid": "965bfe0a-43b1-4333-81a4-37693f38ed90",
           "width": 0,
-          "x": 856,
-          "y": 56,
-          "zOrder": 29,
+          "x": 932,
+          "y": 219,
+          "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -76444,9 +78896,9 @@
           "name": "StatsText",
           "persistentUuid": "c7b75392-508e-42b4-9a76-a445f3dfa255",
           "width": 0,
-          "x": 856,
-          "y": 56,
-          "zOrder": 29,
+          "x": 923,
+          "y": 228,
+          "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -77269,7 +79721,7 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "NPC1",
+          "name": "NPC",
           "persistentUuid": "6fb6f78c-2f94-4e5d-b8ab-548ad314d963",
           "width": 0,
           "x": 394,
@@ -78595,96 +81047,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "NPC1",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "NewObject2",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.07999999821186066,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "NewObject2-1-28.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "NewObject2-2-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "NewObject2-3-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "NewObject2-4-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         }
       ],
       "events": [
@@ -79424,9 +81786,9 @@
           "name": "StatsText",
           "persistentUuid": "a18d7bc3-caa5-4584-a6ec-8f04b119756b",
           "width": 0,
-          "x": 856,
-          "y": 56,
-          "zOrder": 29,
+          "x": 935,
+          "y": 226,
+          "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -82128,6 +84490,445 @@
                 }
               ],
               "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "StrEqual"
+                  },
+                  "parameters": [
+                    "CurrentSceneName()",
+                    "=",
+                    "\"Outside Caves\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Egal"
+                  },
+                  "parameters": [
+                    "GlobalVariableChildCount(Objectives)",
+                    "!=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Objectives[GlobalVariable(ObjectivesStructure.ExploreCaves)].Completed",
+                    "False"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Objectives[GlobalVariable(ObjectivesStructure.ExploreCaves)].Completed",
+                    "True"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetSceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "child.Completed",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarSceneTxt"
+                  },
+                  "parameters": [
+                    "child.Text",
+                    "=",
+                    "\"Kill 1 Enemy\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetSceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "child.Active",
+                    "False"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarSceneTxt"
+                  },
+                  "parameters": [
+                    "child.Type",
+                    "=",
+                    "\"Fight\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "GlobalVariablePush"
+                  },
+                  "parameters": [
+                    "Objectives",
+                    "child"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "ObjectivesReadyToUpdate",
+                    "True"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "ObjectivesStructure.Kill1Enemy",
+                    "=",
+                    "GlobalVariableChildCount(Objectives)-1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AjoutObjConcern"
+                      },
+                      "parameters": [
+                        "",
+                        "InventorySlot"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "AnimationName"
+                          },
+                          "parameters": [
+                            "InventorySlot",
+                            "\"Sword1\""
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarGlobal"
+                          },
+                          "parameters": [
+                            "Inventory[\"Slot\"+InventorySlot.VariableString(Slot)].Quantity",
+                            "+",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarGlobal"
+                          },
+                          "parameters": [
+                            "ReadyToUpdate",
+                            "=",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarGlobal"
+                          },
+                          "parameters": [
+                            "ItemAdded",
+                            "=",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    },
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjet"
+                          },
+                          "parameters": [
+                            "InventorySlot",
+                            "Slot",
+                            "=",
+                            "15"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarGlobal"
+                          },
+                          "parameters": [
+                            "AllSlotsChecked",
+                            "=",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    }
+                  ]
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::And"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarGlobal"
+                          },
+                          "parameters": [
+                            "AllSlotsChecked",
+                            "=",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarGlobal"
+                          },
+                          "parameters": [
+                            "ItemAdded",
+                            "=",
+                            "0"
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "AllSlotsChecked",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": [
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "AjoutObjConcern"
+                          },
+                          "parameters": [
+                            "",
+                            "InventorySlot"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "AnimationName"
+                              },
+                              "parameters": [
+                                "InventorySlot",
+                                "\"Empty\""
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ModVarGlobalTxt"
+                              },
+                              "parameters": [
+                                "Inventory[\"Slot\"+InventorySlot.VariableString(Slot)].Item",
+                                "=",
+                                "\"Sword1\""
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ModVarGlobal"
+                              },
+                              "parameters": [
+                                "Inventory[\"Slot\"+InventorySlot.VariableString(Slot)].Quantity",
+                                "+",
+                                "1"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ModVarGlobal"
+                              },
+                              "parameters": [
+                                "ItemAdded",
+                                "=",
+                                "1"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ModVarGlobal"
+                              },
+                              "parameters": [
+                                "ReadyToUpdate",
+                                "=",
+                                "1"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        },
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarObjet"
+                              },
+                              "parameters": [
+                                "InventorySlot",
+                                "Slot",
+                                "=",
+                                "15"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ModVarGlobal"
+                              },
+                              "parameters": [
+                                "AllSlotsChecked",
+                                "=",
+                                "0"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
@@ -82245,7 +85046,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.580000000000015
+        "zoomFactor": 1.0400000000000154
       },
       "objectsGroups": [
         {
@@ -82600,9 +85401,9 @@
           "name": "StatsText",
           "persistentUuid": "a9fd67b1-efa8-46e8-869a-0d3e8859473e",
           "width": 0,
-          "x": 856,
-          "y": 56,
-          "zOrder": 29,
+          "x": 898,
+          "y": 220,
+          "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -83271,14 +86072,14 @@
           "angle": 0,
           "customSize": true,
           "height": 30,
-          "layer": "CollisionLayer",
+          "layer": "Furniture1",
           "locked": false,
           "name": "ShopInteraction",
           "persistentUuid": "cc90af3d-ea95-4af2-8a59-b7a157696783",
           "width": 92,
           "x": 401,
           "y": 496,
-          "zOrder": 57,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -83941,14 +86742,14 @@
           "angle": 0,
           "customSize": true,
           "height": 30,
-          "layer": "CollisionLayer",
+          "layer": "Furniture2",
           "locked": false,
           "name": "ShopInteraction",
           "persistentUuid": "f122d026-998a-4613-a86a-1df43c5bf12d",
           "width": 92,
           "x": 652,
           "y": 401,
-          "zOrder": 57,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -84195,14 +86996,14 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Furniture4",
           "locked": false,
           "name": "Desk",
           "persistentUuid": "2ea20a90-c1da-4715-a2bc-9d691b70711b",
           "width": 0,
           "x": 405,
           "y": 258,
-          "zOrder": 64,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -84217,14 +87018,14 @@
           "angle": 0,
           "customSize": true,
           "height": 30,
-          "layer": "CollisionLayer",
+          "layer": "Furniture4",
           "locked": false,
           "name": "ShopInteraction",
           "persistentUuid": "5a77f82e-00e5-4de6-921b-241827d8b58b",
           "width": 92,
           "x": 406,
           "y": 300,
-          "zOrder": 57,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -84239,14 +87040,14 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Furniture3",
           "locked": false,
           "name": "Desk",
           "persistentUuid": "03876758-ac4c-4c5a-b474-376d57359ba9",
           "width": 0,
           "x": 646,
           "y": 262,
-          "zOrder": 65,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -84261,14 +87062,14 @@
           "angle": 0,
           "customSize": true,
           "height": 41,
-          "layer": "CollisionLayer",
+          "layer": "Furniture3",
           "locked": false,
           "name": "ShopInteraction",
           "persistentUuid": "219ae72a-57c4-43e3-8194-a2f7931329cb",
           "width": 94,
           "x": 647,
           "y": 302,
-          "zOrder": 66,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -84283,14 +87084,14 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Furniture5",
           "locked": false,
           "name": "Desk",
           "persistentUuid": "e314cba6-fd64-40d9-85cc-d1c3ebbe2aa3",
           "width": 0,
           "x": 404,
           "y": 348,
-          "zOrder": 67,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -84305,14 +87106,14 @@
           "angle": 0,
           "customSize": true,
           "height": 36,
-          "layer": "",
+          "layer": "Furniture5",
           "locked": false,
           "name": "ShopInteraction",
           "persistentUuid": "45cd7c24-6b0f-40c4-9a51-bb2e4623b715",
           "width": 91,
           "x": 406,
           "y": 391,
-          "zOrder": 68,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -84327,14 +87128,14 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "Furniture6",
           "locked": false,
           "name": "Desk",
           "persistentUuid": "794553a4-be5d-4dad-9441-7545ac417430",
           "width": 0,
           "x": 655,
           "y": 443,
-          "zOrder": 69,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -84349,14 +87150,14 @@
           "angle": 0,
           "customSize": true,
           "height": 35,
-          "layer": "",
+          "layer": "Furniture6",
           "locked": false,
           "name": "ShopInteraction",
           "persistentUuid": "cdf53e7d-3b94-458d-bb69-883ebf1da338",
           "width": 93,
           "x": 656,
           "y": 496,
-          "zOrder": 70,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -85221,6 +88022,127 @@
           "y": 295,
           "zOrder": 105,
           "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Furniture6",
+          "locked": false,
+          "name": "NPC",
+          "persistentUuid": "6fc2470e-dbf0-42e3-b85f-8a1f8c7d5f0f",
+          "width": 0,
+          "x": 673,
+          "y": 404,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Furniture4",
+          "locked": false,
+          "name": "NPC",
+          "persistentUuid": "12d5daa1-7849-4648-921c-cf4afd653347",
+          "width": 0,
+          "x": 426,
+          "y": 223,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Furniture3",
+          "locked": false,
+          "name": "NPC",
+          "persistentUuid": "e101b33c-5adf-4156-8369-b48e440b6c76",
+          "width": 0,
+          "x": 668,
+          "y": 226,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Furniture2",
+          "locked": false,
+          "name": "NPC",
+          "persistentUuid": "2d107f66-a8da-4f59-ae10-1ce912e001f4",
+          "width": 0,
+          "x": 672,
+          "y": 324,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Furniture1",
+          "locked": false,
+          "name": "NPC",
+          "persistentUuid": "50505d6f-e05d-4738-b150-21e32e6bc428",
+          "width": 0,
+          "x": 422,
+          "y": 412,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 4
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Furniture5",
+          "locked": false,
+          "name": "NPC",
+          "persistentUuid": "980939f3-9da1-495c-a928-dc0595c1791a",
+          "width": 0,
+          "x": 426,
+          "y": 315,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 5
+            }
+          ],
           "stringProperties": [],
           "initialVariables": []
         }
@@ -87910,7 +90832,7 @@
                   "parameters": [
                     "",
                     "1.3",
-                    "\"Furniture1\"",
+                    "\"Furniture\" + GlobalVariableString(CurrentBuilding)",
                     ""
                   ],
                   "subInstructions": []
@@ -87918,13 +90840,87 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "ZoomCamera"
+                    "value": "HideLayer"
                   },
                   "parameters": [
                     "",
-                    "1.3",
-                    "\"Furniture2\"",
-                    ""
+                    "\"Furniture1\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Furniture2\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Furniture3\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Furniture4\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Furniture5\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Furniture6\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ShowLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Furniture\"+GlobalVariableString(CurrentBuilding)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "NPC"
                   ],
                   "subInstructions": []
                 }
@@ -87933,31 +90929,183 @@
                 {
                   "disabled": false,
                   "folded": false,
-                  "type": "BuiltinCommonInstructions::ForEach",
-                  "object": "Desk",
+                  "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
                       "type": {
                         "inverted": false,
-                        "value": "VarObjet"
+                        "value": "BuiltinCommonInstructions::Or"
                       },
-                      "parameters": [
-                        "Desk",
-                        "Number",
-                        "!=",
-                        "GlobalVariable(CurrentBuilding)"
-                      ],
-                      "subInstructions": []
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarGlobal"
+                              },
+                              "parameters": [
+                                "CurrentBuilding",
+                                "=",
+                                "6"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarGlobal"
+                              },
+                              "parameters": [
+                                "MaxCaveLevelReached",
+                                ">=",
+                                "50"
+                              ],
+                              "subInstructions": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarGlobal"
+                              },
+                              "parameters": [
+                                "CurrentBuilding",
+                                "=",
+                                "4"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarGlobal"
+                              },
+                              "parameters": [
+                                "MaxCaveLevelReached",
+                                ">=",
+                                "30"
+                              ],
+                              "subInstructions": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarGlobal"
+                              },
+                              "parameters": [
+                                "CurrentBuilding",
+                                "=",
+                                "3"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarGlobal"
+                              },
+                              "parameters": [
+                                "MaxCaveLevelReached",
+                                ">=",
+                                "20"
+                              ],
+                              "subInstructions": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarGlobal"
+                              },
+                              "parameters": [
+                                "CurrentBuilding",
+                                "=",
+                                "5"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarGlobal"
+                              },
+                              "parameters": [
+                                "MaxCaveLevelReached",
+                                ">=",
+                                "10"
+                              ],
+                              "subInstructions": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarGlobal"
+                          },
+                          "parameters": [
+                            "CurrentBuilding",
+                            "=",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarGlobal"
+                          },
+                          "parameters": [
+                            "CurrentBuilding",
+                            "=",
+                            "2"
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
                     }
                   ],
                   "actions": [
                     {
                       "type": {
                         "inverted": false,
-                        "value": "Cache"
+                        "value": "Montre"
                       },
                       "parameters": [
-                        "Desk"
+                        "NPC",
+                        ""
                       ],
                       "subInstructions": []
                     }
@@ -88101,21 +91249,202 @@
                   "subInstructions": []
                 }
               ],
-              "actions": [
+              "actions": [],
+              "events": [
                 {
-                  "type": {
-                    "inverted": false,
-                    "value": "ModVarGlobal"
-                  },
-                  "parameters": [
-                    "ShopIsShown",
-                    "=",
-                    "1-GlobalVariable(ShopIsShown)"
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarObjet"
+                              },
+                              "parameters": [
+                                "ShopInteraction",
+                                "ShopNumber",
+                                "=",
+                                "6"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarGlobal"
+                              },
+                              "parameters": [
+                                "MaxCaveLevelReached",
+                                ">=",
+                                "50"
+                              ],
+                              "subInstructions": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarObjet"
+                              },
+                              "parameters": [
+                                "ShopInteraction",
+                                "ShopNumber",
+                                "=",
+                                "4"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarGlobal"
+                              },
+                              "parameters": [
+                                "MaxCaveLevelReached",
+                                ">=",
+                                "30"
+                              ],
+                              "subInstructions": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarObjet"
+                              },
+                              "parameters": [
+                                "ShopInteraction",
+                                "ShopNumber",
+                                "=",
+                                "3"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarGlobal"
+                              },
+                              "parameters": [
+                                "MaxCaveLevelReached",
+                                ">=",
+                                "20"
+                              ],
+                              "subInstructions": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarObjet"
+                              },
+                              "parameters": [
+                                "ShopInteraction",
+                                "ShopNumber",
+                                "=",
+                                "5"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarGlobal"
+                              },
+                              "parameters": [
+                                "MaxCaveLevelReached",
+                                ">=",
+                                "10"
+                              ],
+                              "subInstructions": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjet"
+                          },
+                          "parameters": [
+                            "ShopInteraction",
+                            "ShopNumber",
+                            "=",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjet"
+                          },
+                          "parameters": [
+                            "ShopInteraction",
+                            "ShopNumber",
+                            "=",
+                            "2"
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
+                    }
                   ],
-                  "subInstructions": []
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "ShopIsShown",
+                        "=",
+                        "1-GlobalVariable(ShopIsShown)"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
                 }
-              ],
-              "events": []
+              ]
             },
             {
               "disabled": false,
@@ -88673,6 +92002,18 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "TotalCoinsSpent",
+                    "+",
+                    "ShopBackground.Variable(Shops[\"Shop\"+ShopInteraction.VariableString(ShopNumber)][\"Item\"+ShopButton.VariableString(ButtonNumber)].Price)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "ModVarObjet"
                   },
                   "parameters": [
@@ -89137,6 +92478,18 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "TotalCoinsSpent",
+                    "+",
+                    "ShopBackground.Variable(Shops[\"Shop\"+ShopInteraction.VariableString(ShopNumber)][\"Item\"+ShopButton.VariableString(ButtonNumber)].Price)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "ModVarObjet"
                   },
                   "parameters": [
@@ -89252,23 +92605,12 @@
                     {
                       "type": {
                         "inverted": false,
-                        "value": "SetGlobalVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "ObjectivesReadyToUpdate",
-                        "True"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
                         "value": "ModVarSceneTxt"
                       },
                       "parameters": [
                         "child.Text",
                         "=",
-                        "\"Plant the seeds\""
+                        "\"Plant and harvest 1 seed\""
                       ],
                       "subInstructions": []
                     },
@@ -89309,10 +92651,21 @@
                     {
                       "type": {
                         "inverted": false,
+                        "value": "SetGlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "ObjectivesReadyToUpdate",
+                        "True"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
                         "value": "ModVarGlobal"
                       },
                       "parameters": [
-                        "ObjectivesStructure.PlantSeeds",
+                        "ObjectivesStructure.Plant1Seed",
                         "=",
                         "GlobalVariableChildCount(Objectives)-1"
                       ],
@@ -89780,6 +93133,50 @@
         {
           "ambientLightColorB": 1702453580,
           "ambientLightColorG": 6022704,
+          "ambientLightColorR": 67108864,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Furniture3",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 1702453580,
+          "ambientLightColorG": 6022704,
+          "ambientLightColorR": 67108864,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Furniture4",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 1702453580,
+          "ambientLightColorG": 6022704,
+          "ambientLightColorR": 67108864,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Furniture5",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 1702453580,
+          "ambientLightColorG": 1852994886,
+          "ambientLightColorR": 67108864,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Furniture6",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 1702453580,
+          "ambientLightColorG": 6022704,
           "ambientLightColorR": 100663296,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
@@ -89818,6 +93215,17 @@
           "isLightingLayer": false,
           "name": "ShopUI",
           "visibility": false,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 1702453580,
+          "ambientLightColorG": 6022704,
+          "ambientLightColorR": 67108864,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Layer",
+          "visibility": true,
           "cameras": [],
           "effects": []
         }
@@ -90402,9 +93810,9 @@
           "name": "StatsText",
           "persistentUuid": "b68425fb-0b2e-4b48-acd8-bc3f865f0e01",
           "width": 0,
-          "x": 856,
-          "y": 56,
-          "zOrder": 29,
+          "x": 919,
+          "y": 225,
+          "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -92825,7 +96233,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "Black",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": []
         }
