@@ -9434,6 +9434,15 @@
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject2-1-53.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject2-1-53.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -16806,6 +16815,65 @@
           ]
         }
       ]
+    },
+    {
+      "name": "RestockShopCheat",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewObject2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"New Animation\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":32,\\\"width\\\":32,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAWElEQVRYR2NkQAIWyvr/kfm0Yp+4e5ERZjacARIYmQ5A9vXUJDNahTqKudnzTsH5jKMOGA2B0RAYDYHREBgNgdEQGA2B0RAYDYHREBgNgQEPgdHO6UCHAADkIo4LiDLJXAAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAjklEQVRYR+2VUQqAMAxDu/sfWik4kNG5ZGUUIfvxw5i+PWU2K16teL4JQAZkQAZ+Y+AyO3NoMQaOQLAAzK8D6oZCr6ndAnpdAu8ALEufANQNhYaJvntf/mxkot+DQDMAXwPgXjgYWJgZoDqp8PAxzgxQnVQYeqlkKAMwHkxbB1UGgNxrHBeADMiADJQbuAGudhYhvzgu9wAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 3\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAwUlEQVRYR+1VWw6AMAhz9z+0Zh8zZA/aKjpN5o+Jo6UWBmmb/KTJ+bclYDlw1YF90LwynwooiUc4dN7oZgWoxHQ8IyCTMXG9qkAsQwxJnGEGsUgAJCAmqcvxaQERf18MGnIhBwiH3ZCSuH6fIE9AlAN2aDX50EDJSiNckkoAbbtbF4t/owQ5n+SAFRjRB/+dA/AOE70AHWQ6HJI8uQusC8qVDF3HdVN6QujEhZQpwWjP977LfDKAaDwpZAlYDkx34ACcJSghoJI8aQAAAABJRU5ErkJggg==\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"paths\":[\"D:\\\\Arron\\\\Github\\\\SimpleRPGA2\\\\NewObject2-1-53.png\"],\"name\":\"NewObject2\",\"singleFrame\":false}}",
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NewObject2-1-53.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bold": false,
+      "italic": false,
+      "name": "FPS",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "FPS: ",
+      "font": "",
+      "characterSize": 20,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
     }
   ],
   "objectsGroups": [
@@ -16854,8 +16922,15 @@
         },
         {
           "name": "NextLevel"
+        },
+        {
+          "name": "RestockShopCheat"
         }
       ]
+    },
+    {
+      "name": "AllObjects",
+      "objects": []
     }
   ],
   "variables": [
@@ -37932,6 +38007,38 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Inventory",
+          "locked": false,
+          "name": "RestockShopCheat",
+          "persistentUuid": "9cd02697-2089-4083-9459-8501203f38ab",
+          "width": 0,
+          "x": 838.4866943359375,
+          "y": 451.54058837890625,
+          "zOrder": 111,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "HUD",
+          "locked": false,
+          "name": "FPS",
+          "persistentUuid": "21d4e7c9-bb3c-4429-9d14-e6f0134342d1",
+          "width": 0,
+          "x": 525,
+          "y": 89,
+          "zOrder": 112,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -41325,6 +41432,52 @@
                                     "GlobalVariableChildCount(Objectives)-1"
                                   ],
                                   "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "TextObject::String"
+                                  },
+                                  "parameters": [
+                                    "DialogText",
+                                    "=",
+                                    "\"New Objective:\nPlant and harvest 10 seeds\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarGlobal"
+                                  },
+                                  "parameters": [
+                                    "SummonDialogBox",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "UnPauseTimer"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "\"DialogWait\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ResetTimer"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "\"DialogWait\""
+                                  ],
+                                  "subInstructions": []
                                 }
                               ],
                               "events": []
@@ -41457,6 +41610,52 @@
                                     "GlobalVariableChildCount(Objectives)-1"
                                   ],
                                   "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarGlobal"
+                                  },
+                                  "parameters": [
+                                    "SummonDialogBox",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "TextObject::String"
+                                  },
+                                  "parameters": [
+                                    "DialogText",
+                                    "=",
+                                    "\"New Objective:\nPlant and harvest 100 seeds\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "UnPauseTimer"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "\"DialogWait\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ResetTimer"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "\"DialogWait\""
+                                  ],
+                                  "subInstructions": []
                                 }
                               ],
                               "events": []
@@ -41587,6 +41786,52 @@
                                     "ObjectivesStructure.Plant1000Seeds",
                                     "=",
                                     "GlobalVariableChildCount(Objectives)-1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarGlobal"
+                                  },
+                                  "parameters": [
+                                    "SummonDialogBox",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "TextObject::String"
+                                  },
+                                  "parameters": [
+                                    "DialogText",
+                                    "=",
+                                    "\"New Objective:\nPlant and harvest 1000 seeds\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "UnPauseTimer"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "\"DialogWait\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ResetTimer"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "\"DialogWait\""
                                   ],
                                   "subInstructions": []
                                 }
@@ -42209,7 +42454,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.8600000000000205
+        "zoomFactor": 0.5600000000000204
       },
       "objectsGroups": [
         {
@@ -47031,6 +47276,38 @@
               "value": "Invis"
             }
           ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Inventory",
+          "locked": false,
+          "name": "RestockShopCheat",
+          "persistentUuid": "fcea078c-1f5a-4991-9dd3-bfbf955ed6e6",
+          "width": 0,
+          "x": 807,
+          "y": 548,
+          "zOrder": 111,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "HUD",
+          "locked": false,
+          "name": "FPS",
+          "persistentUuid": "1a916d1c-bbc0-4ff9-8df7-bca188bd1594",
+          "width": 0,
+          "x": 10,
+          "y": 60,
+          "zOrder": 112,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -50286,6 +50563,20 @@
                     "\"\""
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "FPS",
+                    "=",
+                    "10",
+                    "=",
+                    "60"
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": [
@@ -50663,6 +50954,52 @@
                         "GlobalVariableChildCount(Objectives)-1"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::String"
+                      },
+                      "parameters": [
+                        "DialogText",
+                        "=",
+                        "\"New Objective:\nBuy some seeds\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "SummonDialogBox",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "UnPauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
                     }
                   ],
                   "events": []
@@ -50870,6 +51207,53 @@
                     "",
                     "",
                     ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "InventoryIsShown",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Sleeping",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "FPS",
+                    "=",
+                    "ToString(round(1/TimeDelta()))"
                   ],
                   "subInstructions": []
                 }
@@ -55093,11 +55477,25 @@
                         "value": "MettreXY"
                       },
                       "parameters": [
-                        "NextLevel",
+                        "RestockShopCheat",
                         "=",
                         "ObjectivesBackground.PointX(\"CheatsEffects\")",
                         "=",
                         "ObjectivesBackground.PointY(\"CheatsEffects\") + 63"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "NextLevel",
+                        "=",
+                        "ObjectivesBackground.PointX(\"CheatsEffects\")",
+                        "=",
+                        "ObjectivesBackground.PointY(\"CheatsEffects\") + 126"
                       ],
                       "subInstructions": []
                     }
@@ -55734,6 +56132,60 @@
                           ]
                         }
                       ]
+                    },
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SourisSurObjet"
+                          },
+                          "parameters": [
+                            "RestockShopCheat",
+                            "",
+                            "",
+                            ""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "MouseButtonPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Left"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": [],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarGlobal"
+                          },
+                          "parameters": [
+                            "MiscCheats.ShopRestock",
+                            "=",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
                     }
                   ]
                 },
@@ -55830,7 +56282,7 @@
                       "parameters": [
                         "StatsText",
                         "=",
-                        "\"Player Stats\nDeaths: \" + GlobalVariableString(Deaths) + \"\nEnemies Killed: \" + GlobalVariableString(EnemiesKilled) + \"\nCrops Harvested: \" + GlobalVariableString(CropsHarvested) + \"\nMax Cave Level: \" + GlobalVariableString(MaxCaveLevelReached) + \"\nTotal Coins Gained: \" + GlobalVariableString(TotalCoinsGained) + \"\nTotal Coins Spent: \" + GlobalVariableString(TotalCoinsSpend) + \"\nGame Stats\nFPS: \""
+                        "\"Player Stats\nDeaths: \" + GlobalVariableString(Deaths) + \"\nEnemies Killed: \" + GlobalVariableString(EnemiesKilled) + \"\nCrops Harvested: \" + GlobalVariableString(CropsHarvested) + \"\nMax Cave Level: \" + GlobalVariableString(MaxCaveLevelReached) + \"\nTotal Coins Gained: \" + GlobalVariableString(TotalCoinsGained) + \"\nTotal Coins Spent: \" + GlobalVariableString(TotalCoinsSpend) + \"\nGame Stats\nObject Count: \" + ToString(Count(AllObjects))"
                       ],
                       "subInstructions": []
                     },
@@ -60580,7 +61032,7 @@
                     "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "HideDialogBox",
+                    "TutorialCompletionList[5]",
                     "=",
                     "1"
                   ],
@@ -60589,12 +61041,34 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "ModVarGlobal"
+                    "value": "ResetTimer"
                   },
                   "parameters": [
-                    "TutorialCompletionList[5]",
+                    "",
+                    "\"DialogWait\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "UnPauseTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"DialogWait\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "DialogBox",
                     "=",
-                    "1"
+                    "751"
                   ],
                   "subInstructions": []
                 }
@@ -60731,6 +61205,18 @@
                     "0"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "DialogBox",
+                    "=",
+                    "750"
+                  ],
+                  "subInstructions": []
                 }
               ],
               "actions": [
@@ -60764,7 +61250,7 @@
                     "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "HideDialogBox",
+                    "TutorialCompletionList[6]",
                     "=",
                     "1"
                   ],
@@ -60773,12 +61259,22 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "ModVarGlobal"
+                    "value": "ResetTimer"
                   },
                   "parameters": [
-                    "TutorialCompletionList[6]",
-                    "=",
-                    "1"
+                    "",
+                    "\"DialogWait\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "UnPauseTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"DialogWait\""
                   ],
                   "subInstructions": []
                 }
@@ -60936,7 +61432,7 @@
                   },
                   "parameters": [
                     "DialogBox",
-                    "=",
+                    ">=",
                     "750"
                   ],
                   "subInstructions": []
@@ -67306,6 +67802,38 @@
           "x": 47,
           "y": 893,
           "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Inventory",
+          "locked": false,
+          "name": "RestockShopCheat",
+          "persistentUuid": "dcfb57e0-c8fb-4c37-b291-e22eed50e20b",
+          "width": 0,
+          "x": 841.1260986328125,
+          "y": 480.3758544921875,
+          "zOrder": 111,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "HUD",
+          "locked": false,
+          "name": "FPS",
+          "persistentUuid": "302fa190-281c-4ede-ad60-2fd6dcd38ad6",
+          "width": 0,
+          "x": 352.45587158203125,
+          "y": -77.71710968017578,
+          "zOrder": 112,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -74174,6 +74702,52 @@
                         "GlobalVariableChildCount(Objectives)-1"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "SummonDialogBox",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::String"
+                      },
+                      "parameters": [
+                        "DialogText",
+                        "=",
+                        "\"New Objective:\nKill 10 enemies\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "UnPauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
                     }
                   ],
                   "events": []
@@ -74306,6 +74880,52 @@
                         "GlobalVariableChildCount(Objectives)-1"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "SummonDialogBox",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::String"
+                      },
+                      "parameters": [
+                        "DialogText",
+                        "=",
+                        "\"New Objective:\nKill 100 enemies\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "UnPauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
                     }
                   ],
                   "events": []
@@ -74436,6 +75056,52 @@
                         "ObjectivesStructure.Kill1000Enemy",
                         "=",
                         "GlobalVariableChildCount(Objectives)-1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "SummonDialogBox",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::String"
+                      },
+                      "parameters": [
+                        "DialogText",
+                        "=",
+                        "\"New Objective:\nKill 1000 enemies\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "UnPauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
                       ],
                       "subInstructions": []
                     }
@@ -78168,6 +78834,38 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Inventory",
+          "locked": false,
+          "name": "RestockShopCheat",
+          "persistentUuid": "0652f9c2-b6cd-4562-9a1a-5f3e8dedb2f9",
+          "width": 0,
+          "x": 777.0189819335938,
+          "y": 468.7698669433594,
+          "zOrder": 111,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "HUD",
+          "locked": false,
+          "name": "FPS",
+          "persistentUuid": "4a2e995b-2792-4652-a5c2-3f3c58935fa2",
+          "width": 0,
+          "x": 324.9404602050781,
+          "y": -129.9115447998047,
+          "zOrder": 112,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -81003,6 +81701,38 @@
           "x": 929,
           "y": 301,
           "zOrder": 105,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Inventory",
+          "locked": false,
+          "name": "RestockShopCheat",
+          "persistentUuid": "6811aa62-c7e7-4a70-be51-508dc9a48af2",
+          "width": 0,
+          "x": 811.5621337890625,
+          "y": 461.6567077636719,
+          "zOrder": 111,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "HUD",
+          "locked": false,
+          "name": "FPS",
+          "persistentUuid": "ec4261a0-74a0-4ec6-a098-15157e237313",
+          "width": 0,
+          "x": 389.5774230957031,
+          "y": -164.8166961669922,
+          "zOrder": 112,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -84167,6 +84897,38 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Inventory",
+          "locked": false,
+          "name": "RestockShopCheat",
+          "persistentUuid": "581e6ca7-7398-4ff5-82d9-a28c8d27af17",
+          "width": 0,
+          "x": 838.9888916015625,
+          "y": 471.2393493652344,
+          "zOrder": 111,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "HUD",
+          "locked": false,
+          "name": "FPS",
+          "persistentUuid": "1984dd27-185e-46a9-b195-8cc12aea3bcf",
+          "width": 0,
+          "x": 428.1608581542969,
+          "y": -62.69918441772461,
+          "zOrder": 112,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -84629,6 +85391,52 @@
                     "ObjectivesStructure.Kill1Enemy",
                     "=",
                     "GlobalVariableChildCount(Objectives)-1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "SummonDialogBox",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "DialogText",
+                    "=",
+                    "\"New Objective:\nKill 1 enemy\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "UnPauseTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"DialogWait\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"DialogWait\""
                   ],
                   "subInstructions": []
                 }
@@ -88143,6 +88951,38 @@
               "value": 5
             }
           ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Inventory",
+          "locked": false,
+          "name": "RestockShopCheat",
+          "persistentUuid": "954f4f65-faa5-4c57-8d2a-4a8074d53efa",
+          "width": 0,
+          "x": 828.5386352539062,
+          "y": 470.3494873046875,
+          "zOrder": 111,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "HUD",
+          "locked": false,
+          "name": "FPS",
+          "persistentUuid": "8a20895c-05f7-4c90-8ef9-a429275ba912",
+          "width": 0,
+          "x": 533.815673828125,
+          "y": 253.7399444580078,
+          "zOrder": 112,
+          "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         }
@@ -92670,6 +93510,52 @@
                         "GlobalVariableChildCount(Objectives)-1"
                       ],
                       "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::String"
+                      },
+                      "parameters": [
+                        "DialogText",
+                        "=",
+                        "\"New Objective:\nPlant and harvest 1 seed\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "SummonDialogBox",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "UnPauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
                     }
                   ],
                   "events": []
@@ -95568,6 +96454,38 @@
           "x": 934,
           "y": 308,
           "zOrder": 105,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Inventory",
+          "locked": false,
+          "name": "RestockShopCheat",
+          "persistentUuid": "cca440ff-238b-4152-afbe-e64da8942304",
+          "width": 0,
+          "x": 820.2146606445312,
+          "y": 462.5964660644531,
+          "zOrder": 111,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "HUD",
+          "locked": false,
+          "name": "FPS",
+          "persistentUuid": "7179e791-2993-4e5f-9007-065162474ce8",
+          "width": 0,
+          "x": 482.1067199707031,
+          "y": 562.9346313476562,
+          "zOrder": 112,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
