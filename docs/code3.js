@@ -85,6 +85,10 @@ gdjs.Cheats_32MenuCode.GDRestockShopCheatObjects1= [];
 gdjs.Cheats_32MenuCode.GDRestockShopCheatObjects2= [];
 gdjs.Cheats_32MenuCode.GDFPSObjects1= [];
 gdjs.Cheats_32MenuCode.GDFPSObjects2= [];
+gdjs.Cheats_32MenuCode.GDCaveHoleObjects1= [];
+gdjs.Cheats_32MenuCode.GDCaveHoleObjects2= [];
+gdjs.Cheats_32MenuCode.GDOutdoorDecorObjects1= [];
+gdjs.Cheats_32MenuCode.GDOutdoorDecorObjects2= [];
 gdjs.Cheats_32MenuCode.GDIncreaseCoinsTitleObjects1= [];
 gdjs.Cheats_32MenuCode.GDIncreaseCoinsTitleObjects2= [];
 gdjs.Cheats_32MenuCode.GDIncreaseCoinsPerSecondTitleObjects1= [];
@@ -167,7 +171,7 @@ gdjs.Cheats_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Cheats_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Cheats_32MenuCode.conditionTrue_1 = gdjs.Cheats_32MenuCode.condition2IsTrue_0;
-gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21783052);
+gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22311748);
 }
 }}
 }
@@ -198,7 +202,7 @@ gdjs.Cheats_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Cheats_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Cheats_32MenuCode.conditionTrue_1 = gdjs.Cheats_32MenuCode.condition2IsTrue_0;
-gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21785628);
+gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22314604);
 }
 }}
 }
@@ -229,7 +233,7 @@ gdjs.Cheats_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Cheats_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Cheats_32MenuCode.conditionTrue_1 = gdjs.Cheats_32MenuCode.condition2IsTrue_0;
-gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21788940);
+gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22317852);
 }
 }}
 }
@@ -259,7 +263,7 @@ gdjs.Cheats_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Cheats_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Cheats_32MenuCode.conditionTrue_1 = gdjs.Cheats_32MenuCode.condition2IsTrue_0;
-gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21792140);
+gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22321052);
 }
 }}
 }
@@ -289,7 +293,7 @@ gdjs.Cheats_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Cheats_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Cheats_32MenuCode.conditionTrue_1 = gdjs.Cheats_32MenuCode.condition2IsTrue_0;
-gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21794188);
+gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22323132);
 }
 }}
 }
@@ -391,6 +395,10 @@ gdjs.Cheats_32MenuCode.GDRestockShopCheatObjects1.length = 0;
 gdjs.Cheats_32MenuCode.GDRestockShopCheatObjects2.length = 0;
 gdjs.Cheats_32MenuCode.GDFPSObjects1.length = 0;
 gdjs.Cheats_32MenuCode.GDFPSObjects2.length = 0;
+gdjs.Cheats_32MenuCode.GDCaveHoleObjects1.length = 0;
+gdjs.Cheats_32MenuCode.GDCaveHoleObjects2.length = 0;
+gdjs.Cheats_32MenuCode.GDOutdoorDecorObjects1.length = 0;
+gdjs.Cheats_32MenuCode.GDOutdoorDecorObjects2.length = 0;
 gdjs.Cheats_32MenuCode.GDIncreaseCoinsTitleObjects1.length = 0;
 gdjs.Cheats_32MenuCode.GDIncreaseCoinsTitleObjects2.length = 0;
 gdjs.Cheats_32MenuCode.GDIncreaseCoinsPerSecondTitleObjects1.length = 0;

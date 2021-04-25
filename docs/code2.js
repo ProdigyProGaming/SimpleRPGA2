@@ -85,6 +85,10 @@ gdjs.How_32To_32Play_32MenuCode.GDRestockShopCheatObjects1= [];
 gdjs.How_32To_32Play_32MenuCode.GDRestockShopCheatObjects2= [];
 gdjs.How_32To_32Play_32MenuCode.GDFPSObjects1= [];
 gdjs.How_32To_32Play_32MenuCode.GDFPSObjects2= [];
+gdjs.How_32To_32Play_32MenuCode.GDCaveHoleObjects1= [];
+gdjs.How_32To_32Play_32MenuCode.GDCaveHoleObjects2= [];
+gdjs.How_32To_32Play_32MenuCode.GDOutdoorDecorObjects1= [];
+gdjs.How_32To_32Play_32MenuCode.GDOutdoorDecorObjects2= [];
 gdjs.How_32To_32Play_32MenuCode.GDBackButtonObjects1= [];
 gdjs.How_32To_32Play_32MenuCode.GDBackButtonObjects2= [];
 gdjs.How_32To_32Play_32MenuCode.GDControlsTextObjects1= [];
@@ -121,7 +125,7 @@ gdjs.How_32To_32Play_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isM
 }if ( gdjs.How_32To_32Play_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.How_32To_32Play_32MenuCode.conditionTrue_1 = gdjs.How_32To_32Play_32MenuCode.condition2IsTrue_0;
-gdjs.How_32To_32Play_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21775668);
+gdjs.How_32To_32Play_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22304612);
 }
 }}
 }
@@ -223,6 +227,10 @@ gdjs.How_32To_32Play_32MenuCode.GDRestockShopCheatObjects1.length = 0;
 gdjs.How_32To_32Play_32MenuCode.GDRestockShopCheatObjects2.length = 0;
 gdjs.How_32To_32Play_32MenuCode.GDFPSObjects1.length = 0;
 gdjs.How_32To_32Play_32MenuCode.GDFPSObjects2.length = 0;
+gdjs.How_32To_32Play_32MenuCode.GDCaveHoleObjects1.length = 0;
+gdjs.How_32To_32Play_32MenuCode.GDCaveHoleObjects2.length = 0;
+gdjs.How_32To_32Play_32MenuCode.GDOutdoorDecorObjects1.length = 0;
+gdjs.How_32To_32Play_32MenuCode.GDOutdoorDecorObjects2.length = 0;
 gdjs.How_32To_32Play_32MenuCode.GDBackButtonObjects1.length = 0;
 gdjs.How_32To_32Play_32MenuCode.GDBackButtonObjects2.length = 0;
 gdjs.How_32To_32Play_32MenuCode.GDControlsTextObjects1.length = 0;

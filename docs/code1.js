@@ -128,6 +128,15 @@ gdjs.Options_32MenuCode.GDRestockShopCheatObjects3= [];
 gdjs.Options_32MenuCode.GDFPSObjects1= [];
 gdjs.Options_32MenuCode.GDFPSObjects2= [];
 gdjs.Options_32MenuCode.GDFPSObjects3= [];
+gdjs.Options_32MenuCode.GDCaveHoleObjects1= [];
+gdjs.Options_32MenuCode.GDCaveHoleObjects2= [];
+gdjs.Options_32MenuCode.GDCaveHoleObjects3= [];
+gdjs.Options_32MenuCode.GDOutdoorDecorObjects1= [];
+gdjs.Options_32MenuCode.GDOutdoorDecorObjects2= [];
+gdjs.Options_32MenuCode.GDOutdoorDecorObjects3= [];
+gdjs.Options_32MenuCode.GDNewObjectObjects1= [];
+gdjs.Options_32MenuCode.GDNewObjectObjects2= [];
+gdjs.Options_32MenuCode.GDNewObjectObjects3= [];
 gdjs.Options_32MenuCode.GDVolumeValueTextObjects1= [];
 gdjs.Options_32MenuCode.GDVolumeValueTextObjects2= [];
 gdjs.Options_32MenuCode.GDVolumeValueTextObjects3= [];
@@ -482,7 +491,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21735660);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22261204);
 }
 }}
 }
@@ -510,7 +519,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21743292);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22268836);
 }
 }}
 }
@@ -538,7 +547,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21750916);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22276460);
 }
 }}
 }
@@ -566,7 +575,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21757748);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22283292);
 }
 }}
 }
@@ -600,7 +609,7 @@ gdjs.Options_32MenuCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariabl
 }if ( gdjs.Options_32MenuCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition3IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21760780);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22286324);
 }
 }}
 }
@@ -627,7 +636,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(21762212);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22287756);
 }
 }}
 }
@@ -772,6 +781,15 @@ gdjs.Options_32MenuCode.GDRestockShopCheatObjects3.length = 0;
 gdjs.Options_32MenuCode.GDFPSObjects1.length = 0;
 gdjs.Options_32MenuCode.GDFPSObjects2.length = 0;
 gdjs.Options_32MenuCode.GDFPSObjects3.length = 0;
+gdjs.Options_32MenuCode.GDCaveHoleObjects1.length = 0;
+gdjs.Options_32MenuCode.GDCaveHoleObjects2.length = 0;
+gdjs.Options_32MenuCode.GDCaveHoleObjects3.length = 0;
+gdjs.Options_32MenuCode.GDOutdoorDecorObjects1.length = 0;
+gdjs.Options_32MenuCode.GDOutdoorDecorObjects2.length = 0;
+gdjs.Options_32MenuCode.GDOutdoorDecorObjects3.length = 0;
+gdjs.Options_32MenuCode.GDNewObjectObjects1.length = 0;
+gdjs.Options_32MenuCode.GDNewObjectObjects2.length = 0;
+gdjs.Options_32MenuCode.GDNewObjectObjects3.length = 0;
 gdjs.Options_32MenuCode.GDVolumeValueTextObjects1.length = 0;
 gdjs.Options_32MenuCode.GDVolumeValueTextObjects2.length = 0;
 gdjs.Options_32MenuCode.GDVolumeValueTextObjects3.length = 0;
