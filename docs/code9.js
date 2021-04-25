@@ -350,6 +350,13 @@ gdjs.Outside_32CavesCode.GDOutdoorDecorObjects4= [];
 gdjs.Outside_32CavesCode.GDOutdoorDecorObjects5= [];
 gdjs.Outside_32CavesCode.GDOutdoorDecorObjects6= [];
 gdjs.Outside_32CavesCode.GDOutdoorDecorObjects7= [];
+gdjs.Outside_32CavesCode.GDMenuButtonObjects1= [];
+gdjs.Outside_32CavesCode.GDMenuButtonObjects2= [];
+gdjs.Outside_32CavesCode.GDMenuButtonObjects3= [];
+gdjs.Outside_32CavesCode.GDMenuButtonObjects4= [];
+gdjs.Outside_32CavesCode.GDMenuButtonObjects5= [];
+gdjs.Outside_32CavesCode.GDMenuButtonObjects6= [];
+gdjs.Outside_32CavesCode.GDMenuButtonObjects7= [];
 gdjs.Outside_32CavesCode.GDNewObjectObjects1= [];
 gdjs.Outside_32CavesCode.GDNewObjectObjects2= [];
 gdjs.Outside_32CavesCode.GDNewObjectObjects3= [];
@@ -4112,6 +4119,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.Outside_32CavesCod
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.Outside_32CavesCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.Outside_32CavesCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.Outside_32CavesCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.Outside_32CavesCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.Outside_32CavesCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.Outside_32CavesCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.Outside_32CavesCode.GDObjectivesBackgroundObjects2);
@@ -4143,6 +4151,9 @@ for(var i = 0, len = gdjs.Outside_32CavesCode.GDCheatsEnablerTitleObjects2.lengt
 }
 for(var i = 0, len = gdjs.Outside_32CavesCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.Outside_32CavesCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.Outside_32CavesCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.Outside_32CavesCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.Outside_32CavesCode.GDStatsTextObjects2.length ;i < len;++i) {
     gdjs.Outside_32CavesCode.GDStatsTextObjects2[i].hide();
@@ -4207,6 +4218,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.Outside_32CavesCod
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.Outside_32CavesCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.Outside_32CavesCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.Outside_32CavesCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.Outside_32CavesCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.Outside_32CavesCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.Outside_32CavesCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.Outside_32CavesCode.GDObjectivesBackgroundObjects2);
@@ -4238,6 +4250,9 @@ for(var i = 0, len = gdjs.Outside_32CavesCode.GDCheatsEnablerTitleObjects2.lengt
 }
 for(var i = 0, len = gdjs.Outside_32CavesCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.Outside_32CavesCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.Outside_32CavesCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.Outside_32CavesCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.Outside_32CavesCode.GDCheatsButtonsObjects2.length ;i < len;++i) {
     gdjs.Outside_32CavesCode.GDCheatsButtonsObjects2[i].hide();
@@ -4284,6 +4299,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.Outside_32CavesCod
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.Outside_32CavesCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.Outside_32CavesCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.Outside_32CavesCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.Outside_32CavesCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.Outside_32CavesCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.Outside_32CavesCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.Outside_32CavesCode.GDObjectivesBackgroundObjects2);
@@ -4315,6 +4331,9 @@ for(var i = 0, len = gdjs.Outside_32CavesCode.GDCheatsEnablerTitleObjects2.lengt
 }
 for(var i = 0, len = gdjs.Outside_32CavesCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.Outside_32CavesCode.GDCheatsEnablerObjects2[i].hide(false);
+}
+for(var i = 0, len = gdjs.Outside_32CavesCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.Outside_32CavesCode.GDMenuButtonObjects2[i].hide(false);
 }
 }{for(var i = 0, len = gdjs.Outside_32CavesCode.GDVolumeTextTitleObjects2.length ;i < len;++i) {
     gdjs.Outside_32CavesCode.GDVolumeTextTitleObjects2[i].setPosition((( gdjs.Outside_32CavesCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.Outside_32CavesCode.GDObjectivesBackgroundObjects2[0].getPointX("VolumeTitle")),(( gdjs.Outside_32CavesCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.Outside_32CavesCode.GDObjectivesBackgroundObjects2[0].getPointY("VolumeTitle")));
@@ -4361,6 +4380,9 @@ for(var i = 0, len = gdjs.Outside_32CavesCode.GDNextLevelObjects2.length ;i < le
 for(var i = 0, len = gdjs.Outside_32CavesCode.GDRestockShopCheatObjects2.length ;i < len;++i) {
     gdjs.Outside_32CavesCode.GDRestockShopCheatObjects2[i].hide();
 }
+}{for(var i = 0, len = gdjs.Outside_32CavesCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.Outside_32CavesCode.GDMenuButtonObjects2[i].setPosition((( gdjs.Outside_32CavesCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.Outside_32CavesCode.GDObjectivesBackgroundObjects2[0].getPointX("CheatsEnablerTitle")),(( gdjs.Outside_32CavesCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.Outside_32CavesCode.GDObjectivesBackgroundObjects2[0].getPointY("CheatsEnablerTitle")) + 50);
+}
 }
 { //Subevents
 gdjs.Outside_32CavesCode.eventsList36(runtimeScene);} //End of subevents
@@ -4382,6 +4404,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.Outside_32CavesCod
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.Outside_32CavesCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.Outside_32CavesCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.Outside_32CavesCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.Outside_32CavesCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.Outside_32CavesCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.Outside_32CavesCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.Outside_32CavesCode.GDObjectivesBackgroundObjects2);
@@ -4413,6 +4436,9 @@ for(var i = 0, len = gdjs.Outside_32CavesCode.GDCheatsEnablerTitleObjects2.lengt
 }
 for(var i = 0, len = gdjs.Outside_32CavesCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.Outside_32CavesCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.Outside_32CavesCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.Outside_32CavesCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.Outside_32CavesCode.GDStatsTextObjects2.length ;i < len;++i) {
     gdjs.Outside_32CavesCode.GDStatsTextObjects2[i].hide();
@@ -4454,6 +4480,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.Outside_32Cav
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.Outside_32CavesCode.GDCheatsTitleObjects1);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.Outside_32CavesCode.GDCheatsValuesObjects1);
 /* Reuse gdjs.Outside_32CavesCode.GDCurrencyTextObjects1 */
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.Outside_32CavesCode.GDMenuButtonObjects1);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.Outside_32CavesCode.GDNextLevelObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.Outside_32CavesCode.GDObjectiveObjects1);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.Outside_32CavesCode.GDObjectivesBackgroundObjects1);
@@ -4482,6 +4509,9 @@ for(var i = 0, len = gdjs.Outside_32CavesCode.GDCheatsEnablerTitleObjects1.lengt
 }
 for(var i = 0, len = gdjs.Outside_32CavesCode.GDCheatsEnablerObjects1.length ;i < len;++i) {
     gdjs.Outside_32CavesCode.GDCheatsEnablerObjects1[i].hide();
+}
+for(var i = 0, len = gdjs.Outside_32CavesCode.GDMenuButtonObjects1.length ;i < len;++i) {
+    gdjs.Outside_32CavesCode.GDMenuButtonObjects1[i].hide();
 }
 }{for(var i = 0, len = gdjs.Outside_32CavesCode.GDStatsTextObjects1.length ;i < len;++i) {
     gdjs.Outside_32CavesCode.GDStatsTextObjects1[i].hide();
@@ -5326,7 +5356,7 @@ if (gdjs.Outside_32CavesCode.condition1IsTrue_0.val) {
 }
 
 
-};gdjs.Outside_32CavesCode.eventsList53 = function(runtimeScene) {
+};gdjs.Outside_32CavesCode.mapOfGDgdjs_46Outside_9532CavesCode_46GDMenuButtonObjects1Objects = Hashtable.newFrom({"MenuButton": gdjs.Outside_32CavesCode.GDMenuButtonObjects1});gdjs.Outside_32CavesCode.eventsList53 = function(runtimeScene) {
 
 {
 
@@ -5371,6 +5401,32 @@ gdjs.Outside_32CavesCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().tr
 if (gdjs.Outside_32CavesCode.condition3IsTrue_0.val) {
 {gdjs.evtTools.common.setVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(46), true);
 }{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "End Screen", false);
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.Outside_32CavesCode.GDMenuButtonObjects1);
+
+gdjs.Outside_32CavesCode.condition0IsTrue_0.val = false;
+gdjs.Outside_32CavesCode.condition1IsTrue_0.val = false;
+gdjs.Outside_32CavesCode.condition2IsTrue_0.val = false;
+{
+gdjs.Outside_32CavesCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.Outside_32CavesCode.mapOfGDgdjs_46Outside_9532CavesCode_46GDMenuButtonObjects1Objects, runtimeScene, true, false);
+}if ( gdjs.Outside_32CavesCode.condition0IsTrue_0.val ) {
+{
+gdjs.Outside_32CavesCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Left");
+}if ( gdjs.Outside_32CavesCode.condition1IsTrue_0.val ) {
+{
+{gdjs.Outside_32CavesCode.conditionTrue_1 = gdjs.Outside_32CavesCode.condition2IsTrue_0;
+gdjs.Outside_32CavesCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14885348);
+}
+}}
+}
+if (gdjs.Outside_32CavesCode.condition2IsTrue_0.val) {
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Main Menu", false);
 }}
 
 }
@@ -8225,6 +8281,13 @@ gdjs.Outside_32CavesCode.GDOutdoorDecorObjects4.length = 0;
 gdjs.Outside_32CavesCode.GDOutdoorDecorObjects5.length = 0;
 gdjs.Outside_32CavesCode.GDOutdoorDecorObjects6.length = 0;
 gdjs.Outside_32CavesCode.GDOutdoorDecorObjects7.length = 0;
+gdjs.Outside_32CavesCode.GDMenuButtonObjects1.length = 0;
+gdjs.Outside_32CavesCode.GDMenuButtonObjects2.length = 0;
+gdjs.Outside_32CavesCode.GDMenuButtonObjects3.length = 0;
+gdjs.Outside_32CavesCode.GDMenuButtonObjects4.length = 0;
+gdjs.Outside_32CavesCode.GDMenuButtonObjects5.length = 0;
+gdjs.Outside_32CavesCode.GDMenuButtonObjects6.length = 0;
+gdjs.Outside_32CavesCode.GDMenuButtonObjects7.length = 0;
 gdjs.Outside_32CavesCode.GDNewObjectObjects1.length = 0;
 gdjs.Outside_32CavesCode.GDNewObjectObjects2.length = 0;
 gdjs.Outside_32CavesCode.GDNewObjectObjects3.length = 0;

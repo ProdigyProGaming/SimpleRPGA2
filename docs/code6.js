@@ -372,6 +372,13 @@ gdjs.CavesCode.GDOutdoorDecorObjects4= [];
 gdjs.CavesCode.GDOutdoorDecorObjects5= [];
 gdjs.CavesCode.GDOutdoorDecorObjects6= [];
 gdjs.CavesCode.GDOutdoorDecorObjects7= [];
+gdjs.CavesCode.GDMenuButtonObjects1= [];
+gdjs.CavesCode.GDMenuButtonObjects2= [];
+gdjs.CavesCode.GDMenuButtonObjects3= [];
+gdjs.CavesCode.GDMenuButtonObjects4= [];
+gdjs.CavesCode.GDMenuButtonObjects5= [];
+gdjs.CavesCode.GDMenuButtonObjects6= [];
+gdjs.CavesCode.GDMenuButtonObjects7= [];
 gdjs.CavesCode.GDQuitButtonObjects1= [];
 gdjs.CavesCode.GDQuitButtonObjects2= [];
 gdjs.CavesCode.GDQuitButtonObjects3= [];
@@ -4215,6 +4222,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.CavesCode.GDCheats
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.CavesCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.CavesCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.CavesCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.CavesCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.CavesCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.CavesCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.CavesCode.GDObjectivesBackgroundObjects2);
@@ -4246,6 +4254,9 @@ for(var i = 0, len = gdjs.CavesCode.GDCheatsEnablerTitleObjects2.length ;i < len
 }
 for(var i = 0, len = gdjs.CavesCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.CavesCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.CavesCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.CavesCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.CavesCode.GDStatsTextObjects2.length ;i < len;++i) {
     gdjs.CavesCode.GDStatsTextObjects2[i].hide();
@@ -4310,6 +4321,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.CavesCode.GDCheats
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.CavesCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.CavesCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.CavesCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.CavesCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.CavesCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.CavesCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.CavesCode.GDObjectivesBackgroundObjects2);
@@ -4341,6 +4353,9 @@ for(var i = 0, len = gdjs.CavesCode.GDCheatsEnablerTitleObjects2.length ;i < len
 }
 for(var i = 0, len = gdjs.CavesCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.CavesCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.CavesCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.CavesCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.CavesCode.GDCheatsButtonsObjects2.length ;i < len;++i) {
     gdjs.CavesCode.GDCheatsButtonsObjects2[i].hide();
@@ -4387,6 +4402,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.CavesCode.GDCheats
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.CavesCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.CavesCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.CavesCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.CavesCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.CavesCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.CavesCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.CavesCode.GDObjectivesBackgroundObjects2);
@@ -4418,6 +4434,9 @@ for(var i = 0, len = gdjs.CavesCode.GDCheatsEnablerTitleObjects2.length ;i < len
 }
 for(var i = 0, len = gdjs.CavesCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.CavesCode.GDCheatsEnablerObjects2[i].hide(false);
+}
+for(var i = 0, len = gdjs.CavesCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.CavesCode.GDMenuButtonObjects2[i].hide(false);
 }
 }{for(var i = 0, len = gdjs.CavesCode.GDVolumeTextTitleObjects2.length ;i < len;++i) {
     gdjs.CavesCode.GDVolumeTextTitleObjects2[i].setPosition((( gdjs.CavesCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.CavesCode.GDObjectivesBackgroundObjects2[0].getPointX("VolumeTitle")),(( gdjs.CavesCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.CavesCode.GDObjectivesBackgroundObjects2[0].getPointY("VolumeTitle")));
@@ -4464,6 +4483,9 @@ for(var i = 0, len = gdjs.CavesCode.GDNextLevelObjects2.length ;i < len;++i) {
 for(var i = 0, len = gdjs.CavesCode.GDRestockShopCheatObjects2.length ;i < len;++i) {
     gdjs.CavesCode.GDRestockShopCheatObjects2[i].hide();
 }
+}{for(var i = 0, len = gdjs.CavesCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.CavesCode.GDMenuButtonObjects2[i].setPosition((( gdjs.CavesCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.CavesCode.GDObjectivesBackgroundObjects2[0].getPointX("CheatsEnablerTitle")),(( gdjs.CavesCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.CavesCode.GDObjectivesBackgroundObjects2[0].getPointY("CheatsEnablerTitle")) + 50);
+}
 }
 { //Subevents
 gdjs.CavesCode.eventsList36(runtimeScene);} //End of subevents
@@ -4485,6 +4507,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.CavesCode.GDCheats
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.CavesCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.CavesCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.CavesCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.CavesCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.CavesCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.CavesCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.CavesCode.GDObjectivesBackgroundObjects2);
@@ -4516,6 +4539,9 @@ for(var i = 0, len = gdjs.CavesCode.GDCheatsEnablerTitleObjects2.length ;i < len
 }
 for(var i = 0, len = gdjs.CavesCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.CavesCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.CavesCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.CavesCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.CavesCode.GDStatsTextObjects2.length ;i < len;++i) {
     gdjs.CavesCode.GDStatsTextObjects2[i].hide();
@@ -4557,6 +4583,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.CavesCode.GDC
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.CavesCode.GDCheatsTitleObjects1);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.CavesCode.GDCheatsValuesObjects1);
 /* Reuse gdjs.CavesCode.GDCurrencyTextObjects1 */
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.CavesCode.GDMenuButtonObjects1);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.CavesCode.GDNextLevelObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.CavesCode.GDObjectiveObjects1);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.CavesCode.GDObjectivesBackgroundObjects1);
@@ -4585,6 +4612,9 @@ for(var i = 0, len = gdjs.CavesCode.GDCheatsEnablerTitleObjects1.length ;i < len
 }
 for(var i = 0, len = gdjs.CavesCode.GDCheatsEnablerObjects1.length ;i < len;++i) {
     gdjs.CavesCode.GDCheatsEnablerObjects1[i].hide();
+}
+for(var i = 0, len = gdjs.CavesCode.GDMenuButtonObjects1.length ;i < len;++i) {
+    gdjs.CavesCode.GDMenuButtonObjects1[i].hide();
 }
 }{for(var i = 0, len = gdjs.CavesCode.GDStatsTextObjects1.length ;i < len;++i) {
     gdjs.CavesCode.GDStatsTextObjects1[i].hide();
@@ -5429,7 +5459,7 @@ if (gdjs.CavesCode.condition1IsTrue_0.val) {
 }
 
 
-};gdjs.CavesCode.eventsList53 = function(runtimeScene) {
+};gdjs.CavesCode.mapOfGDgdjs_46CavesCode_46GDMenuButtonObjects1Objects = Hashtable.newFrom({"MenuButton": gdjs.CavesCode.GDMenuButtonObjects1});gdjs.CavesCode.eventsList53 = function(runtimeScene) {
 
 {
 
@@ -5474,6 +5504,32 @@ gdjs.CavesCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(
 if (gdjs.CavesCode.condition3IsTrue_0.val) {
 {gdjs.evtTools.common.setVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(46), true);
 }{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "End Screen", false);
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.CavesCode.GDMenuButtonObjects1);
+
+gdjs.CavesCode.condition0IsTrue_0.val = false;
+gdjs.CavesCode.condition1IsTrue_0.val = false;
+gdjs.CavesCode.condition2IsTrue_0.val = false;
+{
+gdjs.CavesCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.CavesCode.mapOfGDgdjs_46CavesCode_46GDMenuButtonObjects1Objects, runtimeScene, true, false);
+}if ( gdjs.CavesCode.condition0IsTrue_0.val ) {
+{
+gdjs.CavesCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Left");
+}if ( gdjs.CavesCode.condition1IsTrue_0.val ) {
+{
+{gdjs.CavesCode.conditionTrue_1 = gdjs.CavesCode.condition2IsTrue_0;
+gdjs.CavesCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14885348);
+}
+}}
+}
+if (gdjs.CavesCode.condition2IsTrue_0.val) {
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Main Menu", false);
 }}
 
 }
@@ -9350,6 +9406,13 @@ gdjs.CavesCode.GDOutdoorDecorObjects4.length = 0;
 gdjs.CavesCode.GDOutdoorDecorObjects5.length = 0;
 gdjs.CavesCode.GDOutdoorDecorObjects6.length = 0;
 gdjs.CavesCode.GDOutdoorDecorObjects7.length = 0;
+gdjs.CavesCode.GDMenuButtonObjects1.length = 0;
+gdjs.CavesCode.GDMenuButtonObjects2.length = 0;
+gdjs.CavesCode.GDMenuButtonObjects3.length = 0;
+gdjs.CavesCode.GDMenuButtonObjects4.length = 0;
+gdjs.CavesCode.GDMenuButtonObjects5.length = 0;
+gdjs.CavesCode.GDMenuButtonObjects6.length = 0;
+gdjs.CavesCode.GDMenuButtonObjects7.length = 0;
 gdjs.CavesCode.GDQuitButtonObjects1.length = 0;
 gdjs.CavesCode.GDQuitButtonObjects2.length = 0;
 gdjs.CavesCode.GDQuitButtonObjects3.length = 0;

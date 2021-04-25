@@ -360,6 +360,13 @@ gdjs.InsideBuildingsCode.GDOutdoorDecorObjects4= [];
 gdjs.InsideBuildingsCode.GDOutdoorDecorObjects5= [];
 gdjs.InsideBuildingsCode.GDOutdoorDecorObjects6= [];
 gdjs.InsideBuildingsCode.GDOutdoorDecorObjects7= [];
+gdjs.InsideBuildingsCode.GDMenuButtonObjects1= [];
+gdjs.InsideBuildingsCode.GDMenuButtonObjects2= [];
+gdjs.InsideBuildingsCode.GDMenuButtonObjects3= [];
+gdjs.InsideBuildingsCode.GDMenuButtonObjects4= [];
+gdjs.InsideBuildingsCode.GDMenuButtonObjects5= [];
+gdjs.InsideBuildingsCode.GDMenuButtonObjects6= [];
+gdjs.InsideBuildingsCode.GDMenuButtonObjects7= [];
 gdjs.InsideBuildingsCode.GDNewObjectObjects1= [];
 gdjs.InsideBuildingsCode.GDNewObjectObjects2= [];
 gdjs.InsideBuildingsCode.GDNewObjectObjects3= [];
@@ -4224,6 +4231,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.InsideBuildingsCod
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.InsideBuildingsCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.InsideBuildingsCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.InsideBuildingsCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.InsideBuildingsCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.InsideBuildingsCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.InsideBuildingsCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.InsideBuildingsCode.GDObjectivesBackgroundObjects2);
@@ -4255,6 +4263,9 @@ for(var i = 0, len = gdjs.InsideBuildingsCode.GDCheatsEnablerTitleObjects2.lengt
 }
 for(var i = 0, len = gdjs.InsideBuildingsCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.InsideBuildingsCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.InsideBuildingsCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.InsideBuildingsCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.InsideBuildingsCode.GDStatsTextObjects2.length ;i < len;++i) {
     gdjs.InsideBuildingsCode.GDStatsTextObjects2[i].hide();
@@ -4319,6 +4330,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.InsideBuildingsCod
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.InsideBuildingsCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.InsideBuildingsCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.InsideBuildingsCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.InsideBuildingsCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.InsideBuildingsCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.InsideBuildingsCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.InsideBuildingsCode.GDObjectivesBackgroundObjects2);
@@ -4350,6 +4362,9 @@ for(var i = 0, len = gdjs.InsideBuildingsCode.GDCheatsEnablerTitleObjects2.lengt
 }
 for(var i = 0, len = gdjs.InsideBuildingsCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.InsideBuildingsCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.InsideBuildingsCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.InsideBuildingsCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.InsideBuildingsCode.GDCheatsButtonsObjects2.length ;i < len;++i) {
     gdjs.InsideBuildingsCode.GDCheatsButtonsObjects2[i].hide();
@@ -4396,6 +4411,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.InsideBuildingsCod
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.InsideBuildingsCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.InsideBuildingsCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.InsideBuildingsCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.InsideBuildingsCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.InsideBuildingsCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.InsideBuildingsCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.InsideBuildingsCode.GDObjectivesBackgroundObjects2);
@@ -4427,6 +4443,9 @@ for(var i = 0, len = gdjs.InsideBuildingsCode.GDCheatsEnablerTitleObjects2.lengt
 }
 for(var i = 0, len = gdjs.InsideBuildingsCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.InsideBuildingsCode.GDCheatsEnablerObjects2[i].hide(false);
+}
+for(var i = 0, len = gdjs.InsideBuildingsCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.InsideBuildingsCode.GDMenuButtonObjects2[i].hide(false);
 }
 }{for(var i = 0, len = gdjs.InsideBuildingsCode.GDVolumeTextTitleObjects2.length ;i < len;++i) {
     gdjs.InsideBuildingsCode.GDVolumeTextTitleObjects2[i].setPosition((( gdjs.InsideBuildingsCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.InsideBuildingsCode.GDObjectivesBackgroundObjects2[0].getPointX("VolumeTitle")),(( gdjs.InsideBuildingsCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.InsideBuildingsCode.GDObjectivesBackgroundObjects2[0].getPointY("VolumeTitle")));
@@ -4473,6 +4492,9 @@ for(var i = 0, len = gdjs.InsideBuildingsCode.GDNextLevelObjects2.length ;i < le
 for(var i = 0, len = gdjs.InsideBuildingsCode.GDRestockShopCheatObjects2.length ;i < len;++i) {
     gdjs.InsideBuildingsCode.GDRestockShopCheatObjects2[i].hide();
 }
+}{for(var i = 0, len = gdjs.InsideBuildingsCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.InsideBuildingsCode.GDMenuButtonObjects2[i].setPosition((( gdjs.InsideBuildingsCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.InsideBuildingsCode.GDObjectivesBackgroundObjects2[0].getPointX("CheatsEnablerTitle")),(( gdjs.InsideBuildingsCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.InsideBuildingsCode.GDObjectivesBackgroundObjects2[0].getPointY("CheatsEnablerTitle")) + 50);
+}
 }
 { //Subevents
 gdjs.InsideBuildingsCode.eventsList38(runtimeScene);} //End of subevents
@@ -4494,6 +4516,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.InsideBuildingsCod
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.InsideBuildingsCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.InsideBuildingsCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.InsideBuildingsCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.InsideBuildingsCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.InsideBuildingsCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.InsideBuildingsCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.InsideBuildingsCode.GDObjectivesBackgroundObjects2);
@@ -4525,6 +4548,9 @@ for(var i = 0, len = gdjs.InsideBuildingsCode.GDCheatsEnablerTitleObjects2.lengt
 }
 for(var i = 0, len = gdjs.InsideBuildingsCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.InsideBuildingsCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.InsideBuildingsCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.InsideBuildingsCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.InsideBuildingsCode.GDStatsTextObjects2.length ;i < len;++i) {
     gdjs.InsideBuildingsCode.GDStatsTextObjects2[i].hide();
@@ -4566,6 +4592,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.InsideBuildin
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.InsideBuildingsCode.GDCheatsTitleObjects1);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.InsideBuildingsCode.GDCheatsValuesObjects1);
 /* Reuse gdjs.InsideBuildingsCode.GDCurrencyTextObjects1 */
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.InsideBuildingsCode.GDMenuButtonObjects1);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.InsideBuildingsCode.GDNextLevelObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.InsideBuildingsCode.GDObjectiveObjects1);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.InsideBuildingsCode.GDObjectivesBackgroundObjects1);
@@ -4594,6 +4621,9 @@ for(var i = 0, len = gdjs.InsideBuildingsCode.GDCheatsEnablerTitleObjects1.lengt
 }
 for(var i = 0, len = gdjs.InsideBuildingsCode.GDCheatsEnablerObjects1.length ;i < len;++i) {
     gdjs.InsideBuildingsCode.GDCheatsEnablerObjects1[i].hide();
+}
+for(var i = 0, len = gdjs.InsideBuildingsCode.GDMenuButtonObjects1.length ;i < len;++i) {
+    gdjs.InsideBuildingsCode.GDMenuButtonObjects1[i].hide();
 }
 }{for(var i = 0, len = gdjs.InsideBuildingsCode.GDStatsTextObjects1.length ;i < len;++i) {
     gdjs.InsideBuildingsCode.GDStatsTextObjects1[i].hide();
@@ -5438,7 +5468,7 @@ if (gdjs.InsideBuildingsCode.condition1IsTrue_0.val) {
 }
 
 
-};gdjs.InsideBuildingsCode.eventsList55 = function(runtimeScene) {
+};gdjs.InsideBuildingsCode.mapOfGDgdjs_46InsideBuildingsCode_46GDMenuButtonObjects1Objects = Hashtable.newFrom({"MenuButton": gdjs.InsideBuildingsCode.GDMenuButtonObjects1});gdjs.InsideBuildingsCode.eventsList55 = function(runtimeScene) {
 
 {
 
@@ -5483,6 +5513,32 @@ gdjs.InsideBuildingsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().tr
 if (gdjs.InsideBuildingsCode.condition3IsTrue_0.val) {
 {gdjs.evtTools.common.setVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(46), true);
 }{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "End Screen", false);
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.InsideBuildingsCode.GDMenuButtonObjects1);
+
+gdjs.InsideBuildingsCode.condition0IsTrue_0.val = false;
+gdjs.InsideBuildingsCode.condition1IsTrue_0.val = false;
+gdjs.InsideBuildingsCode.condition2IsTrue_0.val = false;
+{
+gdjs.InsideBuildingsCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.InsideBuildingsCode.mapOfGDgdjs_46InsideBuildingsCode_46GDMenuButtonObjects1Objects, runtimeScene, true, false);
+}if ( gdjs.InsideBuildingsCode.condition0IsTrue_0.val ) {
+{
+gdjs.InsideBuildingsCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Left");
+}if ( gdjs.InsideBuildingsCode.condition1IsTrue_0.val ) {
+{
+{gdjs.InsideBuildingsCode.conditionTrue_1 = gdjs.InsideBuildingsCode.condition2IsTrue_0;
+gdjs.InsideBuildingsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14885348);
+}
+}}
+}
+if (gdjs.InsideBuildingsCode.condition2IsTrue_0.val) {
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Main Menu", false);
 }}
 
 }
@@ -9233,6 +9289,13 @@ gdjs.InsideBuildingsCode.GDOutdoorDecorObjects4.length = 0;
 gdjs.InsideBuildingsCode.GDOutdoorDecorObjects5.length = 0;
 gdjs.InsideBuildingsCode.GDOutdoorDecorObjects6.length = 0;
 gdjs.InsideBuildingsCode.GDOutdoorDecorObjects7.length = 0;
+gdjs.InsideBuildingsCode.GDMenuButtonObjects1.length = 0;
+gdjs.InsideBuildingsCode.GDMenuButtonObjects2.length = 0;
+gdjs.InsideBuildingsCode.GDMenuButtonObjects3.length = 0;
+gdjs.InsideBuildingsCode.GDMenuButtonObjects4.length = 0;
+gdjs.InsideBuildingsCode.GDMenuButtonObjects5.length = 0;
+gdjs.InsideBuildingsCode.GDMenuButtonObjects6.length = 0;
+gdjs.InsideBuildingsCode.GDMenuButtonObjects7.length = 0;
 gdjs.InsideBuildingsCode.GDNewObjectObjects1.length = 0;
 gdjs.InsideBuildingsCode.GDNewObjectObjects2.length = 0;
 gdjs.InsideBuildingsCode.GDNewObjectObjects3.length = 0;

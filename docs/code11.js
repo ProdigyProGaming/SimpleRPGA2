@@ -350,6 +350,13 @@ gdjs.InsideHouseCode.GDOutdoorDecorObjects4= [];
 gdjs.InsideHouseCode.GDOutdoorDecorObjects5= [];
 gdjs.InsideHouseCode.GDOutdoorDecorObjects6= [];
 gdjs.InsideHouseCode.GDOutdoorDecorObjects7= [];
+gdjs.InsideHouseCode.GDMenuButtonObjects1= [];
+gdjs.InsideHouseCode.GDMenuButtonObjects2= [];
+gdjs.InsideHouseCode.GDMenuButtonObjects3= [];
+gdjs.InsideHouseCode.GDMenuButtonObjects4= [];
+gdjs.InsideHouseCode.GDMenuButtonObjects5= [];
+gdjs.InsideHouseCode.GDMenuButtonObjects6= [];
+gdjs.InsideHouseCode.GDMenuButtonObjects7= [];
 gdjs.InsideHouseCode.GDNewObjectObjects1= [];
 gdjs.InsideHouseCode.GDNewObjectObjects2= [];
 gdjs.InsideHouseCode.GDNewObjectObjects3= [];
@@ -4126,6 +4133,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.InsideHouseCode.GD
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.InsideHouseCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.InsideHouseCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.InsideHouseCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.InsideHouseCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.InsideHouseCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.InsideHouseCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.InsideHouseCode.GDObjectivesBackgroundObjects2);
@@ -4157,6 +4165,9 @@ for(var i = 0, len = gdjs.InsideHouseCode.GDCheatsEnablerTitleObjects2.length ;i
 }
 for(var i = 0, len = gdjs.InsideHouseCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.InsideHouseCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.InsideHouseCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.InsideHouseCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.InsideHouseCode.GDStatsTextObjects2.length ;i < len;++i) {
     gdjs.InsideHouseCode.GDStatsTextObjects2[i].hide();
@@ -4221,6 +4232,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.InsideHouseCode.GD
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.InsideHouseCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.InsideHouseCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.InsideHouseCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.InsideHouseCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.InsideHouseCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.InsideHouseCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.InsideHouseCode.GDObjectivesBackgroundObjects2);
@@ -4252,6 +4264,9 @@ for(var i = 0, len = gdjs.InsideHouseCode.GDCheatsEnablerTitleObjects2.length ;i
 }
 for(var i = 0, len = gdjs.InsideHouseCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.InsideHouseCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.InsideHouseCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.InsideHouseCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.InsideHouseCode.GDCheatsButtonsObjects2.length ;i < len;++i) {
     gdjs.InsideHouseCode.GDCheatsButtonsObjects2[i].hide();
@@ -4298,6 +4313,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.InsideHouseCode.GD
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.InsideHouseCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.InsideHouseCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.InsideHouseCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.InsideHouseCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.InsideHouseCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.InsideHouseCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.InsideHouseCode.GDObjectivesBackgroundObjects2);
@@ -4329,6 +4345,9 @@ for(var i = 0, len = gdjs.InsideHouseCode.GDCheatsEnablerTitleObjects2.length ;i
 }
 for(var i = 0, len = gdjs.InsideHouseCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.InsideHouseCode.GDCheatsEnablerObjects2[i].hide(false);
+}
+for(var i = 0, len = gdjs.InsideHouseCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.InsideHouseCode.GDMenuButtonObjects2[i].hide(false);
 }
 }{for(var i = 0, len = gdjs.InsideHouseCode.GDVolumeTextTitleObjects2.length ;i < len;++i) {
     gdjs.InsideHouseCode.GDVolumeTextTitleObjects2[i].setPosition((( gdjs.InsideHouseCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.InsideHouseCode.GDObjectivesBackgroundObjects2[0].getPointX("VolumeTitle")),(( gdjs.InsideHouseCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.InsideHouseCode.GDObjectivesBackgroundObjects2[0].getPointY("VolumeTitle")));
@@ -4375,6 +4394,9 @@ for(var i = 0, len = gdjs.InsideHouseCode.GDNextLevelObjects2.length ;i < len;++
 for(var i = 0, len = gdjs.InsideHouseCode.GDRestockShopCheatObjects2.length ;i < len;++i) {
     gdjs.InsideHouseCode.GDRestockShopCheatObjects2[i].hide();
 }
+}{for(var i = 0, len = gdjs.InsideHouseCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.InsideHouseCode.GDMenuButtonObjects2[i].setPosition((( gdjs.InsideHouseCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.InsideHouseCode.GDObjectivesBackgroundObjects2[0].getPointX("CheatsEnablerTitle")),(( gdjs.InsideHouseCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.InsideHouseCode.GDObjectivesBackgroundObjects2[0].getPointY("CheatsEnablerTitle")) + 50);
+}
 }
 { //Subevents
 gdjs.InsideHouseCode.eventsList36(runtimeScene);} //End of subevents
@@ -4396,6 +4418,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.InsideHouseCode.GD
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.InsideHouseCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.InsideHouseCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.InsideHouseCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.InsideHouseCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.InsideHouseCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.InsideHouseCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.InsideHouseCode.GDObjectivesBackgroundObjects2);
@@ -4427,6 +4450,9 @@ for(var i = 0, len = gdjs.InsideHouseCode.GDCheatsEnablerTitleObjects2.length ;i
 }
 for(var i = 0, len = gdjs.InsideHouseCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.InsideHouseCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.InsideHouseCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.InsideHouseCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.InsideHouseCode.GDStatsTextObjects2.length ;i < len;++i) {
     gdjs.InsideHouseCode.GDStatsTextObjects2[i].hide();
@@ -4468,6 +4494,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.InsideHouseCo
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.InsideHouseCode.GDCheatsTitleObjects1);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.InsideHouseCode.GDCheatsValuesObjects1);
 /* Reuse gdjs.InsideHouseCode.GDCurrencyTextObjects1 */
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.InsideHouseCode.GDMenuButtonObjects1);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.InsideHouseCode.GDNextLevelObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.InsideHouseCode.GDObjectiveObjects1);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.InsideHouseCode.GDObjectivesBackgroundObjects1);
@@ -4496,6 +4523,9 @@ for(var i = 0, len = gdjs.InsideHouseCode.GDCheatsEnablerTitleObjects1.length ;i
 }
 for(var i = 0, len = gdjs.InsideHouseCode.GDCheatsEnablerObjects1.length ;i < len;++i) {
     gdjs.InsideHouseCode.GDCheatsEnablerObjects1[i].hide();
+}
+for(var i = 0, len = gdjs.InsideHouseCode.GDMenuButtonObjects1.length ;i < len;++i) {
+    gdjs.InsideHouseCode.GDMenuButtonObjects1[i].hide();
 }
 }{for(var i = 0, len = gdjs.InsideHouseCode.GDStatsTextObjects1.length ;i < len;++i) {
     gdjs.InsideHouseCode.GDStatsTextObjects1[i].hide();
@@ -5340,7 +5370,7 @@ if (gdjs.InsideHouseCode.condition1IsTrue_0.val) {
 }
 
 
-};gdjs.InsideHouseCode.eventsList53 = function(runtimeScene) {
+};gdjs.InsideHouseCode.mapOfGDgdjs_46InsideHouseCode_46GDMenuButtonObjects1Objects = Hashtable.newFrom({"MenuButton": gdjs.InsideHouseCode.GDMenuButtonObjects1});gdjs.InsideHouseCode.eventsList53 = function(runtimeScene) {
 
 {
 
@@ -5385,6 +5415,32 @@ gdjs.InsideHouseCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().trigge
 if (gdjs.InsideHouseCode.condition3IsTrue_0.val) {
 {gdjs.evtTools.common.setVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(46), true);
 }{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "End Screen", false);
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.InsideHouseCode.GDMenuButtonObjects1);
+
+gdjs.InsideHouseCode.condition0IsTrue_0.val = false;
+gdjs.InsideHouseCode.condition1IsTrue_0.val = false;
+gdjs.InsideHouseCode.condition2IsTrue_0.val = false;
+{
+gdjs.InsideHouseCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.InsideHouseCode.mapOfGDgdjs_46InsideHouseCode_46GDMenuButtonObjects1Objects, runtimeScene, true, false);
+}if ( gdjs.InsideHouseCode.condition0IsTrue_0.val ) {
+{
+gdjs.InsideHouseCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Left");
+}if ( gdjs.InsideHouseCode.condition1IsTrue_0.val ) {
+{
+{gdjs.InsideHouseCode.conditionTrue_1 = gdjs.InsideHouseCode.condition2IsTrue_0;
+gdjs.InsideHouseCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14885348);
+}
+}}
+}
+if (gdjs.InsideHouseCode.condition2IsTrue_0.val) {
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Main Menu", false);
 }}
 
 }
@@ -8087,6 +8143,13 @@ gdjs.InsideHouseCode.GDOutdoorDecorObjects4.length = 0;
 gdjs.InsideHouseCode.GDOutdoorDecorObjects5.length = 0;
 gdjs.InsideHouseCode.GDOutdoorDecorObjects6.length = 0;
 gdjs.InsideHouseCode.GDOutdoorDecorObjects7.length = 0;
+gdjs.InsideHouseCode.GDMenuButtonObjects1.length = 0;
+gdjs.InsideHouseCode.GDMenuButtonObjects2.length = 0;
+gdjs.InsideHouseCode.GDMenuButtonObjects3.length = 0;
+gdjs.InsideHouseCode.GDMenuButtonObjects4.length = 0;
+gdjs.InsideHouseCode.GDMenuButtonObjects5.length = 0;
+gdjs.InsideHouseCode.GDMenuButtonObjects6.length = 0;
+gdjs.InsideHouseCode.GDMenuButtonObjects7.length = 0;
 gdjs.InsideHouseCode.GDNewObjectObjects1.length = 0;
 gdjs.InsideHouseCode.GDNewObjectObjects2.length = 0;
 gdjs.InsideHouseCode.GDNewObjectObjects3.length = 0;

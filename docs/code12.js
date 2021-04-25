@@ -89,10 +89,10 @@ gdjs.End_32ScreenCode.GDCaveHoleObjects1= [];
 gdjs.End_32ScreenCode.GDCaveHoleObjects2= [];
 gdjs.End_32ScreenCode.GDOutdoorDecorObjects1= [];
 gdjs.End_32ScreenCode.GDOutdoorDecorObjects2= [];
+gdjs.End_32ScreenCode.GDMenuButtonObjects1= [];
+gdjs.End_32ScreenCode.GDMenuButtonObjects2= [];
 gdjs.End_32ScreenCode.GDNewObject2Objects1= [];
 gdjs.End_32ScreenCode.GDNewObject2Objects2= [];
-gdjs.End_32ScreenCode.GDReplayButtonObjects1= [];
-gdjs.End_32ScreenCode.GDReplayButtonObjects2= [];
 gdjs.End_32ScreenCode.GDNewObjectObjects1= [];
 gdjs.End_32ScreenCode.GDNewObjectObjects2= [];
 
@@ -108,7 +108,7 @@ gdjs.End_32ScreenCode.condition2IsTrue_1 = {val:false};
 gdjs.End_32ScreenCode.condition3IsTrue_1 = {val:false};
 
 
-gdjs.End_32ScreenCode.mapOfGDgdjs_46End_9532ScreenCode_46GDReplayButtonObjects1Objects = Hashtable.newFrom({"ReplayButton": gdjs.End_32ScreenCode.GDReplayButtonObjects1});gdjs.End_32ScreenCode.eventsList0 = function(runtimeScene) {
+gdjs.End_32ScreenCode.mapOfGDgdjs_46End_9532ScreenCode_46GDMenuButtonObjects1Objects = Hashtable.newFrom({"MenuButton": gdjs.End_32ScreenCode.GDMenuButtonObjects1});gdjs.End_32ScreenCode.eventsList0 = function(runtimeScene) {
 
 {
 
@@ -144,13 +144,13 @@ gdjs.copyArray(runtimeScene.getObjects("NewObject"), gdjs.End_32ScreenCode.GDNew
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("ReplayButton"), gdjs.End_32ScreenCode.GDReplayButtonObjects1);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.End_32ScreenCode.GDMenuButtonObjects1);
 
 gdjs.End_32ScreenCode.condition0IsTrue_0.val = false;
 gdjs.End_32ScreenCode.condition1IsTrue_0.val = false;
 gdjs.End_32ScreenCode.condition2IsTrue_0.val = false;
 {
-gdjs.End_32ScreenCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.End_32ScreenCode.mapOfGDgdjs_46End_9532ScreenCode_46GDReplayButtonObjects1Objects, runtimeScene, true, false);
+gdjs.End_32ScreenCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.End_32ScreenCode.mapOfGDgdjs_46End_9532ScreenCode_46GDMenuButtonObjects1Objects, runtimeScene, true, false);
 }if ( gdjs.End_32ScreenCode.condition0IsTrue_0.val ) {
 {
 gdjs.End_32ScreenCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Left");
@@ -263,10 +263,10 @@ gdjs.End_32ScreenCode.GDCaveHoleObjects1.length = 0;
 gdjs.End_32ScreenCode.GDCaveHoleObjects2.length = 0;
 gdjs.End_32ScreenCode.GDOutdoorDecorObjects1.length = 0;
 gdjs.End_32ScreenCode.GDOutdoorDecorObjects2.length = 0;
+gdjs.End_32ScreenCode.GDMenuButtonObjects1.length = 0;
+gdjs.End_32ScreenCode.GDMenuButtonObjects2.length = 0;
 gdjs.End_32ScreenCode.GDNewObject2Objects1.length = 0;
 gdjs.End_32ScreenCode.GDNewObject2Objects2.length = 0;
-gdjs.End_32ScreenCode.GDReplayButtonObjects1.length = 0;
-gdjs.End_32ScreenCode.GDReplayButtonObjects2.length = 0;
 gdjs.End_32ScreenCode.GDNewObjectObjects1.length = 0;
 gdjs.End_32ScreenCode.GDNewObjectObjects2.length = 0;
 

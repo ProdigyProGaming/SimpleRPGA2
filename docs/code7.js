@@ -350,6 +350,13 @@ gdjs.ForestCode.GDOutdoorDecorObjects4= [];
 gdjs.ForestCode.GDOutdoorDecorObjects5= [];
 gdjs.ForestCode.GDOutdoorDecorObjects6= [];
 gdjs.ForestCode.GDOutdoorDecorObjects7= [];
+gdjs.ForestCode.GDMenuButtonObjects1= [];
+gdjs.ForestCode.GDMenuButtonObjects2= [];
+gdjs.ForestCode.GDMenuButtonObjects3= [];
+gdjs.ForestCode.GDMenuButtonObjects4= [];
+gdjs.ForestCode.GDMenuButtonObjects5= [];
+gdjs.ForestCode.GDMenuButtonObjects6= [];
+gdjs.ForestCode.GDMenuButtonObjects7= [];
 gdjs.ForestCode.GDNewObjectObjects1= [];
 gdjs.ForestCode.GDNewObjectObjects2= [];
 gdjs.ForestCode.GDNewObjectObjects3= [];
@@ -4112,6 +4119,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.ForestCode.GDCheat
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.ForestCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.ForestCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.ForestCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.ForestCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.ForestCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.ForestCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.ForestCode.GDObjectivesBackgroundObjects2);
@@ -4143,6 +4151,9 @@ for(var i = 0, len = gdjs.ForestCode.GDCheatsEnablerTitleObjects2.length ;i < le
 }
 for(var i = 0, len = gdjs.ForestCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.ForestCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.ForestCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.ForestCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.ForestCode.GDStatsTextObjects2.length ;i < len;++i) {
     gdjs.ForestCode.GDStatsTextObjects2[i].hide();
@@ -4207,6 +4218,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.ForestCode.GDCheat
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.ForestCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.ForestCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.ForestCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.ForestCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.ForestCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.ForestCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.ForestCode.GDObjectivesBackgroundObjects2);
@@ -4238,6 +4250,9 @@ for(var i = 0, len = gdjs.ForestCode.GDCheatsEnablerTitleObjects2.length ;i < le
 }
 for(var i = 0, len = gdjs.ForestCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.ForestCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.ForestCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.ForestCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.ForestCode.GDCheatsButtonsObjects2.length ;i < len;++i) {
     gdjs.ForestCode.GDCheatsButtonsObjects2[i].hide();
@@ -4284,6 +4299,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.ForestCode.GDCheat
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.ForestCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.ForestCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.ForestCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.ForestCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.ForestCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.ForestCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.ForestCode.GDObjectivesBackgroundObjects2);
@@ -4315,6 +4331,9 @@ for(var i = 0, len = gdjs.ForestCode.GDCheatsEnablerTitleObjects2.length ;i < le
 }
 for(var i = 0, len = gdjs.ForestCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.ForestCode.GDCheatsEnablerObjects2[i].hide(false);
+}
+for(var i = 0, len = gdjs.ForestCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.ForestCode.GDMenuButtonObjects2[i].hide(false);
 }
 }{for(var i = 0, len = gdjs.ForestCode.GDVolumeTextTitleObjects2.length ;i < len;++i) {
     gdjs.ForestCode.GDVolumeTextTitleObjects2[i].setPosition((( gdjs.ForestCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.ForestCode.GDObjectivesBackgroundObjects2[0].getPointX("VolumeTitle")),(( gdjs.ForestCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.ForestCode.GDObjectivesBackgroundObjects2[0].getPointY("VolumeTitle")));
@@ -4361,6 +4380,9 @@ for(var i = 0, len = gdjs.ForestCode.GDNextLevelObjects2.length ;i < len;++i) {
 for(var i = 0, len = gdjs.ForestCode.GDRestockShopCheatObjects2.length ;i < len;++i) {
     gdjs.ForestCode.GDRestockShopCheatObjects2[i].hide();
 }
+}{for(var i = 0, len = gdjs.ForestCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.ForestCode.GDMenuButtonObjects2[i].setPosition((( gdjs.ForestCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.ForestCode.GDObjectivesBackgroundObjects2[0].getPointX("CheatsEnablerTitle")),(( gdjs.ForestCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.ForestCode.GDObjectivesBackgroundObjects2[0].getPointY("CheatsEnablerTitle")) + 50);
+}
 }
 { //Subevents
 gdjs.ForestCode.eventsList36(runtimeScene);} //End of subevents
@@ -4382,6 +4404,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.ForestCode.GDCheat
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.ForestCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.ForestCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.ForestCode.GDCheatsValuesObjects2);
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.ForestCode.GDMenuButtonObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.ForestCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.ForestCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.ForestCode.GDObjectivesBackgroundObjects2);
@@ -4413,6 +4436,9 @@ for(var i = 0, len = gdjs.ForestCode.GDCheatsEnablerTitleObjects2.length ;i < le
 }
 for(var i = 0, len = gdjs.ForestCode.GDCheatsEnablerObjects2.length ;i < len;++i) {
     gdjs.ForestCode.GDCheatsEnablerObjects2[i].hide();
+}
+for(var i = 0, len = gdjs.ForestCode.GDMenuButtonObjects2.length ;i < len;++i) {
+    gdjs.ForestCode.GDMenuButtonObjects2[i].hide();
 }
 }{for(var i = 0, len = gdjs.ForestCode.GDStatsTextObjects2.length ;i < len;++i) {
     gdjs.ForestCode.GDStatsTextObjects2[i].hide();
@@ -4454,6 +4480,7 @@ gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.ForestCode.GD
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.ForestCode.GDCheatsTitleObjects1);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.ForestCode.GDCheatsValuesObjects1);
 /* Reuse gdjs.ForestCode.GDCurrencyTextObjects1 */
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.ForestCode.GDMenuButtonObjects1);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.ForestCode.GDNextLevelObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.ForestCode.GDObjectiveObjects1);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.ForestCode.GDObjectivesBackgroundObjects1);
@@ -4482,6 +4509,9 @@ for(var i = 0, len = gdjs.ForestCode.GDCheatsEnablerTitleObjects1.length ;i < le
 }
 for(var i = 0, len = gdjs.ForestCode.GDCheatsEnablerObjects1.length ;i < len;++i) {
     gdjs.ForestCode.GDCheatsEnablerObjects1[i].hide();
+}
+for(var i = 0, len = gdjs.ForestCode.GDMenuButtonObjects1.length ;i < len;++i) {
+    gdjs.ForestCode.GDMenuButtonObjects1[i].hide();
 }
 }{for(var i = 0, len = gdjs.ForestCode.GDStatsTextObjects1.length ;i < len;++i) {
     gdjs.ForestCode.GDStatsTextObjects1[i].hide();
@@ -5326,7 +5356,7 @@ if (gdjs.ForestCode.condition1IsTrue_0.val) {
 }
 
 
-};gdjs.ForestCode.eventsList53 = function(runtimeScene) {
+};gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDMenuButtonObjects1Objects = Hashtable.newFrom({"MenuButton": gdjs.ForestCode.GDMenuButtonObjects1});gdjs.ForestCode.eventsList53 = function(runtimeScene) {
 
 {
 
@@ -5371,6 +5401,32 @@ gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce
 if (gdjs.ForestCode.condition3IsTrue_0.val) {
 {gdjs.evtTools.common.setVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(46), true);
 }{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "End Screen", false);
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.ForestCode.GDMenuButtonObjects1);
+
+gdjs.ForestCode.condition0IsTrue_0.val = false;
+gdjs.ForestCode.condition1IsTrue_0.val = false;
+gdjs.ForestCode.condition2IsTrue_0.val = false;
+{
+gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDMenuButtonObjects1Objects, runtimeScene, true, false);
+}if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
+{
+gdjs.ForestCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Left");
+}if ( gdjs.ForestCode.condition1IsTrue_0.val ) {
+{
+{gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition2IsTrue_0;
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14885348);
+}
+}}
+}
+if (gdjs.ForestCode.condition2IsTrue_0.val) {
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Main Menu", false);
 }}
 
 }
@@ -8017,6 +8073,13 @@ gdjs.ForestCode.GDOutdoorDecorObjects4.length = 0;
 gdjs.ForestCode.GDOutdoorDecorObjects5.length = 0;
 gdjs.ForestCode.GDOutdoorDecorObjects6.length = 0;
 gdjs.ForestCode.GDOutdoorDecorObjects7.length = 0;
+gdjs.ForestCode.GDMenuButtonObjects1.length = 0;
+gdjs.ForestCode.GDMenuButtonObjects2.length = 0;
+gdjs.ForestCode.GDMenuButtonObjects3.length = 0;
+gdjs.ForestCode.GDMenuButtonObjects4.length = 0;
+gdjs.ForestCode.GDMenuButtonObjects5.length = 0;
+gdjs.ForestCode.GDMenuButtonObjects6.length = 0;
+gdjs.ForestCode.GDMenuButtonObjects7.length = 0;
 gdjs.ForestCode.GDNewObjectObjects1.length = 0;
 gdjs.ForestCode.GDNewObjectObjects2.length = 0;
 gdjs.ForestCode.GDNewObjectObjects3.length = 0;
