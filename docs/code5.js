@@ -551,7 +551,7 @@ gdjs.Town_32CenterCode.conditionTrue_1.val = (gdjs.evtTools.runtimeScene.getScen
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22696340);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22820644);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -583,7 +583,7 @@ gdjs.Town_32CenterCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition3IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22697628);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22821932);
 }
 }}
 }
@@ -619,7 +619,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22701172);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22825476);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -1119,7 +1119,7 @@ gdjs.Town_32CenterCode.conditionTrue_1.val = (gdjs.evtTools.runtimeScene.getScen
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22722828);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22847132);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -1369,7 +1369,7 @@ gdjs.Town_32CenterCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition2IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22719516);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22843820);
 }
 }}
 }
@@ -1731,7 +1731,7 @@ gdjs.Town_32CenterCode.conditionTrue_1.val = true && gdjs.Town_32CenterCode.cond
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22736596);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22860900);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -1804,7 +1804,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDSwordObjects2.length;i<l;++i)
 gdjs.Town_32CenterCode.GDSwordObjects2.length = k;}if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22744220);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22868524);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -1835,7 +1835,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDSwordObjects2.length;i<l;++i)
 gdjs.Town_32CenterCode.GDSwordObjects2.length = k;}if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22745236);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22869540);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -1866,7 +1866,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDSwordObjects2.length;i<l;++i)
 gdjs.Town_32CenterCode.GDSwordObjects2.length = k;}if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22746012);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22870316);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -1897,7 +1897,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDSwordObjects2.length;i<l;++i)
 gdjs.Town_32CenterCode.GDSwordObjects2.length = k;}if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22746660);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22870964);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -1928,7 +1928,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDSwordObjects1.length;i<l;++i)
 gdjs.Town_32CenterCode.GDSwordObjects1.length = k;}if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22748028);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22872332);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -2001,7 +2001,7 @@ gdjs.Town_32CenterCode.GDGunObjects2.length = k;}if (gdjs.Town_32CenterCode.cond
 gdjs.Town_32CenterCode.condition0IsTrue_0.val = false;
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition0IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22752444);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22876748);
 }
 }if (gdjs.Town_32CenterCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.Town_32CenterCode.GDGunObjects2, gdjs.Town_32CenterCode.GDGunObjects3);
@@ -2091,7 +2091,7 @@ gdjs.Town_32CenterCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition3IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22755732);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22880036);
 }
 }}
 }
@@ -2268,7 +2268,7 @@ gdjs.Town_32CenterCode.conditionTrue_1.val = (gdjs.evtTools.common.toNumber(gdjs
 gdjs.Town_32CenterCode.condition0IsTrue_0.val = false;
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition0IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22763204);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22887508);
 }
 }if (gdjs.Town_32CenterCode.condition0IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(9).getChild("Effects").getChild(gdjs.evtTools.common.toNumber(gdjs.evtTools.string.subStr(gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(9).getChild("Weapon")), 6, 1)) + 2).getChild("TotalDuration").setNumber(30);
@@ -2305,7 +2305,7 @@ gdjs.Town_32CenterCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition3IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22762532);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22886836);
 }
 }}
 }
@@ -2406,7 +2406,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timer
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22769900);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22894204);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -2455,7 +2455,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariable
 gdjs.Town_32CenterCode.condition0IsTrue_0.val = false;
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition0IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22774692);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22898996);
 }
 }if (gdjs.Town_32CenterCode.condition0IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(0).setNumber(0);
@@ -2498,7 +2498,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleas
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22778324);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22902628);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -2519,7 +2519,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleas
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22779532);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22903836);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -2540,7 +2540,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleas
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22780748);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22905052);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -2565,7 +2565,7 @@ gdjs.Town_32CenterCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition2IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22781996);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22906300);
 }
 }}
 }
@@ -2604,7 +2604,7 @@ if( gdjs.Town_32CenterCode.condition1IsTrue_1.val ) {
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22783932);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22908236);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -3052,7 +3052,7 @@ gdjs.Town_32CenterCode.GDCheatsEffectsObjects4.push(gdjs.Town_32CenterCode.forEa
 gdjs.Town_32CenterCode.condition0IsTrue_0.val = false;
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition0IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22809292);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22933596);
 }
 }if (gdjs.Town_32CenterCode.condition0IsTrue_0.val) {
 
@@ -3094,7 +3094,7 @@ gdjs.Town_32CenterCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Town_32CenterCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition2IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22812236);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22936540);
 }
 }}
 }
@@ -3123,7 +3123,7 @@ gdjs.Town_32CenterCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Town_32CenterCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition2IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22814780);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22939084);
 }
 }}
 }
@@ -3151,7 +3151,7 @@ gdjs.Town_32CenterCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Town_32CenterCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition2IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22819668);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22943972);
 }
 }}
 }
@@ -3567,7 +3567,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDVolumeControlObjects3.length;
 gdjs.Town_32CenterCode.GDVolumeControlObjects3.length = k;}if ( gdjs.Town_32CenterCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition3IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22831068);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22955740);
 }
 }}
 }
@@ -3607,7 +3607,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDVolumeControlObjects3.length;
 gdjs.Town_32CenterCode.GDVolumeControlObjects3.length = k;}if ( gdjs.Town_32CenterCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition3IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22836060);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22960732);
 }
 }}
 }
@@ -3647,7 +3647,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDVolumeControlObjects3.length;
 gdjs.Town_32CenterCode.GDVolumeControlObjects3.length = k;}if ( gdjs.Town_32CenterCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition3IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22841156);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22965828);
 }
 }}
 }
@@ -3676,7 +3676,7 @@ gdjs.Town_32CenterCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Town_32CenterCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition2IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22845580);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22970252);
 }
 }}
 }
@@ -3876,7 +3876,7 @@ gdjs.Town_32CenterCode.condition1IsTrue_0.val = gdjs.evtTools.camera.layerIsVisi
 }if ( gdjs.Town_32CenterCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition2IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22863964);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22988636);
 }
 }}
 }
@@ -3995,7 +3995,7 @@ gdjs.Town_32CenterCode.condition2IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Town_32CenterCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition3IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22788180);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22912484);
 }
 }}
 }
@@ -4077,7 +4077,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDInventoryQuantityObjects2.len
 gdjs.Town_32CenterCode.GDInventoryQuantityObjects2.length = k;}if ( gdjs.Town_32CenterCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition3IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22792372);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22916676);
 }
 }}
 }
@@ -4131,7 +4131,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDInventoryTabObjects2.length;i
 gdjs.Town_32CenterCode.GDInventoryTabObjects2.length = k;}if ( gdjs.Town_32CenterCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition3IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22796092);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22920396);
 }
 }}
 }
@@ -4174,7 +4174,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDInventoryTabObjects2.length;i
 gdjs.Town_32CenterCode.GDInventoryTabObjects2.length = k;}if ( gdjs.Town_32CenterCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition3IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22798348);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22922652);
 }
 }}
 }
@@ -4714,7 +4714,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22785148);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22909452);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -4896,7 +4896,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22876140);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23000812);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -4917,7 +4917,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22876612);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23001284);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -4938,7 +4938,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22878356);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23003028);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -4959,7 +4959,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22878580);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23003252);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -4980,7 +4980,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22880484);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23005156);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -5303,7 +5303,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDPlayerObjects2.length;i<l;++i
 gdjs.Town_32CenterCode.GDPlayerObjects2.length = k;}if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22885740);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23010412);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -5337,7 +5337,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDPlayerObjects1.length;i<l;++i
 gdjs.Town_32CenterCode.GDPlayerObjects1.length = k;}if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22888564);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23013236);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -5378,7 +5378,7 @@ gdjs.Town_32CenterCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleas
 }if ( gdjs.Town_32CenterCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition2IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22893220);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23017892);
 }
 }}
 }
@@ -5409,7 +5409,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDChangeSceneInteractionObjects
 gdjs.Town_32CenterCode.GDChangeSceneInteractionObjects3.length = k;}if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22893596);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23018268);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -5438,7 +5438,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDChangeSceneInteractionObjects
 gdjs.Town_32CenterCode.GDChangeSceneInteractionObjects2.length = k;}if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22895604);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23020276);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -5484,7 +5484,7 @@ gdjs.Town_32CenterCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition3IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22814700);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23021532);
 }
 }}
 }
@@ -5512,7 +5512,7 @@ gdjs.Town_32CenterCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Town_32CenterCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition2IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14885348);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23022820);
 }
 }}
 }
@@ -5535,7 +5535,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22896588);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23023884);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -5815,7 +5815,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22907380);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23034268);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -5855,7 +5855,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22912084);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23038972);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -5875,7 +5875,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22912940);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23039828);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -5895,7 +5895,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22913828);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23040716);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -5915,7 +5915,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22914692);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23041580);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -5988,7 +5988,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22915548);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23042436);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -6017,7 +6017,7 @@ gdjs.Town_32CenterCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition3IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22917156);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23044044);
 }
 }}
 }
@@ -6055,7 +6055,7 @@ gdjs.Town_32CenterCode.condition3IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition3IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition4IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22918180);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23045068);
 }
 }}
 }
@@ -6095,7 +6095,7 @@ gdjs.Town_32CenterCode.condition3IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Town_32CenterCode.condition3IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition4IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22920908);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23047796);
 }
 }}
 }
@@ -6130,7 +6130,7 @@ gdjs.Town_32CenterCode.condition2IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition3IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22924180);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23049380);
 }
 }}
 }
@@ -6161,7 +6161,7 @@ gdjs.Town_32CenterCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition3IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22925052);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23050252);
 }
 }}
 }
@@ -6269,7 +6269,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDDialogBoxObjects2.length;i<l;
 gdjs.Town_32CenterCode.GDDialogBoxObjects2.length = k;}if ( gdjs.Town_32CenterCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition2IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22934572);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23059708);
 }
 }}
 }
@@ -6304,7 +6304,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDDialogBoxObjects2.length;i<l;
 gdjs.Town_32CenterCode.GDDialogBoxObjects2.length = k;}if ( gdjs.Town_32CenterCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition2IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22935572);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23060956);
 }
 }}
 }
@@ -6335,7 +6335,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDDialogBoxObjects2.length;i<l;
 gdjs.Town_32CenterCode.GDDialogBoxObjects2.length = k;}if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22936684);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23061796);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -6369,7 +6369,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDDialogBoxObjects2.length;i<l;
 gdjs.Town_32CenterCode.GDDialogBoxObjects2.length = k;}if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22937860);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23062996);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -6396,7 +6396,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22939292);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23063492);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -6416,7 +6416,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22940124);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23065244);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -6797,7 +6797,7 @@ gdjs.Town_32CenterCode.GDEffectIconsObjects3.push(gdjs.Town_32CenterCode.forEach
 gdjs.Town_32CenterCode.condition0IsTrue_0.val = false;
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition0IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22964388);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23089508);
 }
 }if (gdjs.Town_32CenterCode.condition0IsTrue_0.val) {
 {for(var i = 0, len = gdjs.Town_32CenterCode.GDEffectIconsObjects3.length ;i < len;++i) {
@@ -6823,7 +6823,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22966612);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23091732);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -6876,7 +6876,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22970404);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23095524);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -6914,7 +6914,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22973788);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23098908);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -6949,7 +6949,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22976852);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23101972);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -6984,7 +6984,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22979820);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23104940);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -7019,7 +7019,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22982788);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23107908);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -7098,7 +7098,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22985788);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23110908);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -7149,7 +7149,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22991396);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23116516);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -7595,7 +7595,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22993748);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23118868);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -7618,7 +7618,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22995388);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23120508);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -7640,7 +7640,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariable
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22996804);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23121924);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
@@ -7696,7 +7696,7 @@ gdjs.Town_32CenterCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timer
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23003060);
+gdjs.Town_32CenterCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23128180);
 }
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {

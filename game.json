@@ -44923,7 +44923,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "HUD",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         },
@@ -81595,7 +81595,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "HUD",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         },
@@ -97848,7 +97848,7 @@
       "oglZNear": 1,
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -100888,7 +100888,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "Black",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         }
