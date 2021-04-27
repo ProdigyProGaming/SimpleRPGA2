@@ -2522,16 +2522,9 @@ gdjs.FarmCode.condition1IsTrue_0.val = false;
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition0IsTrue_0;
 gdjs.FarmCode.condition0IsTrue_1.val = false;
-gdjs.FarmCode.condition1IsTrue_1.val = false;
 {
 gdjs.FarmCode.condition0IsTrue_1.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "e");
 if( gdjs.FarmCode.condition0IsTrue_1.val ) {
-    gdjs.FarmCode.conditionTrue_1.val = true;
-}
-}
-{
-gdjs.FarmCode.condition1IsTrue_1.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "Tab");
-if( gdjs.FarmCode.condition1IsTrue_1.val ) {
     gdjs.FarmCode.conditionTrue_1.val = true;
 }
 }
@@ -5311,7 +5304,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDChangeSceneInteractionObjects3.length;
 }
 gdjs.FarmCode.GDChangeSceneInteractionObjects3.length = k;}if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
-gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "e");
+gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "f");
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
@@ -7367,17 +7360,7 @@ gdjs.FarmCode.conditionTrue_1.val = (gdjs.evtTools.common.getVariableNumber(runt
 }
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
-{gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.condition0IsTrue_1.val = false;
-gdjs.FarmCode.condition1IsTrue_1.val = false;
-{
-gdjs.FarmCode.condition0IsTrue_1.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(25)) != 6;
-}if ( gdjs.FarmCode.condition0IsTrue_1.val ) {
-{
-gdjs.FarmCode.condition1IsTrue_1.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(26)) == 6;
-}}
-gdjs.FarmCode.conditionTrue_1.val = true && gdjs.FarmCode.condition0IsTrue_1.val && gdjs.FarmCode.condition1IsTrue_1.val;
-}
+gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(25)) != 6;
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(24).getChild("Shop" + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(25))).getChild("Item" + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(26)) + "Stock").add(2);

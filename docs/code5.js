@@ -2585,16 +2585,9 @@ gdjs.Town_32CenterCode.condition1IsTrue_0.val = false;
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition0IsTrue_0;
 gdjs.Town_32CenterCode.condition0IsTrue_1.val = false;
-gdjs.Town_32CenterCode.condition1IsTrue_1.val = false;
 {
 gdjs.Town_32CenterCode.condition0IsTrue_1.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "e");
 if( gdjs.Town_32CenterCode.condition0IsTrue_1.val ) {
-    gdjs.Town_32CenterCode.conditionTrue_1.val = true;
-}
-}
-{
-gdjs.Town_32CenterCode.condition1IsTrue_1.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "Tab");
-if( gdjs.Town_32CenterCode.condition1IsTrue_1.val ) {
     gdjs.Town_32CenterCode.conditionTrue_1.val = true;
 }
 }
@@ -5374,7 +5367,7 @@ for(var i = 0, k = 0, l = gdjs.Town_32CenterCode.GDChangeSceneInteractionObjects
 }
 gdjs.Town_32CenterCode.GDChangeSceneInteractionObjects3.length = k;}if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
-gdjs.Town_32CenterCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "e");
+gdjs.Town_32CenterCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "f");
 }if ( gdjs.Town_32CenterCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition2IsTrue_0;
@@ -7430,17 +7423,7 @@ gdjs.Town_32CenterCode.conditionTrue_1.val = (gdjs.evtTools.common.getVariableNu
 }
 }if ( gdjs.Town_32CenterCode.condition0IsTrue_0.val ) {
 {
-{gdjs.Town_32CenterCode.conditionTrue_1 = gdjs.Town_32CenterCode.condition1IsTrue_0;
-gdjs.Town_32CenterCode.condition0IsTrue_1.val = false;
-gdjs.Town_32CenterCode.condition1IsTrue_1.val = false;
-{
-gdjs.Town_32CenterCode.condition0IsTrue_1.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(25)) != 6;
-}if ( gdjs.Town_32CenterCode.condition0IsTrue_1.val ) {
-{
-gdjs.Town_32CenterCode.condition1IsTrue_1.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(26)) == 6;
-}}
-gdjs.Town_32CenterCode.conditionTrue_1.val = true && gdjs.Town_32CenterCode.condition0IsTrue_1.val && gdjs.Town_32CenterCode.condition1IsTrue_1.val;
-}
+gdjs.Town_32CenterCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(25)) != 6;
 }}
 if (gdjs.Town_32CenterCode.condition1IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(24).getChild("Shop" + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(25))).getChild("Item" + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(26)) + "Stock").add(2);

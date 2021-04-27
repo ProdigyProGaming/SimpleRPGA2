@@ -2494,16 +2494,9 @@ gdjs.HouseCode.condition1IsTrue_0.val = false;
 {
 {gdjs.HouseCode.conditionTrue_1 = gdjs.HouseCode.condition0IsTrue_0;
 gdjs.HouseCode.condition0IsTrue_1.val = false;
-gdjs.HouseCode.condition1IsTrue_1.val = false;
 {
 gdjs.HouseCode.condition0IsTrue_1.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "e");
 if( gdjs.HouseCode.condition0IsTrue_1.val ) {
-    gdjs.HouseCode.conditionTrue_1.val = true;
-}
-}
-{
-gdjs.HouseCode.condition1IsTrue_1.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "Tab");
-if( gdjs.HouseCode.condition1IsTrue_1.val ) {
     gdjs.HouseCode.conditionTrue_1.val = true;
 }
 }
@@ -5283,7 +5276,7 @@ for(var i = 0, k = 0, l = gdjs.HouseCode.GDChangeSceneInteractionObjects3.length
 }
 gdjs.HouseCode.GDChangeSceneInteractionObjects3.length = k;}if ( gdjs.HouseCode.condition0IsTrue_0.val ) {
 {
-gdjs.HouseCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "e");
+gdjs.HouseCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "f");
 }if ( gdjs.HouseCode.condition1IsTrue_0.val ) {
 {
 {gdjs.HouseCode.conditionTrue_1 = gdjs.HouseCode.condition2IsTrue_0;
@@ -7339,17 +7332,7 @@ gdjs.HouseCode.conditionTrue_1.val = (gdjs.evtTools.common.getVariableNumber(run
 }
 }if ( gdjs.HouseCode.condition0IsTrue_0.val ) {
 {
-{gdjs.HouseCode.conditionTrue_1 = gdjs.HouseCode.condition1IsTrue_0;
-gdjs.HouseCode.condition0IsTrue_1.val = false;
-gdjs.HouseCode.condition1IsTrue_1.val = false;
-{
-gdjs.HouseCode.condition0IsTrue_1.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(25)) != 6;
-}if ( gdjs.HouseCode.condition0IsTrue_1.val ) {
-{
-gdjs.HouseCode.condition1IsTrue_1.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(26)) == 6;
-}}
-gdjs.HouseCode.conditionTrue_1.val = true && gdjs.HouseCode.condition0IsTrue_1.val && gdjs.HouseCode.condition1IsTrue_1.val;
-}
+gdjs.HouseCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(25)) != 6;
 }}
 if (gdjs.HouseCode.condition1IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(24).getChild("Shop" + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(25))).getChild("Item" + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(26)) + "Stock").add(2);

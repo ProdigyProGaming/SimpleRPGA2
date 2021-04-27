@@ -14643,7 +14643,7 @@
         }
       ],
       "behaviors": [],
-      "string": "Objectives",
+      "string": "",
       "font": "",
       "characterSize": 20,
       "color": {
@@ -18885,7 +18885,7 @@
               "timeBetweenFrames": 0.07999999821186066,
               "sprites": [
                 {
-                  "hasCustomCollisionMask": false,
+                  "hasCustomCollisionMask": true,
                   "image": "Tree7-1.png",
                   "points": [],
                   "originPoint": {
@@ -18899,7 +18899,26 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 72
+                      },
+                      {
+                        "x": 90,
+                        "y": 72
+                      },
+                      {
+                        "x": 90,
+                        "y": 114
+                      },
+                      {
+                        "x": 0,
+                        "y": 114
+                      }
+                    ]
+                  ]
                 }
               ]
             }
@@ -18914,7 +18933,7 @@
               "timeBetweenFrames": 0.07999999821186066,
               "sprites": [
                 {
-                  "hasCustomCollisionMask": false,
+                  "hasCustomCollisionMask": true,
                   "image": "Tree8-1.png",
                   "points": [],
                   "originPoint": {
@@ -18928,7 +18947,26 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 86
+                      },
+                      {
+                        "x": 108,
+                        "y": 86
+                      },
+                      {
+                        "x": 108,
+                        "y": 118
+                      },
+                      {
+                        "x": 0,
+                        "y": 118
+                      }
+                    ]
+                  ]
                 }
               ]
             }
@@ -18943,7 +18981,7 @@
               "timeBetweenFrames": 0.07999999821186066,
               "sprites": [
                 {
-                  "hasCustomCollisionMask": false,
+                  "hasCustomCollisionMask": true,
                   "image": "Tree9-1.png",
                   "points": [],
                   "originPoint": {
@@ -18957,7 +18995,26 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 80
+                      },
+                      {
+                        "x": 84,
+                        "y": 80
+                      },
+                      {
+                        "x": 84,
+                        "y": 108
+                      },
+                      {
+                        "x": 0,
+                        "y": 107
+                      }
+                    ]
+                  ]
                 }
               ]
             }
@@ -18972,7 +19029,7 @@
               "timeBetweenFrames": 0.07999999821186066,
               "sprites": [
                 {
-                  "hasCustomCollisionMask": false,
+                  "hasCustomCollisionMask": true,
                   "image": "Tree10-1.png",
                   "points": [],
                   "originPoint": {
@@ -18986,7 +19043,26 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 74
+                      },
+                      {
+                        "x": 44,
+                        "y": 74
+                      },
+                      {
+                        "x": 44,
+                        "y": 124
+                      },
+                      {
+                        "x": 0,
+                        "y": 124
+                      }
+                    ]
+                  ]
                 }
               ]
             }
@@ -19001,7 +19077,7 @@
               "timeBetweenFrames": 0.07999999821186066,
               "sprites": [
                 {
-                  "hasCustomCollisionMask": false,
+                  "hasCustomCollisionMask": true,
                   "image": "Tree11-1.png",
                   "points": [],
                   "originPoint": {
@@ -19015,7 +19091,26 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 74
+                      },
+                      {
+                        "x": 70,
+                        "y": 74
+                      },
+                      {
+                        "x": 70,
+                        "y": 112
+                      },
+                      {
+                        "x": 0,
+                        "y": 112
+                      }
+                    ]
+                  ]
                 }
               ]
             }
@@ -19030,7 +19125,7 @@
               "timeBetweenFrames": 0.07999999821186066,
               "sprites": [
                 {
-                  "hasCustomCollisionMask": false,
+                  "hasCustomCollisionMask": true,
                   "image": "Tree12-1.png",
                   "points": [],
                   "originPoint": {
@@ -19044,7 +19139,26 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 76
+                      },
+                      {
+                        "x": 100,
+                        "y": 76
+                      },
+                      {
+                        "x": 100,
+                        "y": 116
+                      },
+                      {
+                        "x": 0,
+                        "y": 116
+                      }
+                    ]
+                  ]
                 }
               ]
             }
@@ -19059,7 +19173,7 @@
               "timeBetweenFrames": 0.07999999821186066,
               "sprites": [
                 {
-                  "hasCustomCollisionMask": false,
+                  "hasCustomCollisionMask": true,
                   "image": "Tree13-1.png",
                   "points": [],
                   "originPoint": {
@@ -19073,7 +19187,26 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 45
+                      },
+                      {
+                        "x": 54,
+                        "y": 45
+                      },
+                      {
+                        "x": 54,
+                        "y": 72
+                      },
+                      {
+                        "x": 0,
+                        "y": 72
+                      }
+                    ]
+                  ]
                 }
               ]
             }
@@ -31557,7 +31690,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "12"
+              "value": "11"
             }
           ]
         },
@@ -31579,7 +31712,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "13"
+              "value": "11"
             }
           ]
         },
@@ -31601,7 +31734,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "14"
+              "value": "13"
             }
           ]
         },
@@ -31623,7 +31756,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "15"
+              "value": "14"
             }
           ]
         },
@@ -31645,7 +31778,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "11"
+              "value": "15"
             }
           ]
         },
@@ -44997,7 +45130,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.4900000000000001
+        "zoomFactor": 0.7500000000000002
       },
       "objectsGroups": [
         {
@@ -46325,7 +46458,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "12"
+              "value": "11"
             }
           ]
         },
@@ -46347,7 +46480,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "13"
+              "value": "12"
             }
           ]
         },
@@ -46369,7 +46502,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "14"
+              "value": "13"
             }
           ]
         },
@@ -46391,7 +46524,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "15"
+              "value": "14"
             }
           ]
         },
@@ -46413,7 +46546,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "11"
+              "value": "15"
             }
           ]
         },
@@ -46536,8 +46669,8 @@
           "name": "HotBarSelection",
           "persistentUuid": "bdcac38a-0a80-4fbb-a6bb-a204df4bd60b",
           "width": 0,
-          "x": 750,
-          "y": 630,
+          "x": 749,
+          "y": 615,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -56171,17 +56304,6 @@
                             "e"
                           ],
                           "subInstructions": []
-                        },
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "KeyReleased"
-                          },
-                          "parameters": [
-                            "",
-                            "Tab"
-                          ],
-                          "subInstructions": []
                         }
                       ]
                     },
@@ -61132,7 +61254,7 @@
                       },
                       "parameters": [
                         "",
-                        "e"
+                        "f"
                       ],
                       "subInstructions": []
                     },
@@ -66154,35 +66276,14 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "BuiltinCommonInstructions::And"
+                    "value": "VarGlobal"
                   },
-                  "parameters": [],
-                  "subInstructions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "VarGlobal"
-                      },
-                      "parameters": [
-                        "RandomShopVal",
-                        "!=",
-                        "6"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "VarGlobal"
-                      },
-                      "parameters": [
-                        "RandomShopItemVal",
-                        "=",
-                        "6"
-                      ],
-                      "subInstructions": []
-                    }
-                  ]
+                  "parameters": [
+                    "RandomShopVal",
+                    "!=",
+                    "6"
+                  ],
+                  "subInstructions": []
                 }
               ],
               "actions": [
@@ -67698,7 +67799,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "12"
+              "value": "11"
             }
           ]
         },
@@ -67720,7 +67821,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "13"
+              "value": "12"
             }
           ]
         },
@@ -67742,7 +67843,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "14"
+              "value": "13"
             }
           ]
         },
@@ -67764,7 +67865,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "15"
+              "value": "14"
             }
           ]
         },
@@ -67786,7 +67887,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "11"
+              "value": "15"
             }
           ]
         },
@@ -77592,7 +77693,7 @@
               },
               "parameters": [
                 "",
-                "e"
+                "f"
               ],
               "subInstructions": []
             },
@@ -77943,7 +78044,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "12"
+              "value": "11"
             }
           ]
         },
@@ -77965,7 +78066,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "13"
+              "value": "12"
             }
           ]
         },
@@ -77987,7 +78088,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "14"
+              "value": "13"
             }
           ]
         },
@@ -78009,7 +78110,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "15"
+              "value": "14"
             }
           ]
         },
@@ -78031,7 +78132,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "11"
+              "value": "15"
             }
           ]
         },
@@ -81745,7 +81846,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "12"
+              "value": "11"
             }
           ]
         },
@@ -81767,7 +81868,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "13"
+              "value": "12"
             }
           ]
         },
@@ -81789,7 +81890,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "14"
+              "value": "13"
             }
           ]
         },
@@ -81811,7 +81912,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "15"
+              "value": "14"
             }
           ]
         },
@@ -81833,7 +81934,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "11"
+              "value": "15"
             }
           ]
         },
@@ -84931,7 +85032,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "Inventory",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         },
@@ -85086,7 +85187,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "12"
+              "value": "11"
             }
           ]
         },
@@ -85108,7 +85209,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "13"
+              "value": "12"
             }
           ]
         },
@@ -85130,7 +85231,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "14"
+              "value": "13"
             }
           ]
         },
@@ -85152,7 +85253,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "15"
+              "value": "14"
             }
           ]
         },
@@ -85167,14 +85268,14 @@
           "width": 0,
           "x": 750,
           "y": 630,
-          "zOrder": 18,
+          "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
             {
               "name": "Slot",
               "type": "string",
-              "value": "11"
+              "value": "15"
             }
           ]
         },
@@ -89495,7 +89596,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.6000000000000152
+        "zoomFactor": 0.9000000000000153
       },
       "objectsGroups": [
         {
@@ -89623,7 +89724,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "12"
+              "value": "11"
             }
           ]
         },
@@ -89645,7 +89746,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "13"
+              "value": "12"
             }
           ]
         },
@@ -89667,7 +89768,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "14"
+              "value": "13"
             }
           ]
         },
@@ -89689,7 +89790,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "15"
+              "value": "14"
             }
           ]
         },
@@ -89704,14 +89805,14 @@
           "width": 0,
           "x": 750,
           "y": 630,
-          "zOrder": 18,
+          "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
             {
               "name": "Slot",
               "type": "string",
-              "value": "11"
+              "value": "15"
             }
           ]
         },
@@ -93359,7 +93460,7 @@
                         {
                           "name": "Name",
                           "type": "string",
-                          "value": "Seed11"
+                          "value": "Seed12"
                         },
                         {
                           "name": "Price",
@@ -93380,7 +93481,7 @@
                         {
                           "name": "Name",
                           "type": "string",
-                          "value": "Seed12"
+                          "value": "Seed13"
                         },
                         {
                           "name": "Price",
@@ -97279,6 +97380,36 @@
                     {
                       "type": {
                         "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "AllSlotsChecked",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
                         "value": "AjoutObjConcern"
                       },
                       "parameters": [
@@ -98185,7 +98316,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "12"
+              "value": "11"
             }
           ]
         },
@@ -98207,7 +98338,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "13"
+              "value": "12"
             }
           ]
         },
@@ -98229,7 +98360,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "14"
+              "value": "13"
             }
           ]
         },
@@ -98251,7 +98382,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "15"
+              "value": "14"
             }
           ]
         },
@@ -98273,7 +98404,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "11"
+              "value": "15"
             }
           ]
         },
@@ -100888,7 +101019,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "Black",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": []
         }

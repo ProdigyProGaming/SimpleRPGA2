@@ -2606,16 +2606,9 @@ gdjs.InsideBuildingsCode.condition1IsTrue_0.val = false;
 {
 {gdjs.InsideBuildingsCode.conditionTrue_1 = gdjs.InsideBuildingsCode.condition0IsTrue_0;
 gdjs.InsideBuildingsCode.condition0IsTrue_1.val = false;
-gdjs.InsideBuildingsCode.condition1IsTrue_1.val = false;
 {
 gdjs.InsideBuildingsCode.condition0IsTrue_1.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "e");
 if( gdjs.InsideBuildingsCode.condition0IsTrue_1.val ) {
-    gdjs.InsideBuildingsCode.conditionTrue_1.val = true;
-}
-}
-{
-gdjs.InsideBuildingsCode.condition1IsTrue_1.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "Tab");
-if( gdjs.InsideBuildingsCode.condition1IsTrue_1.val ) {
     gdjs.InsideBuildingsCode.conditionTrue_1.val = true;
 }
 }
@@ -5395,7 +5388,7 @@ for(var i = 0, k = 0, l = gdjs.InsideBuildingsCode.GDChangeSceneInteractionObjec
 }
 gdjs.InsideBuildingsCode.GDChangeSceneInteractionObjects3.length = k;}if ( gdjs.InsideBuildingsCode.condition0IsTrue_0.val ) {
 {
-gdjs.InsideBuildingsCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "e");
+gdjs.InsideBuildingsCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "f");
 }if ( gdjs.InsideBuildingsCode.condition1IsTrue_0.val ) {
 {
 {gdjs.InsideBuildingsCode.conditionTrue_1 = gdjs.InsideBuildingsCode.condition2IsTrue_0;
@@ -7451,17 +7444,7 @@ gdjs.InsideBuildingsCode.conditionTrue_1.val = (gdjs.evtTools.common.getVariable
 }
 }if ( gdjs.InsideBuildingsCode.condition0IsTrue_0.val ) {
 {
-{gdjs.InsideBuildingsCode.conditionTrue_1 = gdjs.InsideBuildingsCode.condition1IsTrue_0;
-gdjs.InsideBuildingsCode.condition0IsTrue_1.val = false;
-gdjs.InsideBuildingsCode.condition1IsTrue_1.val = false;
-{
-gdjs.InsideBuildingsCode.condition0IsTrue_1.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(25)) != 6;
-}if ( gdjs.InsideBuildingsCode.condition0IsTrue_1.val ) {
-{
-gdjs.InsideBuildingsCode.condition1IsTrue_1.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(26)) == 6;
-}}
-gdjs.InsideBuildingsCode.conditionTrue_1.val = true && gdjs.InsideBuildingsCode.condition0IsTrue_1.val && gdjs.InsideBuildingsCode.condition1IsTrue_1.val;
-}
+gdjs.InsideBuildingsCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(25)) != 6;
 }}
 if (gdjs.InsideBuildingsCode.condition1IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(24).getChild("Shop" + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(25))).getChild("Item" + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(26)) + "Stock").add(2);
@@ -7799,7 +7782,7 @@ gdjs.copyArray(gdjs.InsideBuildingsCode.GDShopInteractionObjects2_1final, gdjs.I
 gdjs.InsideBuildingsCode.condition0IsTrue_0.val = false;
 {
 {gdjs.InsideBuildingsCode.conditionTrue_1 = gdjs.InsideBuildingsCode.condition0IsTrue_0;
-gdjs.InsideBuildingsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23615724);
+gdjs.InsideBuildingsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10176004);
 }
 }if (gdjs.InsideBuildingsCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("ShopBackground"), gdjs.InsideBuildingsCode.GDShopBackgroundObjects3);
@@ -8289,6 +8272,21 @@ gdjs.copyArray(runtimeScene.getObjects("DialogText"), gdjs.InsideBuildingsCode.G
 
 {
 
+
+gdjs.InsideBuildingsCode.condition0IsTrue_0.val = false;
+{
+{gdjs.InsideBuildingsCode.conditionTrue_1 = gdjs.InsideBuildingsCode.condition0IsTrue_0;
+gdjs.InsideBuildingsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(17001532);
+}
+}if (gdjs.InsideBuildingsCode.condition0IsTrue_0.val) {
+{runtimeScene.getGame().getVariables().getFromIndex(4).setNumber(0);
+}}
+
+}
+
+
+{
+
 gdjs.copyArray(runtimeScene.getObjects("InventorySlot"), gdjs.InsideBuildingsCode.GDInventorySlotObjects3);
 
 gdjs.InsideBuildingsCode.condition0IsTrue_0.val = false;
@@ -8392,7 +8390,7 @@ if( gdjs.InsideBuildingsCode.condition1IsTrue_1.val ) {
 }if ( gdjs.InsideBuildingsCode.condition2IsTrue_0.val ) {
 {
 {gdjs.InsideBuildingsCode.conditionTrue_1 = gdjs.InsideBuildingsCode.condition3IsTrue_0;
-gdjs.InsideBuildingsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23607804);
+gdjs.InsideBuildingsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10168276);
 }
 }}
 }
@@ -8416,7 +8414,7 @@ gdjs.InsideBuildingsCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariab
 }if ( gdjs.InsideBuildingsCode.condition0IsTrue_0.val ) {
 {
 {gdjs.InsideBuildingsCode.conditionTrue_1 = gdjs.InsideBuildingsCode.condition1IsTrue_0;
-gdjs.InsideBuildingsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23609020);
+gdjs.InsideBuildingsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10170324);
 }
 }}
 if (gdjs.InsideBuildingsCode.condition1IsTrue_0.val) {
@@ -8517,7 +8515,7 @@ gdjs.InsideBuildingsCode.condition6IsTrue_0.val = gdjs.evtTools.common.getVariab
 }if ( gdjs.InsideBuildingsCode.condition6IsTrue_0.val ) {
 {
 {gdjs.InsideBuildingsCode.conditionTrue_1 = gdjs.InsideBuildingsCode.condition7IsTrue_0;
-gdjs.InsideBuildingsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23624572);
+gdjs.InsideBuildingsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10182564);
 }
 }}
 }
@@ -8601,7 +8599,7 @@ gdjs.InsideBuildingsCode.condition6IsTrue_0.val = gdjs.evtTools.common.getVariab
 }if ( gdjs.InsideBuildingsCode.condition6IsTrue_0.val ) {
 {
 {gdjs.InsideBuildingsCode.conditionTrue_1 = gdjs.InsideBuildingsCode.condition7IsTrue_0;
-gdjs.InsideBuildingsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23636900);
+gdjs.InsideBuildingsCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10191452);
 }
 }}
 }

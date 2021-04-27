@@ -2597,16 +2597,9 @@ gdjs.CavesCode.condition1IsTrue_0.val = false;
 {
 {gdjs.CavesCode.conditionTrue_1 = gdjs.CavesCode.condition0IsTrue_0;
 gdjs.CavesCode.condition0IsTrue_1.val = false;
-gdjs.CavesCode.condition1IsTrue_1.val = false;
 {
 gdjs.CavesCode.condition0IsTrue_1.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "e");
 if( gdjs.CavesCode.condition0IsTrue_1.val ) {
-    gdjs.CavesCode.conditionTrue_1.val = true;
-}
-}
-{
-gdjs.CavesCode.condition1IsTrue_1.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "Tab");
-if( gdjs.CavesCode.condition1IsTrue_1.val ) {
     gdjs.CavesCode.conditionTrue_1.val = true;
 }
 }
@@ -5386,7 +5379,7 @@ for(var i = 0, k = 0, l = gdjs.CavesCode.GDChangeSceneInteractionObjects3.length
 }
 gdjs.CavesCode.GDChangeSceneInteractionObjects3.length = k;}if ( gdjs.CavesCode.condition0IsTrue_0.val ) {
 {
-gdjs.CavesCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "e");
+gdjs.CavesCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "f");
 }if ( gdjs.CavesCode.condition1IsTrue_0.val ) {
 {
 {gdjs.CavesCode.conditionTrue_1 = gdjs.CavesCode.condition2IsTrue_0;
@@ -7442,17 +7435,7 @@ gdjs.CavesCode.conditionTrue_1.val = (gdjs.evtTools.common.getVariableNumber(run
 }
 }if ( gdjs.CavesCode.condition0IsTrue_0.val ) {
 {
-{gdjs.CavesCode.conditionTrue_1 = gdjs.CavesCode.condition1IsTrue_0;
-gdjs.CavesCode.condition0IsTrue_1.val = false;
-gdjs.CavesCode.condition1IsTrue_1.val = false;
-{
-gdjs.CavesCode.condition0IsTrue_1.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(25)) != 6;
-}if ( gdjs.CavesCode.condition0IsTrue_1.val ) {
-{
-gdjs.CavesCode.condition1IsTrue_1.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(26)) == 6;
-}}
-gdjs.CavesCode.conditionTrue_1.val = true && gdjs.CavesCode.condition0IsTrue_1.val && gdjs.CavesCode.condition1IsTrue_1.val;
-}
+gdjs.CavesCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(25)) != 6;
 }}
 if (gdjs.CavesCode.condition1IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(24).getChild("Shop" + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(25))).getChild("Item" + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(26)) + "Stock").add(2);
@@ -9051,7 +9034,7 @@ gdjs.CavesCode.condition2IsTrue_0.val = false;
 gdjs.CavesCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.CavesCode.mapOfGDgdjs_46CavesCode_46GDPlayerObjects1Objects, gdjs.CavesCode.mapOfGDgdjs_46CavesCode_46GDCaveHoleObjects1Objects, false, runtimeScene, false);
 }if ( gdjs.CavesCode.condition0IsTrue_0.val ) {
 {
-gdjs.CavesCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "e");
+gdjs.CavesCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "f");
 }if ( gdjs.CavesCode.condition1IsTrue_0.val ) {
 {
 {gdjs.CavesCode.conditionTrue_1 = gdjs.CavesCode.condition2IsTrue_0;

@@ -2494,16 +2494,9 @@ gdjs.ForestCode.condition1IsTrue_0.val = false;
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition0IsTrue_0;
 gdjs.ForestCode.condition0IsTrue_1.val = false;
-gdjs.ForestCode.condition1IsTrue_1.val = false;
 {
 gdjs.ForestCode.condition0IsTrue_1.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "e");
 if( gdjs.ForestCode.condition0IsTrue_1.val ) {
-    gdjs.ForestCode.conditionTrue_1.val = true;
-}
-}
-{
-gdjs.ForestCode.condition1IsTrue_1.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "Tab");
-if( gdjs.ForestCode.condition1IsTrue_1.val ) {
     gdjs.ForestCode.conditionTrue_1.val = true;
 }
 }
@@ -5283,7 +5276,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDChangeSceneInteractionObjects3.lengt
 }
 gdjs.ForestCode.GDChangeSceneInteractionObjects3.length = k;}if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
-gdjs.ForestCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "e");
+gdjs.ForestCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "f");
 }if ( gdjs.ForestCode.condition1IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition2IsTrue_0;
@@ -7339,17 +7332,7 @@ gdjs.ForestCode.conditionTrue_1.val = (gdjs.evtTools.common.getVariableNumber(ru
 }
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
-{gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.condition0IsTrue_1.val = false;
-gdjs.ForestCode.condition1IsTrue_1.val = false;
-{
-gdjs.ForestCode.condition0IsTrue_1.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(25)) != 6;
-}if ( gdjs.ForestCode.condition0IsTrue_1.val ) {
-{
-gdjs.ForestCode.condition1IsTrue_1.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(26)) == 6;
-}}
-gdjs.ForestCode.conditionTrue_1.val = true && gdjs.ForestCode.condition0IsTrue_1.val && gdjs.ForestCode.condition1IsTrue_1.val;
-}
+gdjs.ForestCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(25)) != 6;
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(24).getChild("Shop" + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(25))).getChild("Item" + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(26)) + "Stock").add(2);
