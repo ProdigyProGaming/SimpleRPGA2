@@ -91,6 +91,8 @@ gdjs.How_32To_32Play_32MenuCode.GDOutdoorDecorObjects1= [];
 gdjs.How_32To_32Play_32MenuCode.GDOutdoorDecorObjects2= [];
 gdjs.How_32To_32Play_32MenuCode.GDMenuButtonObjects1= [];
 gdjs.How_32To_32Play_32MenuCode.GDMenuButtonObjects2= [];
+gdjs.How_32To_32Play_32MenuCode.GDNewObjectObjects1= [];
+gdjs.How_32To_32Play_32MenuCode.GDNewObjectObjects2= [];
 gdjs.How_32To_32Play_32MenuCode.GDBackButtonObjects1= [];
 gdjs.How_32To_32Play_32MenuCode.GDBackButtonObjects2= [];
 gdjs.How_32To_32Play_32MenuCode.GDControlsTextObjects1= [];
@@ -127,7 +129,7 @@ gdjs.How_32To_32Play_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isM
 }if ( gdjs.How_32To_32Play_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.How_32To_32Play_32MenuCode.conditionTrue_1 = gdjs.How_32To_32Play_32MenuCode.condition2IsTrue_0;
-gdjs.How_32To_32Play_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22423668);
+gdjs.How_32To_32Play_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22550636);
 }
 }}
 }
@@ -235,6 +237,8 @@ gdjs.How_32To_32Play_32MenuCode.GDOutdoorDecorObjects1.length = 0;
 gdjs.How_32To_32Play_32MenuCode.GDOutdoorDecorObjects2.length = 0;
 gdjs.How_32To_32Play_32MenuCode.GDMenuButtonObjects1.length = 0;
 gdjs.How_32To_32Play_32MenuCode.GDMenuButtonObjects2.length = 0;
+gdjs.How_32To_32Play_32MenuCode.GDNewObjectObjects1.length = 0;
+gdjs.How_32To_32Play_32MenuCode.GDNewObjectObjects2.length = 0;
 gdjs.How_32To_32Play_32MenuCode.GDBackButtonObjects1.length = 0;
 gdjs.How_32To_32Play_32MenuCode.GDBackButtonObjects2.length = 0;
 gdjs.How_32To_32Play_32MenuCode.GDControlsTextObjects1.length = 0;

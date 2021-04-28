@@ -8735,37 +8735,10 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "Shop6Item3-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Shop6Item3-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "Shop6Item4-1.png",
         "kind": "image",
         "metadata": "",
         "name": "Shop6Item4-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Shop6Item5-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Shop6Item5-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Shop6Item6-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Shop6Item6-1.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -9857,6 +9830,123 @@
         "name": "MenuButton-1-1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Black-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Black-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Black-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Black-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black-1-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Black-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black-1-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Black-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black-1-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Shop4Item6-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Shop4Item6-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Shop6Item1-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Shop6Item1-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Shop6Item2-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Shop6Item2-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Shop6Item3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Shop6Item3-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Shop6Item4-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Shop6Item4-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Shop6Item5-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Shop6Item5-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Shop6Item6-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Shop6Item6-1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -10789,7 +10879,7 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "10"
+                  "value": "30"
                 },
                 {
                   "name": "Range",
@@ -10810,22 +10900,22 @@
                 {
                   "name": "BulletSpeed",
                   "type": "string",
-                  "value": "550"
+                  "value": "500"
                 },
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "12"
+                  "value": "60"
                 },
                 {
                   "name": "Range",
                   "type": "string",
-                  "value": "350"
+                  "value": "320"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": "0.3"
+                  "value": "0.38"
                 }
               ]
             },
@@ -10836,22 +10926,22 @@
                 {
                   "name": "BulletSpeed",
                   "type": "string",
-                  "value": "450"
+                  "value": "500"
                 },
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "15"
+                  "value": "80"
                 },
                 {
                   "name": "Range",
                   "type": "string",
-                  "value": "400"
+                  "value": "350"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": "0.2"
+                  "value": "0.35"
                 }
               ]
             },
@@ -10862,22 +10952,22 @@
                 {
                   "name": "BulletSpeed",
                   "type": "string",
-                  "value": "400"
+                  "value": "500"
                 },
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "20"
+                  "value": "140"
                 },
                 {
                   "name": "Range",
                   "type": "string",
-                  "value": "450"
+                  "value": "150"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": "0.4"
+                  "value": "0.6"
                 }
               ]
             },
@@ -10888,12 +10978,12 @@
                 {
                   "name": "BulletSpeed",
                   "type": "string",
-                  "value": "600"
+                  "value": "500"
                 },
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "25"
+                  "value": "100"
                 },
                 {
                   "name": "Range",
@@ -10903,7 +10993,7 @@
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": "0.6"
+                  "value": "0.3"
                 }
               ]
             },
@@ -10919,12 +11009,12 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "30"
+                  "value": "160"
                 },
                 {
                   "name": "Range",
                   "type": "string",
-                  "value": "600"
+                  "value": "450"
                 },
                 {
                   "name": "Speed",
@@ -11281,7 +11371,7 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "40"
+                  "value": "50"
                 },
                 {
                   "name": "Knockback",
@@ -11302,7 +11392,7 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "50"
+                  "value": "80"
                 },
                 {
                   "name": "Knockback",
@@ -11323,7 +11413,7 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "60"
+                  "value": "150"
                 },
                 {
                   "name": "Knockback",
@@ -19921,6 +20011,54 @@
           ]
         },
         {
+          "name": "Seed10",
+          "type": "structure",
+          "children": [
+            {
+              "name": "SellPrice",
+              "type": "string",
+              "value": "320"
+            },
+            {
+              "name": "TotalDuration",
+              "type": "string",
+              "value": "132"
+            }
+          ]
+        },
+        {
+          "name": "Seed11",
+          "type": "structure",
+          "children": [
+            {
+              "name": "SellPrice",
+              "type": "string",
+              "value": "320"
+            },
+            {
+              "name": "TotalDuration",
+              "type": "string",
+              "value": "132"
+            }
+          ]
+        },
+        {
+          "name": "Seed12",
+          "type": "structure",
+          "children": [
+            {
+              "name": "SellPrice",
+              "type": "string",
+              "value": "20000"
+            },
+            {
+              "name": "TotalDuration",
+              "type": "string",
+              "value": "480"
+            }
+          ]
+        },
+        {
           "name": "Seed2",
           "type": "structure",
           "children": [
@@ -19991,12 +20129,60 @@
             {
               "name": "SellPrice",
               "type": "string",
-              "value": "20000"
+              "value": "320"
             },
             {
               "name": "TotalDuration",
               "type": "string",
-              "value": "480"
+              "value": "132"
+            }
+          ]
+        },
+        {
+          "name": "Seed7",
+          "type": "structure",
+          "children": [
+            {
+              "name": "SellPrice",
+              "type": "string",
+              "value": "320"
+            },
+            {
+              "name": "TotalDuration",
+              "type": "string",
+              "value": "132"
+            }
+          ]
+        },
+        {
+          "name": "Seed8",
+          "type": "structure",
+          "children": [
+            {
+              "name": "SellPrice",
+              "type": "string",
+              "value": "320"
+            },
+            {
+              "name": "TotalDuration",
+              "type": "string",
+              "value": "132"
+            }
+          ]
+        },
+        {
+          "name": "Seed9",
+          "type": "structure",
+          "children": [
+            {
+              "name": "SellPrice",
+              "type": "string",
+              "value": "320"
+            },
+            {
+              "name": "TotalDuration",
+              "type": "string",
+              "value": "132"
             }
           ]
         }
@@ -27255,6 +27441,10 @@
         {
           "type": "number",
           "value": 0
+        },
+        {
+          "type": "number",
+          "value": 0
         }
       ]
     },
@@ -28122,12 +28312,18 @@
           "name": "VolumeNameText",
           "persistentUuid": "1c71b94b-a291-4d69-936f-86af60d66587",
           "width": 0,
-          "x": 351,
+          "x": 201,
           "y": 150,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "Text",
+              "type": "string",
+              "value": "Sound Volume:"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -28284,12 +28480,18 @@
           "name": "VolumeNameText",
           "persistentUuid": "03f0bf29-bc2b-4301-a367-08cc30cb9a65",
           "width": 0,
-          "x": 351,
+          "x": 201,
           "y": 225,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": []
+          "initialVariables": [
+            {
+              "name": "Text",
+              "type": "string",
+              "value": "Music Volume:"
+            }
+          ]
         },
         {
           "angle": 0,
@@ -28329,7 +28531,7 @@
           "width": 0,
           "x": 0,
           "y": 0,
-          "zOrder": 1,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -28511,7 +28713,13 @@
           "tags": "",
           "type": "TextObject::Text",
           "underlined": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "Text",
+              "type": "string",
+              "value": ""
+            }
+          ],
           "behaviors": [],
           "string": "Volume: ",
           "font": "",
@@ -28727,6 +28935,18 @@
                 "CheatsEnabledToggle",
                 "=",
                 "GlobalVariable(EnableCheatMenu)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "VolumeNameText",
+                "=",
+                "VolumeNameText.VariableString(Text)"
               ],
               "subInstructions": []
             }
@@ -29671,8 +29891,8 @@
           "name": "ControlsText",
           "persistentUuid": "76639158-1328-4101-8c12-c8853bc4cec9",
           "width": 0,
-          "x": 307,
-          "y": 144,
+          "x": 690,
+          "y": 140,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -29680,15 +29900,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 308,
           "layer": "",
           "locked": false,
           "name": "AimText",
           "persistentUuid": "fb1654d9-5c4a-408e-9729-f0d79c328af8",
-          "width": 0,
-          "x": 309,
-          "y": 5,
+          "width": 430,
+          "x": 100,
+          "y": 140,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -29709,9 +29929,64 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "dd79a81d-f349-40ce-9034-ebf69045d7f3",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
+        {
+          "name": "NewObject",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-1-29.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
         {
           "name": "BackButton",
           "tags": "",
@@ -29762,7 +30037,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Controls:\nMovement: WASD\nOpen Inventory: E\nClose Inventory: E or Escape\nOpen Shop (When infront of shop): E\nClose Shop: Escape\nManage Inventory: Click and drag on items\nSwing Sword: Click with sword in hand\nAim Gun: Hold right click\nShoot Gun: Left click while aiming gun\nPlant Seeds: Left click on farm plot with seeds in hand\nHarvest Seeds: Left click on finished crop\nGo To Main Menu: Escape (when not in shop)\nOpen Cheats Menu (if enabled in settings): C\nShow Stats in Game: P",
+          "string": "Controls:\nMovement: WASD\nOpen/Close Inventory: E\nOpen/Close Objectives: J\nOpen/Close Options: Escape\nOpen/Close Stats: K\nOpen/Close Cheats: C\nInteract: F\nClose Inventory/Shop: Escape\nAim Gun: Right Click\nAttack: Left Click\nManage Inventory: Click and drag\nPlant/Harvest Seeds: Left Click",
           "font": "",
           "characterSize": 28,
           "color": {
@@ -31712,7 +31987,7 @@
             {
               "name": "Slot",
               "type": "string",
-              "value": "11"
+              "value": "12"
             }
           ]
         },
@@ -52478,6 +52753,18 @@
                     {
                       "type": {
                         "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "TutorialCompletionList[0]",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
                         "value": "BuiltinCommonInstructions::Once"
                       },
                       "parameters": [],
@@ -52510,7 +52797,186 @@
                       "subInstructions": []
                     }
                   ],
-                  "events": []
+                  "events": [
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetSceneVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "child.Active",
+                            "False"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetSceneVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "child.Completed",
+                            ""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarSceneTxt"
+                          },
+                          "parameters": [
+                            "child.Text",
+                            "=",
+                            "\"Explore the town to the south\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarSceneTxt"
+                          },
+                          "parameters": [
+                            "child.Type",
+                            "=",
+                            "\"Explore\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "GlobalVariablePush"
+                          },
+                          "parameters": [
+                            "Objectives",
+                            "child"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "ObjectivesReadyToUpdate",
+                            "True"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarGlobal"
+                          },
+                          "parameters": [
+                            "ObjectivesStructure.ExploreTown",
+                            "=",
+                            "GlobalVariableChildCount(Objectives)-1"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    },
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetSceneVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "child.Active",
+                            "False"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetSceneVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "child.Completed",
+                            ""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarSceneTxt"
+                          },
+                          "parameters": [
+                            "child.Text",
+                            "=",
+                            "\"Explore the caves to the east\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarSceneTxt"
+                          },
+                          "parameters": [
+                            "child.Type",
+                            "=",
+                            "\"Explore\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "GlobalVariablePush"
+                          },
+                          "parameters": [
+                            "Objectives",
+                            "child"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "ObjectivesReadyToUpdate",
+                            "True"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarGlobal"
+                          },
+                          "parameters": [
+                            "ObjectivesStructure.ExploreCaves",
+                            "=",
+                            "GlobalVariableChildCount(Objectives)-1"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    }
+                  ]
                 }
               ]
             },
@@ -57683,7 +58149,7 @@
                         {
                           "type": {
                             "inverted": false,
-                            "value": "SourisBouton"
+                            "value": "MouseButtonReleased"
                           },
                           "parameters": [
                             "",
@@ -59159,6 +59625,172 @@
                             "CheatsEnabler",
                             "=",
                             "GlobalVariable(EnableCheatMenu)"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    },
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SourisSurObjet"
+                          },
+                          "parameters": [
+                            "MenuButton",
+                            "",
+                            "",
+                            ""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "MouseButtonReleased"
+                          },
+                          "parameters": [
+                            "",
+                            "Left"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": [],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Main Menu\"",
+                            ""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarGlobal"
+                          },
+                          "parameters": [
+                            "InventoryIsShown",
+                            "=",
+                            "0"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player.Effects[0].IsActive",
+                            "False"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player.Effects[1].IsActive",
+                            "False"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player.Effects[2].IsActive",
+                            "False"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player.Effects[3].IsActive",
+                            "False"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player.Effects[4].IsActive",
+                            "False"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player.Effects[5].IsActive",
+                            "False"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player.Effects[6].IsActive",
+                            "False"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player.Effects[7].IsActive",
+                            "False"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarGlobal"
+                          },
+                          "parameters": [
+                            "SummonDialogBox",
+                            "=",
+                            "0"
                           ],
                           "subInstructions": []
                         }
@@ -61227,7 +61859,20 @@
                   "subInstructions": []
                 }
               ],
-              "actions": [],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "SummonDialogBox",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
               "events": [
                 {
                   "disabled": false,
@@ -61379,6 +62024,306 @@
                   ],
                   "actions": [],
                   "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "TutorialCompletionList[6]",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "TutorialCompletionList[6]",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": [
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarGlobal"
+                          },
+                          "parameters": [
+                            "TutorialCompletionList[5]",
+                            "=",
+                            "0"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": [],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarGlobal"
+                          },
+                          "parameters": [
+                            "TutorialCompletionList[5]",
+                            "=",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": [
+                        {
+                          "disabled": false,
+                          "folded": false,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "VarGlobal"
+                              },
+                              "parameters": [
+                                "TutorialCompletionList[4]",
+                                "=",
+                                "0"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "BuiltinCommonInstructions::Once"
+                              },
+                              "parameters": [],
+                              "subInstructions": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ModVarGlobal"
+                              },
+                              "parameters": [
+                                "TutorialCompletionList[4]",
+                                "=",
+                                "1"
+                              ],
+                              "subInstructions": []
+                            }
+                          ],
+                          "events": [
+                            {
+                              "disabled": false,
+                              "folded": false,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarGlobal"
+                                  },
+                                  "parameters": [
+                                    "TutorialCompletionList[3]",
+                                    "=",
+                                    "0"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "BuiltinCommonInstructions::Once"
+                                  },
+                                  "parameters": [],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarGlobal"
+                                  },
+                                  "parameters": [
+                                    "TutorialCompletionList[3]",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "events": [
+                                {
+                                  "disabled": false,
+                                  "folded": false,
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [
+                                    {
+                                      "type": {
+                                        "inverted": false,
+                                        "value": "VarGlobal"
+                                      },
+                                      "parameters": [
+                                        "TutorialCompletionList[2]",
+                                        "=",
+                                        "0"
+                                      ],
+                                      "subInstructions": []
+                                    },
+                                    {
+                                      "type": {
+                                        "inverted": false,
+                                        "value": "BuiltinCommonInstructions::Once"
+                                      },
+                                      "parameters": [],
+                                      "subInstructions": []
+                                    }
+                                  ],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "inverted": false,
+                                        "value": "ModVarGlobal"
+                                      },
+                                      "parameters": [
+                                        "TutorialCompletionList[2]",
+                                        "=",
+                                        "1"
+                                      ],
+                                      "subInstructions": []
+                                    }
+                                  ],
+                                  "events": [
+                                    {
+                                      "disabled": false,
+                                      "folded": false,
+                                      "type": "BuiltinCommonInstructions::Standard",
+                                      "conditions": [
+                                        {
+                                          "type": {
+                                            "inverted": false,
+                                            "value": "VarGlobal"
+                                          },
+                                          "parameters": [
+                                            "TutorialCompletionList[1]",
+                                            "=",
+                                            "0"
+                                          ],
+                                          "subInstructions": []
+                                        },
+                                        {
+                                          "type": {
+                                            "inverted": false,
+                                            "value": "BuiltinCommonInstructions::Once"
+                                          },
+                                          "parameters": [],
+                                          "subInstructions": []
+                                        }
+                                      ],
+                                      "actions": [
+                                        {
+                                          "type": {
+                                            "inverted": false,
+                                            "value": "ModVarGlobal"
+                                          },
+                                          "parameters": [
+                                            "TutorialCompletionList[1]",
+                                            "=",
+                                            "1"
+                                          ],
+                                          "subInstructions": []
+                                        }
+                                      ],
+                                      "events": [
+                                        {
+                                          "disabled": false,
+                                          "folded": false,
+                                          "type": "BuiltinCommonInstructions::Standard",
+                                          "conditions": [
+                                            {
+                                              "type": {
+                                                "inverted": false,
+                                                "value": "VarGlobal"
+                                              },
+                                              "parameters": [
+                                                "TutorialCompletionList[0]",
+                                                "=",
+                                                "0"
+                                              ],
+                                              "subInstructions": []
+                                            },
+                                            {
+                                              "type": {
+                                                "inverted": false,
+                                                "value": "BuiltinCommonInstructions::Once"
+                                              },
+                                              "parameters": [],
+                                              "subInstructions": []
+                                            }
+                                          ],
+                                          "actions": [
+                                            {
+                                              "type": {
+                                                "inverted": false,
+                                                "value": "ModVarGlobal"
+                                              },
+                                              "parameters": [
+                                                "TutorialCompletionList[0]",
+                                                "=",
+                                                "1"
+                                              ],
+                                              "subInstructions": []
+                                            }
+                                          ],
+                                          "events": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -61451,60 +62396,6 @@
                   "parameters": [
                     "",
                     "\"End Screen\"",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "SourisSurObjet"
-                  },
-                  "parameters": [
-                    "MenuButton",
-                    "",
-                    "",
-                    ""
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MouseButtonReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": [],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Main Menu\"",
                     ""
                   ],
                   "subInstructions": []
@@ -62807,7 +63698,7 @@
                   "parameters": [
                     "DialogText",
                     "=",
-                    "\"New Objective:\nExplore the town to the south\""
+                    "\"You can use F to Interact like\nentering and leaving buildings\""
                   ],
                   "subInstructions": []
                 },
@@ -62870,97 +63761,7 @@
                   "subInstructions": []
                 }
               ],
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "SetSceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "child.Active",
-                        "False"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "SetSceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "child.Completed",
-                        ""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ModVarSceneTxt"
-                      },
-                      "parameters": [
-                        "child.Text",
-                        "=",
-                        "\"Explore the town to the south\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ModVarSceneTxt"
-                      },
-                      "parameters": [
-                        "child.Type",
-                        "=",
-                        "\"Explore\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "GlobalVariablePush"
-                      },
-                      "parameters": [
-                        "Objectives",
-                        "child"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "SetGlobalVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "ObjectivesReadyToUpdate",
-                        "True"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ModVarGlobal"
-                      },
-                      "parameters": [
-                        "ObjectivesStructure.ExploreTown",
-                        "=",
-                        "GlobalVariableChildCount(Objectives)-1"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
-                }
-              ]
+              "events": []
             },
             {
               "disabled": false,
@@ -62986,6 +63787,142 @@
                   },
                   "parameters": [
                     "TutorialCompletionList[5]",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "HideDialogBox",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "DialogBox",
+                    "=",
+                    "750"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "DialogText",
+                    "=",
+                    "\"New Objective:\nExplore the town to the south\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "SummonDialogBox",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "TutorialCompletionList[5]",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"DialogWait\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "UnPauseTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"DialogWait\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "DialogBox",
+                    "=",
+                    "751"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "TutorialCompletionList[5]",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "TutorialCompletionList[6]",
                     "=",
                     "0"
                   ],
@@ -63047,7 +63984,7 @@
                     "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "TutorialCompletionList[5]",
+                    "TutorialCompletionList[6]",
                     "=",
                     "1"
                   ],
@@ -63076,97 +64013,7 @@
                   "subInstructions": []
                 }
               ],
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "SetSceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "child.Active",
-                        "False"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "SetSceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "child.Completed",
-                        ""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ModVarSceneTxt"
-                      },
-                      "parameters": [
-                        "child.Text",
-                        "=",
-                        "\"Explore the caves to the east\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ModVarSceneTxt"
-                      },
-                      "parameters": [
-                        "child.Type",
-                        "=",
-                        "\"Explore\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "GlobalVariablePush"
-                      },
-                      "parameters": [
-                        "Objectives",
-                        "child"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "SetGlobalVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "ObjectivesReadyToUpdate",
-                        "True"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ModVarGlobal"
-                      },
-                      "parameters": [
-                        "ObjectivesStructure.ExploreCaves",
-                        "=",
-                        "GlobalVariableChildCount(Objectives)-1"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
-                }
-              ]
+              "events": []
             }
           ],
           "parameters": []
@@ -63455,7 +64302,7 @@
                   },
                   "parameters": [
                     "",
-                    "f"
+                    "h"
                   ],
                   "subInstructions": []
                 },
@@ -63780,7 +64627,7 @@
                             "Player",
                             "TopDownMovement",
                             "=",
-                            "200"
+                            "150"
                           ],
                           "subInstructions": []
                         }
@@ -64193,7 +65040,7 @@
                             "Player",
                             "TopDownMovement",
                             "=",
-                            "200"
+                            "150"
                           ],
                           "subInstructions": []
                         }
@@ -66166,7 +67013,7 @@
               },
               "parameters": [
                 "",
-                "RandomInRange(10, 20)",
+                "RandomInRange(5, 10)",
                 "\"AddStock\""
               ],
               "subInstructions": []
@@ -66269,7 +67116,7 @@
                   "parameters": [
                     "GlobalVariable(Shops[\"Shop\"+GlobalVariableString(RandomShopVal)][\"Item\"+GlobalVariableString(RandomShopItemVal)+\"Stock\"])",
                     "<",
-                    "9"
+                    "19"
                   ],
                   "subInstructions": []
                 },
@@ -66536,7 +67383,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.6620000000000016
+        "zoomFactor": 0.5420000000000016
       },
       "objectsGroups": [
         {
@@ -66691,17 +67538,17 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "5"
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "2"
                 },
                 {
                   "name": "Health",
                   "type": "string",
                   "value": "50"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "10"
                 },
                 {
                   "name": "Speed",
@@ -66717,22 +67564,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "10"
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "3"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "50"
+                  "value": "55"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "12"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": "60"
+                  "value": "51"
                 }
               ]
             },
@@ -66743,22 +67590,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "8"
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "3"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "50"
+                  "value": "60"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "14"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": "70"
+                  "value": "51"
                 }
               ]
             },
@@ -66769,22 +67616,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "10"
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "3"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "60"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "15"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": "80"
+                  "value": "55"
                 }
               ]
             },
@@ -66795,22 +67642,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "4"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "120"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "30"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "56"
                 }
               ]
             },
@@ -66821,22 +67668,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "4"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "130"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "32"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "56"
                 }
               ]
             },
@@ -66847,22 +67694,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "5"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "140"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "35"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "58"
                 }
               ]
             },
@@ -66873,22 +67720,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "5"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "150"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "40"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "59"
                 }
               ]
             },
@@ -66899,22 +67746,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "8"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "120"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "70"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "60"
                 }
               ]
             },
@@ -66925,22 +67772,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "10"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "150"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "75"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "62"
                 }
               ]
             },
@@ -66951,22 +67798,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "10"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "170"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "80"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "62"
                 }
               ]
             },
@@ -66977,22 +67824,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "12"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "200"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "85"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "63"
                 }
               ]
             },
@@ -67003,22 +67850,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "12"
                 },
                 {
                   "name": "Health",
+                  "type": "string",
+                  "value": "200"
+                },
+                {
+                  "name": "Reward",
                   "type": "string",
                   "value": "100"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "65"
                 }
               ]
             },
@@ -67029,22 +67876,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "14"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "250"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "110"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "66"
                 }
               ]
             },
@@ -67055,22 +67902,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "15"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "300"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "120"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "67"
                 }
               ]
             },
@@ -67081,22 +67928,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "18"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "350"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "125"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "67"
                 }
               ]
             },
@@ -67107,22 +67954,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "20"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "400"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "200"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "67"
                 }
               ]
             },
@@ -67133,22 +67980,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "25"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "450"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "250"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "70"
                 }
               ]
             },
@@ -67159,22 +68006,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "30"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "500"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "300"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "70"
                 }
               ]
             },
@@ -67185,22 +68032,22 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": ""
-                },
-                {
-                  "name": "Debuff",
-                  "type": "string",
-                  "value": ""
+                  "value": "40"
                 },
                 {
                   "name": "Health",
                   "type": "string",
-                  "value": "100"
+                  "value": "600"
+                },
+                {
+                  "name": "Reward",
+                  "type": "string",
+                  "value": "400"
                 },
                 {
                   "name": "Speed",
                   "type": "string",
-                  "value": ""
+                  "value": "70"
                 }
               ]
             }
@@ -68387,8 +69234,8 @@
           "locked": false,
           "name": "SolidObject",
           "persistentUuid": "2a3001ef-1c44-43e2-b1aa-3b8a1c1ff648",
-          "width": 64,
-          "x": 336,
+          "width": 294,
+          "x": 106,
           "y": 274,
           "zOrder": 59,
           "numberProperties": [],
@@ -68435,7 +69282,7 @@
           "locked": false,
           "name": "SolidObject",
           "persistentUuid": "da0e22ae-b7c0-44b7-b2d4-6a77d15206ca",
-          "width": 64,
+          "width": 347,
           "x": 1106,
           "y": 268,
           "zOrder": 59,
@@ -68446,14 +69293,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 64,
+          "height": 264,
           "layer": "CollisionLayer",
           "locked": false,
           "name": "SolidObject",
           "persistentUuid": "dd0287cd-6349-421f-ba49-4b7216e18bee",
           "width": 750,
           "x": 371,
-          "y": 272,
+          "y": 72,
           "zOrder": 61,
           "numberProperties": [],
           "stringProperties": [],
@@ -68462,7 +69309,7 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 64,
+          "height": 330,
           "layer": "CollisionLayer",
           "locked": false,
           "name": "SolidObject",
@@ -69895,7 +70742,7 @@
               "value": ""
             },
             {
-              "name": "Debuff",
+              "name": "Reward",
               "type": "string",
               "value": ""
             },
@@ -75156,9 +76003,9 @@
                           },
                           "parameters": [
                             "Enemy",
-                            "Debuff",
+                            "Reward",
                             "=",
-                            "Variable(EnemyValues[Enemy.VariableString(Type)].Debuff)"
+                            "Variable(EnemyValues[Enemy.VariableString(Type)].Reward)"
                           ],
                           "subInstructions": []
                         }
@@ -76082,15 +76929,50 @@
                     {
                       "type": {
                         "inverted": false,
-                        "value": "VarObjetTxt"
+                        "value": "BuiltinCommonInstructions::Or"
                       },
-                      "parameters": [
-                        "Enemy",
-                        "Type",
-                        "=",
-                        "\"Enemy01\""
-                      ],
-                      "subInstructions": []
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjetTxt"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Type",
+                            "=",
+                            "\"Enemy12\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjetTxt"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Type",
+                            "=",
+                            "\"Enemy17\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjetTxt"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Type",
+                            "=",
+                            "\"Enemy20\""
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
                     }
                   ],
                   "actions": [
@@ -76136,6 +77018,218 @@
                       },
                       "parameters": [
                         "Player.Effects[0].CurrentDuration",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjetTxt"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Type",
+                            "=",
+                            "\"Enemy11\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjetTxt"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Type",
+                            "=",
+                            "\"Enemy15\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjetTxt"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Type",
+                            "=",
+                            "\"Enemy18\""
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Player.Effects[1].TotalDuration",
+                        "=",
+                        "30"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetGlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Player.Effects[1].IsActive",
+                        "True"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Player.Effects[1].CurrentDuration",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjetTxt"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Type",
+                            "=",
+                            "\"Enemy05\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjetTxt"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Type",
+                            "=",
+                            "\"Enemy07\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjetTxt"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Type",
+                            "=",
+                            "\"Enemy14\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjetTxt"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Type",
+                            "=",
+                            "\"Enemy16\""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "VarObjetTxt"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            "Type",
+                            "=",
+                            "\"Enemy19\""
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Player.Effects[2].TotalDuration",
+                        "=",
+                        "30"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetGlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Player.Effects[2].IsActive",
+                        "True"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Player.Effects[2].CurrentDuration",
                         "=",
                         "0"
                       ],
@@ -76361,7 +77455,7 @@
                   "parameters": [
                     "Player.Coins",
                     "+",
-                    "ToNumber(SubStr(Enemy.VariableString(Type), 6, 2))*10*GlobalVariable(Player.EnemyProfitMultiplier)"
+                    "Enemy.Variable(Reward) * GlobalVariable(Player.EnemyProfitMultiplier)"
                   ],
                   "subInstructions": []
                 },
@@ -76373,7 +77467,7 @@
                   "parameters": [
                     "TotalCoinsGained",
                     "+",
-                    "ToNumber(SubStr(Enemy.VariableString(Type), 6, 2))*10*GlobalVariable(Player.EnemyProfitMultiplier)"
+                    "Enemy.Variable(Reward) * GlobalVariable(Player.EnemyProfitMultiplier)"
                   ],
                   "subInstructions": []
                 },
@@ -92853,12 +93947,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "10"
+                          "value": "20"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": "0"
+                          "value": "10"
                         }
                       ]
                     },
@@ -92874,12 +93968,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "20"
+                          "value": "45"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": "0"
+                          "value": "10"
                         }
                       ]
                     },
@@ -92895,12 +93989,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "30"
+                          "value": "100"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": "0"
+                          "value": "10"
                         }
                       ]
                     },
@@ -92916,12 +94010,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "40"
+                          "value": "160"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": "0"
+                          "value": "10"
                         }
                       ]
                     },
@@ -92937,12 +94031,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "50"
+                          "value": "200"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": "0"
+                          "value": "10"
                         }
                       ]
                     },
@@ -92958,12 +94052,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "60"
+                          "value": "350"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": "0"
+                          "value": "10"
                         }
                       ]
                     }
@@ -92985,12 +94079,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "70"
+                          "value": "1000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": "0"
+                          "value": "10"
                         }
                       ]
                     },
@@ -93006,12 +94100,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "80"
+                          "value": "50000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": "0"
+                          "value": "10"
                         }
                       ]
                     },
@@ -93027,12 +94121,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "90"
+                          "value": "100000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": "0"
+                          "value": "10"
                         }
                       ]
                     },
@@ -93048,12 +94142,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "100"
+                          "value": "500000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": "0"
+                          "value": "10"
                         }
                       ]
                     },
@@ -93069,12 +94163,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "110"
+                          "value": "1000000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": "0"
+                          "value": "10"
                         }
                       ]
                     },
@@ -93090,12 +94184,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "120"
+                          "value": "10000000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": "0"
+                          "value": "10"
                         }
                       ]
                     }
@@ -93117,12 +94211,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "100"
+                          "value": "5000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93138,12 +94232,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "100"
+                          "value": "70000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93159,12 +94253,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "100"
+                          "value": "150000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93180,12 +94274,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "100"
+                          "value": "500000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93201,12 +94295,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "100"
+                          "value": "5000000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93222,12 +94316,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "100"
+                          "value": "25000000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     }
@@ -93249,12 +94343,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "50"
+                          "value": "4000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93270,12 +94364,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "50"
+                          "value": "4000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93291,12 +94385,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "50"
+                          "value": "4000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93312,12 +94406,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "50"
+                          "value": "5000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93333,12 +94427,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "50"
+                          "value": "25000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93354,12 +94448,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "50"
+                          "value": "10000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     }
@@ -93381,12 +94475,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "110"
+                          "value": "500"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93402,12 +94496,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "120"
+                          "value": "800"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93423,12 +94517,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "130"
+                          "value": "1000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93444,12 +94538,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "140"
+                          "value": "5000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93465,12 +94559,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "150"
+                          "value": "10000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93486,12 +94580,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "160"
+                          "value": "25000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     }
@@ -93513,12 +94607,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": ""
+                          "value": "200000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93534,12 +94628,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": ""
+                          "value": "100000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93555,12 +94649,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": ""
+                          "value": "50000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93576,12 +94670,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": ""
+                          "value": "150000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93597,12 +94691,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": ""
+                          "value": "150000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     },
@@ -93618,276 +94712,12 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": ""
+                          "value": "100000"
                         },
                         {
                           "name": "StockLeft",
                           "type": "string",
-                          "value": ""
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Shop7",
-                  "type": "structure",
-                  "children": [
-                    {
-                      "name": "Item1",
-                      "type": "structure",
-                      "children": [
-                        {
-                          "name": "Name",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "Price",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "StockLeft",
-                          "type": "string",
-                          "value": ""
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Item2",
-                      "type": "structure",
-                      "children": [
-                        {
-                          "name": "Name",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "Price",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "StockLeft",
-                          "type": "string",
-                          "value": ""
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Item3",
-                      "type": "structure",
-                      "children": [
-                        {
-                          "name": "Name",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "Price",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "StockLeft",
-                          "type": "string",
-                          "value": ""
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Item4",
-                      "type": "structure",
-                      "children": [
-                        {
-                          "name": "Name",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "Price",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "StockLeft",
-                          "type": "string",
-                          "value": ""
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Item5",
-                      "type": "structure",
-                      "children": [
-                        {
-                          "name": "Name",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "Price",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "StockLeft",
-                          "type": "string",
-                          "value": ""
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Item6",
-                      "type": "structure",
-                      "children": [
-                        {
-                          "name": "Name",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "Price",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "StockLeft",
-                          "type": "string",
-                          "value": ""
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Shop8",
-                  "type": "structure",
-                  "children": [
-                    {
-                      "name": "Item1",
-                      "type": "structure",
-                      "children": [
-                        {
-                          "name": "Name",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "Price",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "StockLeft",
-                          "type": "string",
-                          "value": ""
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Item2",
-                      "type": "structure",
-                      "children": [
-                        {
-                          "name": "Name",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "Price",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "StockLeft",
-                          "type": "string",
-                          "value": ""
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Item3",
-                      "type": "structure",
-                      "children": [
-                        {
-                          "name": "Name",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "Price",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "StockLeft",
-                          "type": "string",
-                          "value": ""
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Item4",
-                      "type": "structure",
-                      "children": [
-                        {
-                          "name": "Name",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "Price",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "StockLeft",
-                          "type": "string",
-                          "value": ""
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Item5",
-                      "type": "structure",
-                      "children": [
-                        {
-                          "name": "Name",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "Price",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "StockLeft",
-                          "type": "string",
-                          "value": ""
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Item6",
-                      "type": "structure",
-                      "children": [
-                        {
-                          "name": "Name",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "Price",
-                          "type": "string",
-                          "value": ""
-                        },
-                        {
-                          "name": "StockLeft",
-                          "type": "string",
-                          "value": ""
+                          "value": "10"
                         }
                       ]
                     }
@@ -94806,11 +95636,12 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Shop4Item6\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACEElEQVR4XmNkQAIWyvr/kfnDlX3i7kVGmN/gDJDAaACMxBSAHOt5huLDNdWj+GvS+ZdwPuNoACAl+9EUMJoFRsuA0UJwJIQAWbWAjLLYkAqbJ3df4XTvaACQ0w6gRgpgvreBYCr6qxRAUA0xCihOAege5ubjJMZevGp+XFhO0AwOg0iCaohR8PXTdxRlyAFCVBYYDQC0Qm9EpICuEF14sqGGh9GTKj2zALrdyFmibM1l7J0hWgTAxi+CxGRZDDX+PO/J0odL02gAIBWKA5YC3O9MIxirO1WywGqGZQoYkQGAHOWw8gA9dpHLCWrHPMz+ASsDRgMAKQRGUwC0ShzNAmh1/LAuA0j1HK5sQrD+JKBgwArBERsAMI8v0EB0S3+rCIPjifXOW4IRmnAD0v2mVrVI9xQwYgMA3eOwWAfFprmUGjhWTz67RTAFwFIJLCVQmhrolgJGZAAgF3SNbZ0EY5dcBfVV5WSXCzRNAaMBgDToMZoCRrPAaBlAbhlHUN9oIThaC4xWg6PtAHKbxKMNIVrOC4y2BEdbgoj5v9Gm8GhTeAQ2hbHN/hBs15KhgJLxQZpWg6MBQEZs0lsL3VIAvT1GrH2jAUDLliCxsTCQ6kZTwGgKQEzR0XWR1EAme2S7R7MAMVkAedMUNVaHD5bYB7mD4sXSg8kz5LhlNACQdpCgLJdHDs3RvcMjce/wSE8BAJqanGkSjpCOAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABC0lEQVR4Xu2XwQ7CMAxDt///aFAPldC0kSF1doQfR4KW2Hlux76Ff/Zw/RsGQEC4A0QgHAAOQSJABMIdIALhAHALEAEiEO4AEQgHgFuACBCBcAeIQDgA3AJEgAiEO0AEwgHgFiACRMDjwOuk7SeNoy6hU9LkIPZK3PxeJn7MpTagElfVl/OqNKAS99cE3BU/N1z9fhkJKgK+CTqrxRhQHYjLNn31ICcBv1LxiBkuAyrEq/oyM1QGjIHvnvIy8bwHiF+EKgKkm58ZUkXgKK76L7As49WDVAZUc9jqGGCzvkljCGiyCNsYEGCzvkljCGiyCNsYEGCzvkljCGiyCNsYEGCzvkljCGiyCNsYb3CSI0H58xsxAAAAAElFTkSuQmCC\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"paths\":[\"D:\\\\Arron\\\\Github\\\\SimpleRPGA2\\\\Shop4Item6-1.png\"],\"name\":\"Shop4Item6\",\"singleFrame\":false}}",
+                  "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Potion6-1-1.png",
+                      "image": "Shop4Item6-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -95009,11 +95840,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Shop6Item1\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABQUlEQVR4Xu2bLQ7CQBBGWUlIkGBw1YTgOAjnQHIIJOfgIDhC0HUYkCQESUNol9mmZZtimM6r6o9o9+vM7nxvd11PHItk9pTXXT3fp0dXtM2fvG4ggMUIkH99NR93NeqDdm0PF3/tEECEPRFACtAH0AlaUKDVKDBJRqq0OafX2u9FgDZ1gLkIKDd4MOyrSoH77RF8r0yJRimAAKVOz0QEbJZTHzbaGhzLT5kS692p2gwhABFACtAHFArQCSorfBgFIgowDIrSmDqAQohKkFLYzw3KiRG8AF4AL4AXwAvkCmCGMEO6MDhuEDf4XQHsMHb4M1UGD4AHwAPgAfCAXIFgpShABCACEAGIAEQAIm8FIEIQIYhQjDKpeg4QAYg0ACJy05S21eGxfPx5sXTsBf/+HAHEDpJgubz8c+wdtrh32HoEZPkWwVqinAbFAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABrElEQVR4Xu1ZsXECQQzkSZy4AAJCIgfuwDXQgDugHjqgAddABw4cOXTgApyQYGbgFSDP3er9mueEloy54zmtdlfSfTdL/umSxz8jAGRAcgQogeQEoAlSApRAcgQogeQE8K0CP9/b3xqgj4tNc4xzPVA6AHTA88NbVVHHh/XVeguMGMWAdAAMDRgZbAuMGMSAtABI4Ejjn/uPatJXL08mj5jSG0wMIAB9fS8xQDKPMoz2iSeEYwAKTHiP9jUHwPtuee7sSplFAZUEj34n68+vXyaJompTW6/+AQEoMABl0JoRobz2luYZQAD6eo9cHzGBDOiHI0pATZH0gF5izZZBmiBN8DL1sQqA8ZZlECDAPoB9wOWWmI1QtEZIpF3S8H/NT1+cNNsIpQFAAkUXI1YmoH1TzgASm+nKiQCAu0EtiZIHWN8rTKF9VwbcPQDaC+T72FlAv0maMvODGEAACqIWc7QyooWM61BMVaBkaukB0MBoQPT6LTSOutJRDCAACN4A664MCBDvnyMSgIhZ8zwzGeCJZsRnkQERs+Z5ZjLAE82IzyIDImbN88zpGXACe4uOUGnywaoAAAAASUVORK5CYII=\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 3\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAA10lEQVR4Xu3WsQ3CUBCD4aRlCbZhaLZhCVoQBR2SFb2G+D5aLoV9v99534b/9uH6NwYgYLgDIjAcAI+gCIjAcAdEYDgAroAIiMBwB0RgOACugAiIwHAHKiLwfNxenz1ervfDeg5/8I/AMAABIuAN8Ai6AsVn8HvmVk/wr55wih4w3oC0eUVIEVKEFCFFSBEqLkLOYHJg4f9TNMEFffFTBkSLygcQUL7gKA8B0aLyAQSULzjKQ0C0qHwAAeULjvIQEC0qH0BA+YKjPAREi8oHEFC+4ChvPAFvTQJIQcPtBs4AAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"paths\":[\"D:\\\\Arron\\\\Github\\\\SimpleRPGA2\\\\Shop6Item1-1-0.png\"],\"name\":\"Shop6Item1\",\"singleFrame\":false}}",
                   "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Shop6Item1-1.png",
+                      "image": "Shop6Item1-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -95038,11 +95870,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Shop6Item2\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABQUlEQVR4Xu2bLQ7CQBBGWUlIkGBw1YTgOAjnQHIIJOfgIDhC0HUYkCQESUNol9mmZZtimM6r6o9o9+vM7nxvd11PHItk9pTXXT3fp0dXtM2fvG4ggMUIkH99NR93NeqDdm0PF3/tEECEPRFACtAH0AlaUKDVKDBJRqq0OafX2u9FgDZ1gLkIKDd4MOyrSoH77RF8r0yJRimAAKVOz0QEbJZTHzbaGhzLT5kS692p2gwhABFACtAHFArQCSorfBgFIgowDIrSmDqAQohKkFLYzw3KiRG8AF4AL4AXwAvkCmCGMEO6MDhuEDf4XQHsMHb4M1UGD4AHwAPgAfCAXIFgpShABCACEAGIAEQAIm8FIEIQIYhQjDKpeg4QAYg0ACJy05S21eGxfPx5sXTsBf/+HAHEDpJgubz8c+wdtrh32HoEZPkWwVqinAbFAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABj0lEQVR4Xu2ZuQ3CQBRE7YAC6ISUkICYEmgDEYAEEjRBQglUQEhMJRRAYMTCIryy2cP69jczJEiW95g38/eAPAP/5OD6MwJgAsAJsATAA8BFkCXAEgAnwBIADwB3AZYAS0AHgaJmGuIJFR8gkC8sACO8KF76N9u9+V6vlpabuEHiA3gSAAugUriFhZAAWABqhLe2yDhrACwAdcLbTgAsALXC20rA3wFwj6x1Byn1wlMTQABPcvfTxAAczM4uyN443ygByAAsOOO0C8K91XVxtg+8fn9eS70NwgOoTIJ9uLtOW7/Xxzqfuga445SSAAtgPh4a7YfFqG53SDVIvF3qGlAqAUQAJvpW+PFyKzn1Y5sUdzR2gNQEwAKoE+6CrNwms0zfX3GxCYAFECq8cpv8ehgLPLako98PnRAsgN7UcrT17wa+BBCAQ9YHLNWIztr5BIX+AtSZgKYD+wA07V99ewJQb5HwBJkAYcDqu2cC1FskPEEmQBiw+u6ZAPUWCU+QCRAGrL57JkC9RcIThE/AA8j9yEG8rQsgAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 3\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAA1ElEQVR4Xu2XMQ7DQAzD7v7/6GRIMgYGrMU6sWtrwKUppd0r/LXDv/8CAAaEEyAC4QJQgkSACIQTIALhAvAUIAJEIJwAEQgXgKcAESAC4QSIgLkA17t/+5DtwSHgAIABD4G2ye1BIjCDAB1ABxzeAZ/iauB+u256CcYDqC5PCVKCh5cgESgI0AF0AB2Q/W+wKsny/em/BMsvoH4AACpB93kMcL+guj8GqATd5zHA/YLq/higEnSfxwD3C6r7Y4BK0H0eA9wvqO6PASpB93kMcL+guv8Nf1wSQUHIsB0AAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"paths\":[\"D:\\\\Arron\\\\Github\\\\SimpleRPGA2\\\\Shop6Item2-1-0.png\"],\"name\":\"Shop6Item2\",\"singleFrame\":false}}",
                   "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Shop6Item2-1.png",
+                      "image": "Shop6Item2-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -95067,6 +95900,7 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Shop6Item3\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABQUlEQVR4Xu2bLQ7CQBBGWUlIkGBw1YTgOAjnQHIIJOfgIDhC0HUYkCQESUNol9mmZZtimM6r6o9o9+vM7nxvd11PHItk9pTXXT3fp0dXtM2fvG4ggMUIkH99NR93NeqDdm0PF3/tEECEPRFACtAH0AlaUKDVKDBJRqq0OafX2u9FgDZ1gLkIKDd4MOyrSoH77RF8r0yJRimAAKVOz0QEbJZTHzbaGhzLT5kS692p2gwhABFACtAHFArQCSorfBgFIgowDIrSmDqAQohKkFLYzw3KiRG8AF4AL4AXwAvkCmCGMEO6MDhuEDf4XQHsMHb4M1UGD4AHwAPgAfCAXIFgpShABCACEAGIAEQAIm8FIEIQIYhQjDKpeg4QAYg0ACJy05S21eGxfPx5sXTsBf/+HAHEDpJgubz8c+wdtrh32HoEZPkWwVqinAbFAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABxklEQVR4Xu2aMU4CURCGwcrCgsTCxGwQY+EdSDwRVyAUhit4Ag/AHTDxAFZaGBsaOwt6SMhOwk58zMxCssPMb0d2Hu788/3z5r3Q7yX/6yfPvwcBQEByBWCB5ACgCcICsEByBWCB5ABgF4AF2lpgMptv2qx9eZ66Er31y6QVgBJ/GnztABgN7xogvH5c7j5Lz72QYCYgrQA8ce5/IoETQHElUromQU1AWgGkxHmFSwR4JUEkAALU+z11dWnvf/t7bOwCpXjeM7rqBScjgBJNKwAlfl/dNIperZcHoaF1Z09AeAEk7/PnRMLP6le11D0Bqiz2gsIJ8LB+P6jB99W48ZwEuPhcqNa5JyC9ANIcQE2Ql7u0LtwcAAHqCVAiwNup8GSToJaAsxOAKkqHImqGt9X1v91dGoW9eJ9eXiQAAtQKgID6WJzWAlorlHqAN++bewAEUPYCEFC4EgtjAckKnACvibfuARCAzX98PqB7AToFdn3nJ13kqCfB0helF4BbggvV1U2PVPmjewD/B6XfC6QRQKu4t7ije4C3hKzvAwGsikWLBwHRKmrNBwRYFYsWDwKiVdSaDwiwKhYtHgREq6g1n/QEbAHS0UJQtZMraAAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 3\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAA1ElEQVR4Xu2XMQ7DQAzD7v7/6GRIMgYGrMU6sWtrwKUppd0r/LXDv/8CAAaEEyAC4QJQgkSACIQTIALhAvAUIAJEIJwAEQgXgKcAESAC4QSIgLkA17t/+5DtwSHgAIABD4G2ye1BIjCDAB1ABxzeAZ/iauB+u256CcYDqC5PCVKCh5cgESgI0AF0AB2Q/W+wKsny/em/BMsvoH4AACpB93kMcL+guj8GqATd5zHA/YLq/higEnSfxwD3C6r7Y4BK0H0eA9wvqO6PASpB93kMcL+guv8Nf1wSQUHIsB0AAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"paths\":[\"D:\\\\Arron\\\\Github\\\\SimpleRPGA2\\\\Shop6Item3-1.png\"],\"name\":\"Shop6Item3\",\"singleFrame\":false}}",
                   "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
@@ -95096,11 +95930,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Shop6Item4\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABQUlEQVR4Xu2bLQ7CQBBGWUlIkGBw1YTgOAjnQHIIJOfgIDhC0HUYkCQESUNol9mmZZtimM6r6o9o9+vM7nxvd11PHItk9pTXXT3fp0dXtM2fvG4ggMUIkH99NR93NeqDdm0PF3/tEECEPRFACtAH0AlaUKDVKDBJRqq0OafX2u9FgDZ1gLkIKDd4MOyrSoH77RF8r0yJRimAAKVOz0QEbJZTHzbaGhzLT5kS692p2gwhABFACtAHFArQCSorfBgFIgowDIrSmDqAQohKkFLYzw3KiRG8AF4AL4AXwAvkCmCGMEO6MDhuEDf4XQHsMHb4M1UGD4AHwAPgAfCAXIFgpShABCACEAGIAEQAIm8FIEIQIYhQjDKpeg4QAYg0ACJy05S21eGxfPx5sXTsBf/+HAHEDpJgubz8c+wdtrh32HoEZPkWwVqinAbFAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABNklEQVR4Xu2Yyw2DQAxEl5qoKVVwpgpqoqbkCiiRH2QVBftxZeLPeMbLZmjFn6F4/00CVEBxBrRAcQG4BLWAFijOgBYoLgBPAS2gBYozoAWKC8BTILTAOj+eW5WM09JVNOv82MUbpyWsqWcBYTIJUAHFLdBa2+2Anv77ECu0Zc8aSDIJ6Mk4iEWGAsIwCEmmArZcHs/tI8/H74Sz+NZ++3F2WgFnGzqLlwAV8OcWYLv1KxSx5VcJtj8myTwFutHNApGhsEgARZLVVoDXYa/Dxa/DWiCwwJv/9Ha798J7spjBfmeQMFmkgAsNRgSFNbHWGCpMJgHVLcCEdF9UaIH7tsYqlwDGU16UCsg7W9aZCmA85UWpgLyzZZ2pAMZTXpQKyDtb1pkKYDzlRamAvLNlnakAxlNe1AtoS5BBiLOfjAAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 3\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAA1ElEQVR4Xu2XMQ7DQAzD7v7/6GRIMgYGrMU6sWtrwKUppd0r/LXDv/8CAAaEEyAC4QJQgkSACIQTIALhAvAUIAJEIJwAEQgXgKcAESAC4QSIgLkA17t/+5DtwSHgAIABD4G2ye1BIjCDAB1ABxzeAZ/iauB+u256CcYDqC5PCVKCh5cgESgI0AF0AB2Q/W+wKsny/em/BMsvoH4AACpB93kMcL+guj8GqATd5zHA/YLq/higEnSfxwD3C6r7Y4BK0H0eA9wvqO6PASpB93kMcL+guv8Nf1wSQUHIsB0AAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"paths\":[\"D:\\\\Arron\\\\Github\\\\SimpleRPGA2\\\\Shop6Item4-1-0.png\"],\"name\":\"Shop6Item4\",\"singleFrame\":false}}",
                   "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Shop6Item4-1.png",
+                      "image": "Shop6Item4-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -95125,6 +95960,7 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Shop6Item5\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABQUlEQVR4Xu2bLQ7CQBBGWUlIkGBw1YTgOAjnQHIIJOfgIDhC0HUYkCQESUNol9mmZZtimM6r6o9o9+vM7nxvd11PHItk9pTXXT3fp0dXtM2fvG4ggMUIkH99NR93NeqDdm0PF3/tEECEPRFACtAH0AlaUKDVKDBJRqq0OafX2u9FgDZ1gLkIKDd4MOyrSoH77RF8r0yJRimAAKVOz0QEbJZTHzbaGhzLT5kS692p2gwhABFACtAHFArQCSorfBgFIgowDIrSmDqAQohKkFLYzw3KiRG8AF4AL4AXwAvkCmCGMEO6MDhuEDf4XQHsMHb4M1UGD4AHwAPgAfCAXIFgpShABCACEAGIAEQAIm8FIEIQIYhQjDKpeg4QAYg0ACJy05S21eGxfPx5sXTsBf/+HAHEDpJgubz8c+wdtrh32HoEZPkWwVqinAbFAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABpElEQVR4Xu2YsUoDQRCGc2BeQEFMI4mkFoJFsJZAII9gncpHMFaaRwgIsfEVBEUI1iFgEKzFhBRaaWmTIsLEKTw8XVgGM/f/1yx3sLuz///N7O0mBfAnAV9/gQKQAHAFmALgALAIMgWYAuAKMAXAAeAuwBRgCoArwBQAByBsF1gvlxeWQr1Pp/9GYtDEFOCLgNlVR0B4fRxKW9rdj3qvd+6kvxsCYAUYd9tSAxr9wdLx03lUSSidFKX/oN2Qdu+4H5SKUZNmdA6amAKkCHi7rkSZsdGa+CaAAqQIeHrY+UZEtfb8IyHz3ki+b91s5osAWAF04dXDC3H04/Jc2pe1e2mzSMhNDYAVYHR2sHQ40HnNfS0M7msAvAC6Df5V/NLO54YACpDxJ6iOF4/qYnbuCUj/7cAIwNMg2nFYr8TU+VnSjDoNbi9upb/eC7i5EYIXAPZKTFMAXoCoxP+ls5saACuA1cJXYdygW+FVCNQqBgpgpayXcUmAF6es4iQBVsp6GZcEeHHKKk4SYKWsl3FJgBenrOIkAVbKehmXBHhxyipOeAI+AWcPWlDNPiGGAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 3\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAA1ElEQVR4Xu2XMQ7DQAzD7v7/6GRIMgYGrMU6sWtrwKUppd0r/LXDv/8CAAaEEyAC4QJQgkSACIQTIALhAvAUIAJEIJwAEQgXgKcAESAC4QSIgLkA17t/+5DtwSHgAIABD4G2ye1BIjCDAB1ABxzeAZ/iauB+u256CcYDqC5PCVKCh5cgESgI0AF0AB2Q/W+wKsny/em/BMsvoH4AACpB93kMcL+guj8GqATd5zHA/YLq/higEnSfxwD3C6r7Y4BK0H0eA9wvqO6PASpB93kMcL+guv8Nf1wSQUHIsB0AAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"paths\":[\"D:\\\\Arron\\\\Github\\\\SimpleRPGA2\\\\Shop6Item5-1.png\"],\"name\":\"Shop6Item5\",\"singleFrame\":false}}",
                   "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
@@ -95154,6 +95990,7 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Shop6Item6\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABQUlEQVR4Xu2bLQ7CQBBGWUlIkGBw1YTgOAjnQHIIJOfgIDhC0HUYkCQESUNol9mmZZtimM6r6o9o9+vM7nxvd11PHItk9pTXXT3fp0dXtM2fvG4ggMUIkH99NR93NeqDdm0PF3/tEECEPRFACtAH0AlaUKDVKDBJRqq0OafX2u9FgDZ1gLkIKDd4MOyrSoH77RF8r0yJRimAAKVOz0QEbJZTHzbaGhzLT5kS692p2gwhABFACtAHFArQCSorfBgFIgowDIrSmDqAQohKkFLYzw3KiRG8AF4AL4AXwAvkCmCGMEO6MDhuEDf4XQHsMHb4M1UGD4AHwAPgAfCAXIFgpShABCACEAGIAEQAIm8FIEIQIYhQjDKpeg4QAYg0ACJy05S21eGxfPx5sXTsBf/+HAHEDpJgubz8c+wdtrh32HoEZPkWwVqinAbFAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABQUlEQVR4Xu2ZUQ6CQAxE4SbeyF+P6K838iYYE/kQtrAs7dJknp+m6W6nM+0A4yD+G8XrHwAABogjgATECcAQRAJIQBwBJCBOALYAEkAC4gjsSWD64ZM17nT7tgqbi58PsWKvijtd/DeBWdTjfvs74Pl6l+Kni+JcigcAGHBcAivqGRLwjtsbws2SODQDSsX2+G+Dqc2F7072HoXVngEAtlT7MqB0mtQMKFARH4ARusYxntZ+0xaQnwG1a8s7jjWYZQ16d7Y2XxoGyM8AfMBaixghNSPk/Zxfm4/3AW7Wb5GIFyIGssXhVru3vePwAVmcID5AyQcYs2E5NJefxazHbO84t6UQtl/dbhicCACCAU6fHgakb1HwBWFAMMDp08OA9C0KviAMCAY4fXoYkL5FwReEAcEAp08PA9K3KPiC8gz4AKp00FDMoTMGAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 3\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAA0klEQVR4Xu3XsQ6CUBBEUfj/j9YCLUhMJg8bmD22i8XevTPovg3/7MP33wBgwHACIjBcACUoAiIwnIAIDBfAW0AERGA4AREYLoC3gAiIwHACIlAkwOuzy9JRlx6+OSwAGHAQWLJ66WERuDcBHaADyjvgq/i/QTz13pNKcDyAdHklqATLS1AEAgEdoAN0wOx/g6kkf86f9Evw0oLpSwAkQu1zBrRfOO3HgESofc6A9gun/RiQCLXPGdB+4bQfAxKh9jkD2i+c9mNAItQ+Z0D7hdN+b6dNEkGv9dMWAAAAAElFTkSuQmCC\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"paths\":[\"D:\\\\Arron\\\\Github\\\\SimpleRPGA2\\\\Shop6Item6-1.png\"],\"name\":\"Shop6Item6\",\"singleFrame\":false}}",
                   "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
@@ -95863,7 +96700,7 @@
                       },
                       "parameters": [
                         "",
-                        "e"
+                        "f"
                       ],
                       "subInstructions": []
                     },
@@ -97994,7 +98831,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.4799999999999927
+        "zoomFactor": 0.4399999999999926
       },
       "objectsGroups": [],
       "variables": [],
@@ -98011,7 +98848,12 @@
           "x": 0,
           "y": 0,
           "zOrder": 1,
-          "numberProperties": [],
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
           "stringProperties": [],
           "initialVariables": []
         },
@@ -99402,17 +100244,22 @@
         },
         {
           "angle": 0,
-          "customSize": true,
+          "customSize": false,
           "height": 1002,
           "layer": "Black",
           "locked": false,
           "name": "Black",
           "persistentUuid": "afc62d81-d9c1-494e-87ff-7ffe50ac9865",
           "width": 1777,
-          "x": -151,
-          "y": -106,
+          "x": 0,
+          "y": 0,
           "zOrder": 66,
-          "numberProperties": [],
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
           "stringProperties": [],
           "initialVariables": []
         },
@@ -100447,6 +101294,35 @@
           "behaviors": [],
           "animations": [
             {
+              "name": "Black",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Black-1-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "NewObject2",
               "useMultipleDirections": false,
               "directions": [
@@ -100670,7 +101546,7 @@
               },
               "parameters": [
                 "",
-                "e"
+                "f"
               ],
               "subInstructions": []
             },
@@ -100754,6 +101630,18 @@
                 "1"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "Player.Health",
+                "+",
+                "50"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -100784,7 +101672,7 @@
               },
               "parameters": [
                 "",
-                "e"
+                "f"
               ],
               "subInstructions": []
             },
@@ -101019,7 +101907,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "Black",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         }
