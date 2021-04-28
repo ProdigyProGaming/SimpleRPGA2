@@ -173,7 +173,7 @@ gdjs.Cheats_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Cheats_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Cheats_32MenuCode.conditionTrue_1 = gdjs.Cheats_32MenuCode.condition2IsTrue_0;
-gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22561292);
+gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22612068);
 }
 }}
 }
@@ -204,7 +204,7 @@ gdjs.Cheats_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Cheats_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Cheats_32MenuCode.conditionTrue_1 = gdjs.Cheats_32MenuCode.condition2IsTrue_0;
-gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22564148);
+gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22614924);
 }
 }}
 }
@@ -235,7 +235,7 @@ gdjs.Cheats_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Cheats_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Cheats_32MenuCode.conditionTrue_1 = gdjs.Cheats_32MenuCode.condition2IsTrue_0;
-gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22567396);
+gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22618172);
 }
 }}
 }
@@ -265,7 +265,7 @@ gdjs.Cheats_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Cheats_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Cheats_32MenuCode.conditionTrue_1 = gdjs.Cheats_32MenuCode.condition2IsTrue_0;
-gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22570596);
+gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22621372);
 }
 }}
 }
@@ -295,7 +295,7 @@ gdjs.Cheats_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButto
 }if ( gdjs.Cheats_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Cheats_32MenuCode.conditionTrue_1 = gdjs.Cheats_32MenuCode.condition2IsTrue_0;
-gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22572676);
+gdjs.Cheats_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22623452);
 }
 }}
 }

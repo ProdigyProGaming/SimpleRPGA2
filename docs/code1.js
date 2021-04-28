@@ -498,7 +498,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22509076);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22558012);
 }
 }}
 }
@@ -526,7 +526,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22516604);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22565644);
 }
 }}
 }
@@ -554,7 +554,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22524228);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22573268);
 }
 }}
 }
@@ -582,7 +582,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22531060);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22580100);
 }
 }}
 }
@@ -616,7 +616,7 @@ gdjs.Options_32MenuCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariabl
 }if ( gdjs.Options_32MenuCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition3IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22534092);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22583132);
 }
 }}
 }
@@ -643,7 +643,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22535524);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22584564);
 }
 }}
 }

@@ -12833,36 +12833,6 @@
           "directions": [
             {
               "looping": false,
-              "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Seed11\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABQUlEQVR4Xu2bLQ7CQBBGWUlIkGBw1YTgOAjnQHIIJOfgIDhC0HUYkCQESUNol9mmZZtimM6r6o9o9+vM7nxvd11PHItk9pTXXT3fp0dXtM2fvG4ggMUIkH99NR93NeqDdm0PF3/tEECEPRFACtAH0AlaUKDVKDBJRqq0OafX2u9FgDZ1gLkIKDd4MOyrSoH77RF8r0yJRimAAKVOz0QEbJZTHzbaGhzLT5kS692p2gwhABFACtAHFArQCSorfBgFIgowDIrSmDqAQohKkFLYzw3KiRG8AF4AL4AXwAvkCmCGMEO6MDhuEDf4XQHsMHb4M1UGD4AHwAPgAfCAXIFgpShABCACEAGIAEQAIm8FIEIQIYhQjDKpeg4QAYg0ACJy05S21eGxfPx5sXTsBf/+HAHEDpJgubz8c+wdtrh32HoEZPkWwVqinAbFAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABrklEQVR4XmNkGOGAcYT7n2E0AEZTwAgPgdEsMMITwGghOJoFRrPACA+B0SwwwhPAaC0wmgVGs8AID4HRLDDCE8BoLUD1LCCkoPCflqnq3YMHVHUzVQ0DeXw0AKAp4NGmGnBCeH7pOJiW1LOkiG9esxesf8ikgBEbALD8D8sKesLGFBUJl96epUnMwxxF9TJgNACgIQBLAYqSilhTgJWND1ic5+hnFPmGzNlgfsP0VDA989mCoZ0CRgMALQW4MdpjTRGwmGc8/h4s/99SEFJ71LIOrxQwYgOAUJ5Hj/lhVwaM2ABIl0rAmueTsh6DxeWPLUfJ87CY/2LNCxZfunry0C4DRgOAQAqAJY9502SxppQh3w4glAKGfQBEh+aitPhgeR9XjMPyPqyFOORTwIgPgNHe4EjrDqOPA8wuFKBoPCC1/wNYP63GBag+HjAaAKNjgpBh8RE7Jjg6LD7SJ0YoKvIHQDPVa4EB8ANFVo4GAEXBNww0j6aAYRCJFHlhNAVQFHzDQPNoChgGkUiRF0ZTAEXBNww0j6aAYRCJFHlhNAVQFHzDQPNoChgGkUiRFwDJJjBQm0AM1QAAAABJRU5ErkJggg==\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"paths\":[\"D:\\\\Arron\\\\Github\\\\SimpleRPGA2\\\\Seed11-1.png\"],\"name\":\"Seed11\",\"singleFrame\":false}}",
-              "timeBetweenFrames": 0.07999999821186066,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Seed11-1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Seed12",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
               "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Seed12\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABQUlEQVR4Xu2bLQ7CQBBGWUlIkGBw1YTgOAjnQHIIJOfgIDhC0HUYkCQESUNol9mmZZtimM6r6o9o9+vM7nxvd11PHItk9pTXXT3fp0dXtM2fvG4ggMUIkH99NR93NeqDdm0PF3/tEECEPRFACtAH0AlaUKDVKDBJRqq0OafX2u9FgDZ1gLkIKDd4MOyrSoH77RF8r0yJRimAAKVOz0QEbJZTHzbaGhzLT5kS692p2gwhABFACtAHFArQCSorfBgFIgowDIrSmDqAQohKkFLYzw3KiRG8AF4AL4AXwAvkCmCGMEO6MDhuEDf4XQHsMHb4M1UGD4AHwAPgAfCAXIFgpShABCACEAGIAEQAIm8FIEIQIYhQjDKpeg4QAYg0ACJy05S21eGxfPx5sXTsBf/+HAHEDpJgubz8c+wdtrh32HoEZPkWwVqinAbFAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACEklEQVR4Xu2Zv0pDMRTG2woqDlKroKBoEREXHdTF2cXB1cUn8CEc+hq+gIurjyHORUSqKDipOIgI/oG0X+EebkgkSa05X5dLetOm5/t+55zktlpR/qoqj79CAUiAcgWYAsoBYBFkCjAFlCvAFFAOALsAU4ApoFwBpkBqABrN5nfZGk+dzlCIn/xHqBVABj5+uFgA4f30zoz/moRkBKgVAIHXWpPG4dGrurnC8cbmfNf5y4c8CaAAvaovnZadoFGbKW1A1zcXydKybMHoi4EAdQIgcFR75DzGE+1PY8Db2kihJmxMb5nx8eyeuR61T8x1UCREI4ACiB2fTAGQ8LH6Yhz+ar2aKwjYGVs347PH8/9NAAqNGgFk24OzrjMGnL9/vi1MHVTuY9HgGkABerkvq79MATgO5eH8wtRSaReQBKUiIxoB6gWA47LP94uiZed3MLdfMBtdAO/v1rtnh1T7g2gEqBWg77DlDGDb6bm6hI0MfC5WTQgmQL0AtjaI0x6qvNzp+VZ/CJyqJgQTQAHEPgCnPjzxsZ37bWTYnLbVhNBaEI0AeexVI4Asghi7nvauLG+X/l9gIyPVzjCYAArgaui/vC/JCM1x1/LRCHAt5HtfvQC+QsWaN3QExArM93sogK9Suc4jAbk66xsXCfBVKtd5JCBXZ33jIgG+SuU6jwTk6qxvXCTAV6lc55GAXJ31jesHasVEUBR/0lcAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"paths\":[\"D:\\\\Arron\\\\Github\\\\SimpleRPGA2\\\\Seed12-1.png\"],\"name\":\"Seed12\",\"singleFrame\":false}}",
               "timeBetweenFrames": 0.07999999821186066,
               "sprites": [
@@ -12888,7 +12858,7 @@
           ]
         },
         {
-          "name": "Seed13",
+          "name": "Seed12",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -12899,6 +12869,36 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "Seed13-1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Seed13",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Seed11\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABQUlEQVR4Xu2bLQ7CQBBGWUlIkGBw1YTgOAjnQHIIJOfgIDhC0HUYkCQESUNol9mmZZtimM6r6o9o9+vM7nxvd11PHItk9pTXXT3fp0dXtM2fvG4ggMUIkH99NR93NeqDdm0PF3/tEECEPRFACtAH0AlaUKDVKDBJRqq0OafX2u9FgDZ1gLkIKDd4MOyrSoH77RF8r0yJRimAAKVOz0QEbJZTHzbaGhzLT5kS692p2gwhABFACtAHFArQCSorfBgFIgowDIrSmDqAQohKkFLYzw3KiRG8AF4AL4AXwAvkCmCGMEO6MDhuEDf4XQHsMHb4M1UGD4AHwAPgAfCAXIFgpShABCACEAGIAEQAIm8FIEIQIYhQjDKpeg4QAYg0ACJy05S21eGxfPx5sXTsBf/+HAHEDpJgubz8c+wdtrh32HoEZPkWwVqinAbFAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABrklEQVR4XmNkGOGAcYT7n2E0AEZTwAgPgdEsMMITwGghOJoFRrPACA+B0SwwwhPAaC0wmgVGs8AID4HRLDDCE8BoLUD1LCCkoPCflqnq3YMHVHUzVQ0DeXw0AKAp4NGmGnBCeH7pOJiW1LOkiG9esxesf8ikgBEbALD8D8sKesLGFBUJl96epUnMwxxF9TJgNACgIQBLAYqSilhTgJWND1ic5+hnFPmGzNlgfsP0VDA989mCoZ0CRgMALQW4MdpjTRGwmGc8/h4s/99SEFJ71LIOrxQwYgOAUJ5Hj/lhVwaM2ABIl0rAmueTsh6DxeWPLUfJ87CY/2LNCxZfunry0C4DRgOAQAqAJY9502SxppQh3w4glAKGfQBEh+aitPhgeR9XjMPyPqyFOORTwIgPgNHe4EjrDqOPA8wuFKBoPCC1/wNYP63GBag+HjAaAKNjgpBh8RE7Jjg6LD7SJ0YoKvIHQDPVa4EB8ANFVo4GAEXBNww0j6aAYRCJFHlhNAVQFHzDQPNoChgGkUiRF0ZTAEXBNww0j6aAYRCJFHlhNAVQFHzDQPNoChgGkUiRFwDJJjBQm0AM1QAAAABJRU5ErkJggg==\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"paths\":[\"D:\\\\Arron\\\\Github\\\\SimpleRPGA2\\\\Seed11-1.png\"],\"name\":\"Seed11\",\"singleFrame\":false}}",
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Seed11-1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -17304,7 +17304,12 @@
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ],
       "animations": [
         {
           "name": "NPC1",
@@ -17320,8 +17325,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 24,
+                    "y": 24
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -17349,8 +17354,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 24,
+                    "y": 24
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -17378,8 +17383,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 24,
+                    "y": 24
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -17407,8 +17412,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 24,
+                    "y": 24
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -17436,8 +17441,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 24,
+                    "y": 24
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -17465,8 +17470,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 24,
+                    "y": 24
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -17494,8 +17499,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 24,
+                    "y": 24
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -20001,12 +20006,12 @@
             {
               "name": "SellPrice",
               "type": "string",
-              "value": "25"
+              "value": "20"
             },
             {
               "name": "TotalDuration",
               "type": "string",
-              "value": "40"
+              "value": "60"
             }
           ]
         },
@@ -20017,12 +20022,12 @@
             {
               "name": "SellPrice",
               "type": "string",
-              "value": "320"
+              "value": "8000"
             },
             {
               "name": "TotalDuration",
               "type": "string",
-              "value": "132"
+              "value": "1080"
             }
           ]
         },
@@ -20033,12 +20038,12 @@
             {
               "name": "SellPrice",
               "type": "string",
-              "value": "320"
+              "value": "15000"
             },
             {
               "name": "TotalDuration",
               "type": "string",
-              "value": "132"
+              "value": "1200"
             }
           ]
         },
@@ -20049,12 +20054,12 @@
             {
               "name": "SellPrice",
               "type": "string",
-              "value": "20000"
+              "value": "50000"
             },
             {
               "name": "TotalDuration",
               "type": "string",
-              "value": "480"
+              "value": "1800"
             }
           ]
         },
@@ -20065,12 +20070,12 @@
             {
               "name": "SellPrice",
               "type": "string",
-              "value": "60"
+              "value": "45"
             },
             {
               "name": "TotalDuration",
               "type": "string",
-              "value": "52"
+              "value": "120"
             }
           ]
         },
@@ -20081,12 +20086,12 @@
             {
               "name": "SellPrice",
               "type": "string",
-              "value": "80"
+              "value": "100"
             },
             {
               "name": "TotalDuration",
               "type": "string",
-              "value": "60"
+              "value": "240"
             }
           ]
         },
@@ -20097,12 +20102,12 @@
             {
               "name": "SellPrice",
               "type": "string",
-              "value": "175"
+              "value": "160"
             },
             {
               "name": "TotalDuration",
               "type": "string",
-              "value": "120"
+              "value": "300"
             }
           ]
         },
@@ -20113,12 +20118,12 @@
             {
               "name": "SellPrice",
               "type": "string",
-              "value": "320"
+              "value": "200"
             },
             {
               "name": "TotalDuration",
               "type": "string",
-              "value": "132"
+              "value": "360"
             }
           ]
         },
@@ -20129,12 +20134,12 @@
             {
               "name": "SellPrice",
               "type": "string",
-              "value": "320"
+              "value": "350"
             },
             {
               "name": "TotalDuration",
               "type": "string",
-              "value": "132"
+              "value": "480"
             }
           ]
         },
@@ -20145,12 +20150,12 @@
             {
               "name": "SellPrice",
               "type": "string",
-              "value": "320"
+              "value": "650"
             },
             {
               "name": "TotalDuration",
               "type": "string",
-              "value": "132"
+              "value": "600"
             }
           ]
         },
@@ -20161,12 +20166,12 @@
             {
               "name": "SellPrice",
               "type": "string",
-              "value": "320"
+              "value": "1000"
             },
             {
               "name": "TotalDuration",
               "type": "string",
-              "value": "132"
+              "value": "780"
             }
           ]
         },
@@ -20177,12 +20182,12 @@
             {
               "name": "SellPrice",
               "type": "string",
-              "value": "320"
+              "value": "2000"
             },
             {
               "name": "TotalDuration",
               "type": "string",
-              "value": "132"
+              "value": "900"
             }
           ]
         }
@@ -42099,103 +42104,6 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Seed11Stage1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Seed11Stage2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Seed11Stage3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Seed11Stage4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Seed11Stage5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Seed12",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
                       "image": "Seed12Stage1.png",
                       "points": [],
                       "originPoint": {
@@ -42284,7 +42192,7 @@
               ]
             },
             {
-              "name": "Seed13",
+              "name": "Seed12",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -42362,6 +42270,103 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "Seed13Stage5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Seed13",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Seed11Stage1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Seed11Stage2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Seed11Stage3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Seed11Stage4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Seed11Stage5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -56093,6 +56098,94 @@
                   "parameters": [
                     "",
                     "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player.Effects[0].IsActive",
+                    "False"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player.Effects[1].IsActive",
+                    "False"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player.Effects[2].IsActive",
+                    "False"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player.Effects[3].IsActive",
+                    "False"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player.Effects[4].IsActive",
+                    "False"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player.Effects[5].IsActive",
+                    "False"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player.Effects[6].IsActive",
+                    "False"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player.Effects[7].IsActive",
+                    "False"
                   ],
                   "subInstructions": []
                 }
@@ -76429,7 +76522,7 @@
                       "parameters": [
                         "NPC",
                         "=",
-                        "1"
+                        "0"
                       ],
                       "subInstructions": []
                     },
@@ -76441,7 +76534,7 @@
                       "parameters": [
                         "DialogText",
                         "=",
-                        "\"Thank you so much!\nI thought I would be\nstuck forever\nCome by my hut to buy\npotions\""
+                        "\"Hmmm, good work\nCome find my place and\nill show you some \nspecial merchandise\""
                       ],
                       "subInstructions": []
                     },
@@ -76519,7 +76612,7 @@
                       "parameters": [
                         "CurrentCaveLevel",
                         "=",
-                        "50"
+                        "40"
                       ],
                       "subInstructions": []
                     },
@@ -76531,7 +76624,7 @@
                       "parameters": [
                         "MaxCaveLevelReached",
                         "=",
-                        "50"
+                        "40"
                       ],
                       "subInstructions": []
                     },
@@ -76567,7 +76660,7 @@
                       "parameters": [
                         "NPC",
                         "=",
-                        "0"
+                        "1"
                       ],
                       "subInstructions": []
                     },
@@ -76579,7 +76672,7 @@
                       "parameters": [
                         "DialogText",
                         "=",
-                        "\"Hmmm, good work\nCome find my place and\nill show you some \nspecial merchandise\""
+                        "\"Thank you so much!\nI thought I would be\nstuck forever\nCome by my hut to buy\npotions\""
                       ],
                       "subInstructions": []
                     },
@@ -90690,7 +90783,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.9000000000000153
+        "zoomFactor": 1.3600000000000156
       },
       "objectsGroups": [
         {
@@ -91706,7 +91799,7 @@
           "width": 0,
           "x": 399,
           "y": 447,
-          "zOrder": 2,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -92740,7 +92833,7 @@
           "width": 0,
           "x": 404,
           "y": 348,
-          "zOrder": 2,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -93683,8 +93776,8 @@
           "name": "NPC",
           "persistentUuid": "6fc2470e-dbf0-42e3-b85f-8a1f8c7d5f0f",
           "width": 0,
-          "x": 673,
-          "y": 404,
+          "x": 698,
+          "y": 420,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -93699,8 +93792,8 @@
           "name": "NPC",
           "persistentUuid": "12d5daa1-7849-4648-921c-cf4afd653347",
           "width": 0,
-          "x": 426,
-          "y": 223,
+          "x": 449,
+          "y": 235,
           "zOrder": 1,
           "numberProperties": [
             {
@@ -93720,8 +93813,8 @@
           "name": "NPC",
           "persistentUuid": "e101b33c-5adf-4156-8369-b48e440b6c76",
           "width": 0,
-          "x": 668,
-          "y": 226,
+          "x": 690,
+          "y": 237,
           "zOrder": 1,
           "numberProperties": [
             {
@@ -93741,8 +93834,8 @@
           "name": "NPC",
           "persistentUuid": "2d107f66-a8da-4f59-ae10-1ce912e001f4",
           "width": 0,
-          "x": 672,
-          "y": 324,
+          "x": 694,
+          "y": 335,
           "zOrder": 1,
           "numberProperties": [
             {
@@ -93762,8 +93855,8 @@
           "name": "NPC",
           "persistentUuid": "50505d6f-e05d-4738-b150-21e32e6bc428",
           "width": 0,
-          "x": 422,
-          "y": 412,
+          "x": 445,
+          "y": 422,
           "zOrder": 1,
           "numberProperties": [
             {
@@ -93783,8 +93876,8 @@
           "name": "NPC",
           "persistentUuid": "980939f3-9da1-495c-a928-dc0595c1791a",
           "width": 0,
-          "x": 426,
-          "y": 315,
+          "x": 449,
+          "y": 324,
           "zOrder": 1,
           "numberProperties": [
             {
@@ -94100,7 +94193,7 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "50000"
+                          "value": "5000"
                         },
                         {
                           "name": "StockLeft",
@@ -94121,7 +94214,7 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "100000"
+                          "value": "20000"
                         },
                         {
                           "name": "StockLeft",
@@ -94142,7 +94235,7 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "500000"
+                          "value": "50000"
                         },
                         {
                           "name": "StockLeft",
@@ -94163,7 +94256,7 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "1000000"
+                          "value": "100000"
                         },
                         {
                           "name": "StockLeft",
@@ -94184,7 +94277,7 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "10000000"
+                          "value": "1000000"
                         },
                         {
                           "name": "StockLeft",
@@ -94211,7 +94304,7 @@
                         {
                           "name": "Price",
                           "type": "string",
-                          "value": "5000"
+                          "value": "10000"
                         },
                         {
                           "name": "StockLeft",
@@ -94554,7 +94647,7 @@
                         {
                           "name": "Name",
                           "type": "string",
-                          "value": "Seed12"
+                          "value": "Seed11"
                         },
                         {
                           "name": "Price",
@@ -94575,7 +94668,7 @@
                         {
                           "name": "Name",
                           "type": "string",
-                          "value": "Seed13"
+                          "value": "Seed12"
                         },
                         {
                           "name": "Price",
@@ -94757,12 +94850,12 @@
                         },
                         {
                           "name": "Button2",
-                          "x": 205,
+                          "x": 180,
                           "y": 50
                         },
                         {
                           "name": "Button3",
-                          "x": 365,
+                          "x": 335,
                           "y": 50
                         },
                         {
@@ -94772,12 +94865,12 @@
                         },
                         {
                           "name": "Button5",
-                          "x": 205,
+                          "x": 180,
                           "y": 200
                         },
                         {
                           "name": "Button6",
-                          "x": 365,
+                          "x": 335,
                           "y": 200
                         },
                         {
@@ -94787,12 +94880,12 @@
                         },
                         {
                           "name": "Name2",
-                          "x": 205,
+                          "x": 180,
                           "y": 25
                         },
                         {
                           "name": "Name3",
-                          "x": 365,
+                          "x": 335,
                           "y": 25
                         },
                         {
@@ -94802,12 +94895,12 @@
                         },
                         {
                           "name": "Name5",
-                          "x": 205,
+                          "x": 180,
                           "y": 175
                         },
                         {
                           "name": "Name6",
-                          "x": 365,
+                          "x": 335,
                           "y": 175
                         }
                       ],
@@ -94847,12 +94940,12 @@
                         },
                         {
                           "name": "Button2",
-                          "x": 205,
+                          "x": 180,
                           "y": 50
                         },
                         {
                           "name": "Button3",
-                          "x": 365,
+                          "x": 335,
                           "y": 50
                         },
                         {
@@ -94862,12 +94955,12 @@
                         },
                         {
                           "name": "Button5",
-                          "x": 205,
+                          "x": 180,
                           "y": 200
                         },
                         {
                           "name": "Button6",
-                          "x": 365,
+                          "x": 335,
                           "y": 200
                         },
                         {
@@ -94877,12 +94970,12 @@
                         },
                         {
                           "name": "Name2",
-                          "x": 205,
+                          "x": 180,
                           "y": 25
                         },
                         {
                           "name": "Name3",
-                          "x": 365,
+                          "x": 335,
                           "y": 25
                         },
                         {
@@ -94892,12 +94985,12 @@
                         },
                         {
                           "name": "Name5",
-                          "x": 205,
+                          "x": 180,
                           "y": 175
                         },
                         {
                           "name": "Name6",
-                          "x": 365,
+                          "x": 335,
                           "y": 175
                         }
                       ],
@@ -101630,21 +101723,104 @@
                 "1"
               ],
               "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ModVarGlobal"
-              },
-              "parameters": [
-                "Player.Health",
-                "+",
-                "50"
-              ],
-              "subInstructions": []
             }
           ],
-          "events": []
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "Player.Health",
+                    "<=",
+                    "50"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Player.Health",
+                    "+",
+                    "50"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "HealthBar",
+                    "UpdateHealth",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "Player.Health",
+                    ">",
+                    "50"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Player.Health",
+                    "=",
+                    "100"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "HealthBar",
+                    "UpdateHealth",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
         },
         {
           "disabled": false,
