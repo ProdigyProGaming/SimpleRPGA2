@@ -137,6 +137,9 @@ gdjs.Options_32MenuCode.GDOutdoorDecorObjects3= [];
 gdjs.Options_32MenuCode.GDMenuButtonObjects1= [];
 gdjs.Options_32MenuCode.GDMenuButtonObjects2= [];
 gdjs.Options_32MenuCode.GDMenuButtonObjects3= [];
+gdjs.Options_32MenuCode.GDBedObjects1= [];
+gdjs.Options_32MenuCode.GDBedObjects2= [];
+gdjs.Options_32MenuCode.GDBedObjects3= [];
 gdjs.Options_32MenuCode.GDNewObjectObjects1= [];
 gdjs.Options_32MenuCode.GDNewObjectObjects2= [];
 gdjs.Options_32MenuCode.GDNewObjectObjects3= [];
@@ -498,7 +501,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22558012);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22605316);
 }
 }}
 }
@@ -526,7 +529,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22565644);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22612948);
 }
 }}
 }
@@ -554,7 +557,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22573268);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22620572);
 }
 }}
 }
@@ -582,7 +585,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22580100);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22627404);
 }
 }}
 }
@@ -616,7 +619,7 @@ gdjs.Options_32MenuCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariabl
 }if ( gdjs.Options_32MenuCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition3IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22583132);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22630436);
 }
 }}
 }
@@ -643,7 +646,7 @@ gdjs.Options_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.Options_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Options_32MenuCode.conditionTrue_1 = gdjs.Options_32MenuCode.condition2IsTrue_0;
-gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22584564);
+gdjs.Options_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22631868);
 }
 }}
 }
@@ -797,6 +800,9 @@ gdjs.Options_32MenuCode.GDOutdoorDecorObjects3.length = 0;
 gdjs.Options_32MenuCode.GDMenuButtonObjects1.length = 0;
 gdjs.Options_32MenuCode.GDMenuButtonObjects2.length = 0;
 gdjs.Options_32MenuCode.GDMenuButtonObjects3.length = 0;
+gdjs.Options_32MenuCode.GDBedObjects1.length = 0;
+gdjs.Options_32MenuCode.GDBedObjects2.length = 0;
+gdjs.Options_32MenuCode.GDBedObjects3.length = 0;
 gdjs.Options_32MenuCode.GDNewObjectObjects1.length = 0;
 gdjs.Options_32MenuCode.GDNewObjectObjects2.length = 0;
 gdjs.Options_32MenuCode.GDNewObjectObjects3.length = 0;

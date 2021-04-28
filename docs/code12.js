@@ -91,6 +91,8 @@ gdjs.End_32ScreenCode.GDOutdoorDecorObjects1= [];
 gdjs.End_32ScreenCode.GDOutdoorDecorObjects2= [];
 gdjs.End_32ScreenCode.GDMenuButtonObjects1= [];
 gdjs.End_32ScreenCode.GDMenuButtonObjects2= [];
+gdjs.End_32ScreenCode.GDBedObjects1= [];
+gdjs.End_32ScreenCode.GDBedObjects2= [];
 gdjs.End_32ScreenCode.GDNewObject2Objects1= [];
 gdjs.End_32ScreenCode.GDNewObject2Objects2= [];
 gdjs.End_32ScreenCode.GDNewObjectObjects1= [];
@@ -157,7 +159,7 @@ gdjs.End_32ScreenCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButton
 }if ( gdjs.End_32ScreenCode.condition1IsTrue_0.val ) {
 {
 {gdjs.End_32ScreenCode.conditionTrue_1 = gdjs.End_32ScreenCode.condition2IsTrue_0;
-gdjs.End_32ScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(24003156);
+gdjs.End_32ScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(24051324);
 }
 }}
 }
@@ -265,6 +267,8 @@ gdjs.End_32ScreenCode.GDOutdoorDecorObjects1.length = 0;
 gdjs.End_32ScreenCode.GDOutdoorDecorObjects2.length = 0;
 gdjs.End_32ScreenCode.GDMenuButtonObjects1.length = 0;
 gdjs.End_32ScreenCode.GDMenuButtonObjects2.length = 0;
+gdjs.End_32ScreenCode.GDBedObjects1.length = 0;
+gdjs.End_32ScreenCode.GDBedObjects2.length = 0;
 gdjs.End_32ScreenCode.GDNewObject2Objects1.length = 0;
 gdjs.End_32ScreenCode.GDNewObject2Objects2.length = 0;
 gdjs.End_32ScreenCode.GDNewObjectObjects1.length = 0;

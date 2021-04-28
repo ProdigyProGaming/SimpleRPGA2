@@ -357,6 +357,13 @@ gdjs.ForestCode.GDMenuButtonObjects4= [];
 gdjs.ForestCode.GDMenuButtonObjects5= [];
 gdjs.ForestCode.GDMenuButtonObjects6= [];
 gdjs.ForestCode.GDMenuButtonObjects7= [];
+gdjs.ForestCode.GDBedObjects1= [];
+gdjs.ForestCode.GDBedObjects2= [];
+gdjs.ForestCode.GDBedObjects3= [];
+gdjs.ForestCode.GDBedObjects4= [];
+gdjs.ForestCode.GDBedObjects5= [];
+gdjs.ForestCode.GDBedObjects6= [];
+gdjs.ForestCode.GDBedObjects7= [];
 gdjs.ForestCode.GDNewObjectObjects1= [];
 gdjs.ForestCode.GDNewObjectObjects2= [];
 gdjs.ForestCode.GDNewObjectObjects3= [];
@@ -535,7 +542,7 @@ gdjs.ForestCode.conditionTrue_1.val = (gdjs.evtTools.runtimeScene.getSceneName(r
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22995996);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23043156);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -567,7 +574,7 @@ gdjs.ForestCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean
 }if ( gdjs.ForestCode.condition2IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition3IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22997284);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23044444);
 }
 }}
 }
@@ -607,7 +614,7 @@ gdjs.ForestCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition1IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition2IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23001308);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23048468);
 }
 }}
 }
@@ -1070,7 +1077,7 @@ gdjs.ForestCode.conditionTrue_1.val = (gdjs.evtTools.runtimeScene.getSceneName(r
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23026692);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23073852);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -1320,7 +1327,7 @@ gdjs.ForestCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition1IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition2IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23023380);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23070540);
 }
 }}
 }
@@ -1682,7 +1689,7 @@ gdjs.ForestCode.conditionTrue_1.val = true && gdjs.ForestCode.condition0IsTrue_1
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23040460);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23087620);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -1755,7 +1762,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDSwordObjects2.length;i<l;++i) {
 gdjs.ForestCode.GDSwordObjects2.length = k;}if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23048084);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23095244);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -1786,7 +1793,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDSwordObjects2.length;i<l;++i) {
 gdjs.ForestCode.GDSwordObjects2.length = k;}if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23049100);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23096260);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -1817,7 +1824,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDSwordObjects2.length;i<l;++i) {
 gdjs.ForestCode.GDSwordObjects2.length = k;}if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23049876);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23097036);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -1848,7 +1855,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDSwordObjects2.length;i<l;++i) {
 gdjs.ForestCode.GDSwordObjects2.length = k;}if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23050524);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23097684);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -1879,7 +1886,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDSwordObjects1.length;i<l;++i) {
 gdjs.ForestCode.GDSwordObjects1.length = k;}if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23051892);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23099052);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -1952,7 +1959,7 @@ gdjs.ForestCode.GDGunObjects2.length = k;}if (gdjs.ForestCode.condition0IsTrue_0
 gdjs.ForestCode.condition0IsTrue_0.val = false;
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition0IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23056308);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23103468);
 }
 }if (gdjs.ForestCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.ForestCode.GDGunObjects2, gdjs.ForestCode.GDGunObjects3);
@@ -2042,7 +2049,7 @@ gdjs.ForestCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition2IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition3IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23059596);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23106756);
 }
 }}
 }
@@ -2219,7 +2226,7 @@ gdjs.ForestCode.conditionTrue_1.val = (gdjs.evtTools.common.toNumber(gdjs.evtToo
 gdjs.ForestCode.condition0IsTrue_0.val = false;
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition0IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23067068);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23114228);
 }
 }if (gdjs.ForestCode.condition0IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(9).getChild("Effects").getChild(gdjs.evtTools.common.toNumber(gdjs.evtTools.string.subStr(gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(9).getChild("Weapon")), 6, 1)) + 2).getChild("TotalDuration").setNumber(30);
@@ -2256,7 +2263,7 @@ gdjs.ForestCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition2IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition3IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23066396);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23113556);
 }
 }}
 }
@@ -2365,7 +2372,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsed
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23075684);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23122844);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -2414,7 +2421,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 gdjs.ForestCode.condition0IsTrue_0.val = false;
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition0IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23080500);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23127660);
 }
 }if (gdjs.ForestCode.condition0IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(0).setNumber(0);
@@ -2457,7 +2464,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runt
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23084132);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23131292);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -2478,7 +2485,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runt
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23085340);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23132500);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -2499,7 +2506,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runt
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23086556);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23133716);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -2524,7 +2531,7 @@ gdjs.ForestCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition1IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition2IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23087804);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23134964);
 }
 }}
 }
@@ -2556,7 +2563,7 @@ if( gdjs.ForestCode.condition0IsTrue_1.val ) {
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23089468);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23136628);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -3004,7 +3011,7 @@ gdjs.ForestCode.GDCheatsEffectsObjects4.push(gdjs.ForestCode.forEachTemporary4);
 gdjs.ForestCode.condition0IsTrue_0.val = false;
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition0IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23114828);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23161988);
 }
 }if (gdjs.ForestCode.condition0IsTrue_0.val) {
 
@@ -3046,7 +3053,7 @@ gdjs.ForestCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPresse
 }if ( gdjs.ForestCode.condition1IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition2IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23117772);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23164932);
 }
 }}
 }
@@ -3075,7 +3082,7 @@ gdjs.ForestCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleas
 }if ( gdjs.ForestCode.condition1IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition2IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23120316);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23167476);
 }
 }}
 }
@@ -3103,7 +3110,7 @@ gdjs.ForestCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPresse
 }if ( gdjs.ForestCode.condition1IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition2IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23125172);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23172332);
 }
 }}
 }
@@ -3114,7 +3121,7 @@ if (gdjs.ForestCode.condition2IsTrue_0.val) {
 }
 
 
-};gdjs.ForestCode.mapOf = Hashtable.newFrom({});gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDVolumeControlObjects3Objects = Hashtable.newFrom({"VolumeControl": gdjs.ForestCode.GDVolumeControlObjects3});gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDVolumeTextTitleObjects3Objects = Hashtable.newFrom({"VolumeTextTitle": gdjs.ForestCode.GDVolumeTextTitleObjects3});gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDVolumeValueObjects3Objects = Hashtable.newFrom({"VolumeValue": gdjs.ForestCode.GDVolumeValueObjects3});gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDVolumeControlObjects3Objects = Hashtable.newFrom({"VolumeControl": gdjs.ForestCode.GDVolumeControlObjects3});gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDVolumeValueObjects4Objects = Hashtable.newFrom({"VolumeValue": gdjs.ForestCode.GDVolumeValueObjects4});gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDVolumeValueObjects3Objects = Hashtable.newFrom({"VolumeValue": gdjs.ForestCode.GDVolumeValueObjects3});gdjs.ForestCode.eventsList34 = function(runtimeScene) {
+};gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDPlayerObjects2ObjectsGDgdjs_46ForestCode_46GDGunObjects2ObjectsGDgdjs_46ForestCode_46GDSwordObjects2ObjectsGDgdjs_46ForestCode_46GDBulletObjects2ObjectsGDgdjs_46ForestCode_46GDHealthBarBackgroundObjects2ObjectsGDgdjs_46ForestCode_46GDHealthBarObjects2ObjectsGDgdjs_46ForestCode_46GDHealthBarValueObjects2ObjectsGDgdjs_46ForestCode_46GDCurrencyTextObjects2ObjectsGDgdjs_46ForestCode_46GDInventoryBackgroundObjects2ObjectsGDgdjs_46ForestCode_46GDInventorySlotObjects2ObjectsGDgdjs_46ForestCode_46GDInventoryTrashSlotObjects2ObjectsGDgdjs_46ForestCode_46GDInventoryMovingSlotObjects2ObjectsGDgdjs_46ForestCode_46GDHotBarSelectionObjects2ObjectsGDgdjs_46ForestCode_46GDInventoryQuantityObjects2ObjectsGDgdjs_46ForestCode_46GDChangeSceneInteractionObjects2ObjectsGDgdjs_46ForestCode_46GDSolidObjectObjects2ObjectsGDgdjs_46ForestCode_46GDStatsBackgroundObjects2ObjectsGDgdjs_46ForestCode_46GDStatsTextObjects2ObjectsGDgdjs_46ForestCode_46GDObjectiveObjects2ObjectsGDgdjs_46ForestCode_46GDObjectivesBackgroundObjects2ObjectsGDgdjs_46ForestCode_46GDHotbarBackgroundObjects2ObjectsGDgdjs_46ForestCode_46GDInventoryTabObjects2ObjectsGDgdjs_46ForestCode_46GDInventoryTabTextObjects2ObjectsGDgdjs_46ForestCode_46GDDialogTextObjects2ObjectsGDgdjs_46ForestCode_46GDDialogBoxObjects2ObjectsGDgdjs_46ForestCode_46GDEffectIconsObjects2ObjectsGDgdjs_46ForestCode_46GDVolumeControlObjects2ObjectsGDgdjs_46ForestCode_46GDVolumeTextTitleObjects2ObjectsGDgdjs_46ForestCode_46GDVolumeValueObjects2ObjectsGDgdjs_46ForestCode_46GDBuildingObjects2ObjectsGDgdjs_46ForestCode_46GDSleepColliderObjects2ObjectsGDgdjs_46ForestCode_46GDPathsObjects2ObjectsGDgdjs_46ForestCode_46GDWoodPathObjects2ObjectsGDgdjs_46ForestCode_46GDCheatsEnablerTitleObjects2ObjectsGDgdjs_46ForestCode_46GDCheatsEnablerObjects2ObjectsGDgdjs_46ForestCode_46GDCheatsButtonsObjects2ObjectsGDgdjs_46ForestCode_46GDCheatsTitleObjects2ObjectsGDgdjs_46ForestCode_46GDCheatsValuesObjects2ObjectsGDgdjs_46ForestCode_46GDCheatsEffectsObjects2ObjectsGDgdjs_46ForestCode_46GDNextLevelObjects2ObjectsGDgdjs_46ForestCode_46GDNPCObjects2ObjectsGDgdjs_46ForestCode_46GDRestockShopCheatObjects2ObjectsGDgdjs_46ForestCode_46GDFPSObjects2ObjectsGDgdjs_46ForestCode_46GDCaveHoleObjects2ObjectsGDgdjs_46ForestCode_46GDOutdoorDecorObjects2ObjectsGDgdjs_46ForestCode_46GDMenuButtonObjects2ObjectsGDgdjs_46ForestCode_46GDNewObjectObjects2ObjectsGDgdjs_46ForestCode_46GDBedObjects2Objects = Hashtable.newFrom({"Player": gdjs.ForestCode.GDPlayerObjects2, "Gun": gdjs.ForestCode.GDGunObjects2, "Sword": gdjs.ForestCode.GDSwordObjects2, "Bullet": gdjs.ForestCode.GDBulletObjects2, "HealthBarBackground": gdjs.ForestCode.GDHealthBarBackgroundObjects2, "HealthBar": gdjs.ForestCode.GDHealthBarObjects2, "HealthBarValue": gdjs.ForestCode.GDHealthBarValueObjects2, "CurrencyText": gdjs.ForestCode.GDCurrencyTextObjects2, "InventoryBackground": gdjs.ForestCode.GDInventoryBackgroundObjects2, "InventorySlot": gdjs.ForestCode.GDInventorySlotObjects2, "InventoryTrashSlot": gdjs.ForestCode.GDInventoryTrashSlotObjects2, "InventoryMovingSlot": gdjs.ForestCode.GDInventoryMovingSlotObjects2, "HotBarSelection": gdjs.ForestCode.GDHotBarSelectionObjects2, "InventoryQuantity": gdjs.ForestCode.GDInventoryQuantityObjects2, "ChangeSceneInteraction": gdjs.ForestCode.GDChangeSceneInteractionObjects2, "SolidObject": gdjs.ForestCode.GDSolidObjectObjects2, "StatsBackground": gdjs.ForestCode.GDStatsBackgroundObjects2, "StatsText": gdjs.ForestCode.GDStatsTextObjects2, "Objective": gdjs.ForestCode.GDObjectiveObjects2, "ObjectivesBackground": gdjs.ForestCode.GDObjectivesBackgroundObjects2, "HotbarBackground": gdjs.ForestCode.GDHotbarBackgroundObjects2, "InventoryTab": gdjs.ForestCode.GDInventoryTabObjects2, "InventoryTabText": gdjs.ForestCode.GDInventoryTabTextObjects2, "DialogText": gdjs.ForestCode.GDDialogTextObjects2, "DialogBox": gdjs.ForestCode.GDDialogBoxObjects2, "EffectIcons": gdjs.ForestCode.GDEffectIconsObjects2, "VolumeControl": gdjs.ForestCode.GDVolumeControlObjects2, "VolumeTextTitle": gdjs.ForestCode.GDVolumeTextTitleObjects2, "VolumeValue": gdjs.ForestCode.GDVolumeValueObjects2, "Building": gdjs.ForestCode.GDBuildingObjects2, "SleepCollider": gdjs.ForestCode.GDSleepColliderObjects2, "Paths": gdjs.ForestCode.GDPathsObjects2, "WoodPath": gdjs.ForestCode.GDWoodPathObjects2, "CheatsEnablerTitle": gdjs.ForestCode.GDCheatsEnablerTitleObjects2, "CheatsEnabler": gdjs.ForestCode.GDCheatsEnablerObjects2, "CheatsButtons": gdjs.ForestCode.GDCheatsButtonsObjects2, "CheatsTitle": gdjs.ForestCode.GDCheatsTitleObjects2, "CheatsValues": gdjs.ForestCode.GDCheatsValuesObjects2, "CheatsEffects": gdjs.ForestCode.GDCheatsEffectsObjects2, "NextLevel": gdjs.ForestCode.GDNextLevelObjects2, "NPC": gdjs.ForestCode.GDNPCObjects2, "RestockShopCheat": gdjs.ForestCode.GDRestockShopCheatObjects2, "FPS": gdjs.ForestCode.GDFPSObjects2, "CaveHole": gdjs.ForestCode.GDCaveHoleObjects2, "OutdoorDecor": gdjs.ForestCode.GDOutdoorDecorObjects2, "MenuButton": gdjs.ForestCode.GDMenuButtonObjects2, "NewObject": gdjs.ForestCode.GDNewObjectObjects2, "Bed": gdjs.ForestCode.GDBedObjects2});gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDVolumeControlObjects3Objects = Hashtable.newFrom({"VolumeControl": gdjs.ForestCode.GDVolumeControlObjects3});gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDVolumeTextTitleObjects3Objects = Hashtable.newFrom({"VolumeTextTitle": gdjs.ForestCode.GDVolumeTextTitleObjects3});gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDVolumeValueObjects3Objects = Hashtable.newFrom({"VolumeValue": gdjs.ForestCode.GDVolumeValueObjects3});gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDVolumeControlObjects3Objects = Hashtable.newFrom({"VolumeControl": gdjs.ForestCode.GDVolumeControlObjects3});gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDVolumeValueObjects4Objects = Hashtable.newFrom({"VolumeValue": gdjs.ForestCode.GDVolumeValueObjects4});gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDVolumeValueObjects3Objects = Hashtable.newFrom({"VolumeValue": gdjs.ForestCode.GDVolumeValueObjects3});gdjs.ForestCode.eventsList34 = function(runtimeScene) {
 
 {
 
@@ -3519,7 +3526,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDVolumeControlObjects3.length;i<l;++i
 gdjs.ForestCode.GDVolumeControlObjects3.length = k;}if ( gdjs.ForestCode.condition2IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition3IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23136940);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23184092);
 }
 }}
 }
@@ -3559,7 +3566,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDVolumeControlObjects3.length;i<l;++i
 gdjs.ForestCode.GDVolumeControlObjects3.length = k;}if ( gdjs.ForestCode.condition2IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition3IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23141932);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23189084);
 }
 }}
 }
@@ -3599,7 +3606,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDVolumeControlObjects3.length;i<l;++i
 gdjs.ForestCode.GDVolumeControlObjects3.length = k;}if ( gdjs.ForestCode.condition2IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition3IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23147028);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23194180);
 }
 }}
 }
@@ -3629,7 +3636,7 @@ gdjs.ForestCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPresse
 }if ( gdjs.ForestCode.condition1IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition2IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23151452);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23198604);
 }
 }}
 }
@@ -3659,7 +3666,7 @@ gdjs.ForestCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleas
 }if ( gdjs.ForestCode.condition1IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition2IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23152876);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23200028);
 }
 }}
 }
@@ -3865,7 +3872,7 @@ gdjs.ForestCode.condition1IsTrue_0.val = gdjs.evtTools.camera.layerIsVisible(run
 }if ( gdjs.ForestCode.condition1IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition2IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23173332);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23220484);
 }
 }}
 }
@@ -3984,7 +3991,7 @@ gdjs.ForestCode.condition2IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleas
 }if ( gdjs.ForestCode.condition2IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition3IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23093716);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23140876);
 }
 }}
 }
@@ -4066,7 +4073,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDInventoryQuantityObjects2.length;i<l
 gdjs.ForestCode.GDInventoryQuantityObjects2.length = k;}if ( gdjs.ForestCode.condition2IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition3IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23097908);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23145068);
 }
 }}
 }
@@ -4120,7 +4127,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDInventoryTabObjects2.length;i<l;++i)
 gdjs.ForestCode.GDInventoryTabObjects2.length = k;}if ( gdjs.ForestCode.condition2IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition3IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23101628);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23148788);
 }
 }}
 }
@@ -4163,7 +4170,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDInventoryTabObjects2.length;i<l;++i)
 gdjs.ForestCode.GDInventoryTabObjects2.length = k;}if ( gdjs.ForestCode.condition2IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition3IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23103884);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23151044);
 }
 }}
 }
@@ -4292,21 +4299,57 @@ gdjs.ForestCode.condition0IsTrue_0.val = false;
 {
 gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(32)) == 3;
 }if (gdjs.ForestCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("Bed"), gdjs.ForestCode.GDBedObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Building"), gdjs.ForestCode.GDBuildingObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Bullet"), gdjs.ForestCode.GDBulletObjects2);
+gdjs.copyArray(runtimeScene.getObjects("CaveHole"), gdjs.ForestCode.GDCaveHoleObjects2);
+gdjs.copyArray(runtimeScene.getObjects("ChangeSceneInteraction"), gdjs.ForestCode.GDChangeSceneInteractionObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsButtons"), gdjs.ForestCode.GDCheatsButtonsObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsEffects"), gdjs.ForestCode.GDCheatsEffectsObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.ForestCode.GDCheatsEnablerObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.ForestCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.ForestCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.ForestCode.GDCheatsValuesObjects2);
+gdjs.copyArray(gdjs.ForestCode.GDCurrencyTextObjects1, gdjs.ForestCode.GDCurrencyTextObjects2);
+
+gdjs.copyArray(runtimeScene.getObjects("DialogBox"), gdjs.ForestCode.GDDialogBoxObjects2);
+gdjs.copyArray(runtimeScene.getObjects("DialogText"), gdjs.ForestCode.GDDialogTextObjects2);
+gdjs.copyArray(runtimeScene.getObjects("EffectIcons"), gdjs.ForestCode.GDEffectIconsObjects2);
+gdjs.copyArray(runtimeScene.getObjects("FPS"), gdjs.ForestCode.GDFPSObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Gun"), gdjs.ForestCode.GDGunObjects2);
+gdjs.copyArray(runtimeScene.getObjects("HealthBar"), gdjs.ForestCode.GDHealthBarObjects2);
+gdjs.copyArray(runtimeScene.getObjects("HealthBarBackground"), gdjs.ForestCode.GDHealthBarBackgroundObjects2);
+gdjs.copyArray(runtimeScene.getObjects("HealthBarValue"), gdjs.ForestCode.GDHealthBarValueObjects2);
+gdjs.copyArray(runtimeScene.getObjects("HotBarSelection"), gdjs.ForestCode.GDHotBarSelectionObjects2);
+gdjs.copyArray(runtimeScene.getObjects("HotbarBackground"), gdjs.ForestCode.GDHotbarBackgroundObjects2);
+gdjs.copyArray(gdjs.ForestCode.GDInventoryBackgroundObjects1, gdjs.ForestCode.GDInventoryBackgroundObjects2);
+
+gdjs.copyArray(runtimeScene.getObjects("InventoryMovingSlot"), gdjs.ForestCode.GDInventoryMovingSlotObjects2);
+gdjs.copyArray(runtimeScene.getObjects("InventoryQuantity"), gdjs.ForestCode.GDInventoryQuantityObjects2);
+gdjs.copyArray(runtimeScene.getObjects("InventorySlot"), gdjs.ForestCode.GDInventorySlotObjects2);
+gdjs.copyArray(runtimeScene.getObjects("InventoryTab"), gdjs.ForestCode.GDInventoryTabObjects2);
+gdjs.copyArray(gdjs.ForestCode.GDInventoryTabTextObjects1, gdjs.ForestCode.GDInventoryTabTextObjects2);
+
+gdjs.copyArray(runtimeScene.getObjects("InventoryTrashSlot"), gdjs.ForestCode.GDInventoryTrashSlotObjects2);
 gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.ForestCode.GDMenuButtonObjects2);
+gdjs.copyArray(runtimeScene.getObjects("NPC"), gdjs.ForestCode.GDNPCObjects2);
+gdjs.copyArray(runtimeScene.getObjects("NewObject"), gdjs.ForestCode.GDNewObjectObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.ForestCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.ForestCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.ForestCode.GDObjectivesBackgroundObjects2);
+gdjs.copyArray(runtimeScene.getObjects("OutdoorDecor"), gdjs.ForestCode.GDOutdoorDecorObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Paths"), gdjs.ForestCode.GDPathsObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ForestCode.GDPlayerObjects2);
 gdjs.copyArray(runtimeScene.getObjects("RestockShopCheat"), gdjs.ForestCode.GDRestockShopCheatObjects2);
+gdjs.copyArray(runtimeScene.getObjects("SleepCollider"), gdjs.ForestCode.GDSleepColliderObjects2);
+gdjs.copyArray(runtimeScene.getObjects("SolidObject"), gdjs.ForestCode.GDSolidObjectObjects2);
+gdjs.copyArray(runtimeScene.getObjects("StatsBackground"), gdjs.ForestCode.GDStatsBackgroundObjects2);
 gdjs.copyArray(runtimeScene.getObjects("StatsText"), gdjs.ForestCode.GDStatsTextObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Sword"), gdjs.ForestCode.GDSwordObjects2);
 gdjs.copyArray(runtimeScene.getObjects("VolumeControl"), gdjs.ForestCode.GDVolumeControlObjects2);
 gdjs.copyArray(runtimeScene.getObjects("VolumeTextTitle"), gdjs.ForestCode.GDVolumeTextTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("VolumeValue"), gdjs.ForestCode.GDVolumeValueObjects2);
+gdjs.copyArray(runtimeScene.getObjects("WoodPath"), gdjs.ForestCode.GDWoodPathObjects2);
 {for(var i = 0, len = gdjs.ForestCode.GDObjectivesBackgroundObjects2.length ;i < len;++i) {
     gdjs.ForestCode.GDObjectivesBackgroundObjects2[i].hide(false);
 }
@@ -4355,8 +4398,9 @@ for(var i = 0, len = gdjs.ForestCode.GDRestockShopCheatObjects2.length ;i < len;
 }{for(var i = 0, len = gdjs.ForestCode.GDStatsTextObjects2.length ;i < len;++i) {
     gdjs.ForestCode.GDStatsTextObjects2[i].hide(false);
 }
+}{runtimeScene.getVariables().get("ObjectCount").setNumber(gdjs.evtTools.object.pickedObjectsCount(gdjs.ForestCode.mapOfGDgdjs_46ForestCode_46GDPlayerObjects2ObjectsGDgdjs_46ForestCode_46GDGunObjects2ObjectsGDgdjs_46ForestCode_46GDSwordObjects2ObjectsGDgdjs_46ForestCode_46GDBulletObjects2ObjectsGDgdjs_46ForestCode_46GDHealthBarBackgroundObjects2ObjectsGDgdjs_46ForestCode_46GDHealthBarObjects2ObjectsGDgdjs_46ForestCode_46GDHealthBarValueObjects2ObjectsGDgdjs_46ForestCode_46GDCurrencyTextObjects2ObjectsGDgdjs_46ForestCode_46GDInventoryBackgroundObjects2ObjectsGDgdjs_46ForestCode_46GDInventorySlotObjects2ObjectsGDgdjs_46ForestCode_46GDInventoryTrashSlotObjects2ObjectsGDgdjs_46ForestCode_46GDInventoryMovingSlotObjects2ObjectsGDgdjs_46ForestCode_46GDHotBarSelectionObjects2ObjectsGDgdjs_46ForestCode_46GDInventoryQuantityObjects2ObjectsGDgdjs_46ForestCode_46GDChangeSceneInteractionObjects2ObjectsGDgdjs_46ForestCode_46GDSolidObjectObjects2ObjectsGDgdjs_46ForestCode_46GDStatsBackgroundObjects2ObjectsGDgdjs_46ForestCode_46GDStatsTextObjects2ObjectsGDgdjs_46ForestCode_46GDObjectiveObjects2ObjectsGDgdjs_46ForestCode_46GDObjectivesBackgroundObjects2ObjectsGDgdjs_46ForestCode_46GDHotbarBackgroundObjects2ObjectsGDgdjs_46ForestCode_46GDInventoryTabObjects2ObjectsGDgdjs_46ForestCode_46GDInventoryTabTextObjects2ObjectsGDgdjs_46ForestCode_46GDDialogTextObjects2ObjectsGDgdjs_46ForestCode_46GDDialogBoxObjects2ObjectsGDgdjs_46ForestCode_46GDEffectIconsObjects2ObjectsGDgdjs_46ForestCode_46GDVolumeControlObjects2ObjectsGDgdjs_46ForestCode_46GDVolumeTextTitleObjects2ObjectsGDgdjs_46ForestCode_46GDVolumeValueObjects2ObjectsGDgdjs_46ForestCode_46GDBuildingObjects2ObjectsGDgdjs_46ForestCode_46GDSleepColliderObjects2ObjectsGDgdjs_46ForestCode_46GDPathsObjects2ObjectsGDgdjs_46ForestCode_46GDWoodPathObjects2ObjectsGDgdjs_46ForestCode_46GDCheatsEnablerTitleObjects2ObjectsGDgdjs_46ForestCode_46GDCheatsEnablerObjects2ObjectsGDgdjs_46ForestCode_46GDCheatsButtonsObjects2ObjectsGDgdjs_46ForestCode_46GDCheatsTitleObjects2ObjectsGDgdjs_46ForestCode_46GDCheatsValuesObjects2ObjectsGDgdjs_46ForestCode_46GDCheatsEffectsObjects2ObjectsGDgdjs_46ForestCode_46GDNextLevelObjects2ObjectsGDgdjs_46ForestCode_46GDNPCObjects2ObjectsGDgdjs_46ForestCode_46GDRestockShopCheatObjects2ObjectsGDgdjs_46ForestCode_46GDFPSObjects2ObjectsGDgdjs_46ForestCode_46GDCaveHoleObjects2ObjectsGDgdjs_46ForestCode_46GDOutdoorDecorObjects2ObjectsGDgdjs_46ForestCode_46GDMenuButtonObjects2ObjectsGDgdjs_46ForestCode_46GDNewObjectObjects2ObjectsGDgdjs_46ForestCode_46GDBedObjects2Objects));
 }{for(var i = 0, len = gdjs.ForestCode.GDStatsTextObjects2.length ;i < len;++i) {
-    gdjs.ForestCode.GDStatsTextObjects2[i].setString("Player Stats\nDeaths: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(22)) + "\nEnemies Killed: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(42)) + "\nCrops Harvested: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(43)) + "\nMax Cave Level: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(30)) + "\nTotal Coins Gained: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(44)) + "\nTotal Coins Spent: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(45)) + "\nGame Stats\nObject Count: " + gdjs.evtTools.common.toString(gdjs.evtTools.object.pickedObjectsCount(gdjs.ForestCode.mapOf)));
+    gdjs.ForestCode.GDStatsTextObjects2[i].setString("Player Stats\nDeaths: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(22)) + "\nEnemies Killed: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(42)) + "\nCrops Harvested: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(43)) + "\nMax Cave Level: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(30)) + "\nTotal Coins Gained: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(44)) + "\nTotal Coins Spent: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(45)) + "\nGame Stats\nObject Count: " + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().get("ObjectCount")));
 }
 }{for(var i = 0, len = gdjs.ForestCode.GDStatsTextObjects2.length ;i < len;++i) {
     gdjs.ForestCode.GDStatsTextObjects2[i].setPosition((( gdjs.ForestCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.ForestCode.GDObjectivesBackgroundObjects2[0].getPointX("VolumeTitle")),(( gdjs.ForestCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.ForestCode.GDObjectivesBackgroundObjects2[0].getPointY("VolumeTitle")) - 20);
@@ -4703,7 +4747,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23090684);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23137844);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -4885,7 +4929,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23185508);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23232660);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -4906,7 +4950,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23185980);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23233132);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -4927,7 +4971,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23187724);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23234876);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -4948,7 +4992,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23187948);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23235100);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -4969,7 +5013,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23189852);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23237004);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -5292,7 +5336,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDPlayerObjects2.length;i<l;++i) {
 gdjs.ForestCode.GDPlayerObjects2.length = k;}if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23195108);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23242260);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -5326,7 +5370,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDPlayerObjects1.length;i<l;++i) {
 gdjs.ForestCode.GDPlayerObjects1.length = k;}if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23197932);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23245084);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -5355,7 +5399,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23211900);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23259052);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -5377,7 +5421,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23210932);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23258084);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -5402,7 +5446,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23209964);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23257116);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -5427,7 +5471,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23208996);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23256148);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -5452,7 +5496,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23208028);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23255180);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -5477,7 +5521,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23207060);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23254212);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -5514,7 +5558,7 @@ gdjs.ForestCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runt
 }if ( gdjs.ForestCode.condition1IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition2IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23202796);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23249948);
 }
 }}
 }
@@ -5545,7 +5589,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDChangeSceneInteractionObjects3.lengt
 gdjs.ForestCode.GDChangeSceneInteractionObjects3.length = k;}if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23203172);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23250324);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -5575,7 +5619,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDChangeSceneInteractionObjects3.lengt
 gdjs.ForestCode.GDChangeSceneInteractionObjects3.length = k;}if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23205180);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23252332);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -5594,7 +5638,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23206092);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23253244);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -5645,7 +5689,7 @@ gdjs.ForestCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean
 }if ( gdjs.ForestCode.condition2IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition3IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23212900);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23260052);
 }
 }}
 }
@@ -5670,7 +5714,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23214108);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23261260);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -5950,7 +5994,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23224588);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23271740);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -5990,7 +6034,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23229292);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23276444);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -6010,7 +6054,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23230148);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23277300);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -6030,7 +6074,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23231036);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23278188);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -6050,7 +6094,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23231900);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23279052);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -6087,7 +6131,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23232756);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23279908);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -6116,7 +6160,7 @@ gdjs.ForestCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition2IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition3IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23234364);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23281516);
 }
 }}
 }
@@ -6154,7 +6198,7 @@ gdjs.ForestCode.condition3IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition3IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition4IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23235388);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23282540);
 }
 }}
 }
@@ -6194,7 +6238,7 @@ gdjs.ForestCode.condition3IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleas
 }if ( gdjs.ForestCode.condition3IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition4IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23238116);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23285268);
 }
 }}
 }
@@ -6229,7 +6273,7 @@ gdjs.ForestCode.condition2IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition2IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition3IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23239700);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23286852);
 }
 }}
 }
@@ -6260,7 +6304,7 @@ gdjs.ForestCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition2IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition3IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23240572);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23287724);
 }
 }}
 }
@@ -6312,7 +6356,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDDialogBoxObjects2.length;i<l;++i) {
 gdjs.ForestCode.GDDialogBoxObjects2.length = k;}if ( gdjs.ForestCode.condition3IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition4IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23243036);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23290188);
 }
 }}
 }
@@ -6415,7 +6459,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDDialogBoxObjects2.length;i<l;++i) {
 gdjs.ForestCode.GDDialogBoxObjects2.length = k;}if ( gdjs.ForestCode.condition1IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition2IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23249100);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23296252);
 }
 }}
 }
@@ -6450,7 +6494,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDDialogBoxObjects2.length;i<l;++i) {
 gdjs.ForestCode.GDDialogBoxObjects2.length = k;}if ( gdjs.ForestCode.condition1IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition2IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23250332);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23297484);
 }
 }}
 }
@@ -6481,7 +6525,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDDialogBoxObjects2.length;i<l;++i) {
 gdjs.ForestCode.GDDialogBoxObjects2.length = k;}if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23250972);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23298124);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -6515,7 +6559,7 @@ for(var i = 0, k = 0, l = gdjs.ForestCode.GDDialogBoxObjects2.length;i<l;++i) {
 gdjs.ForestCode.GDDialogBoxObjects2.length = k;}if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23252172);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23299324);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -6542,7 +6586,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23252668);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23299820);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -6562,7 +6606,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23254420);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23301572);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -6943,7 +6987,7 @@ gdjs.ForestCode.GDEffectIconsObjects3.push(gdjs.ForestCode.forEachTemporary3);
 gdjs.ForestCode.condition0IsTrue_0.val = false;
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition0IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23278684);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23325836);
 }
 }if (gdjs.ForestCode.condition0IsTrue_0.val) {
 {for(var i = 0, len = gdjs.ForestCode.GDEffectIconsObjects3.length ;i < len;++i) {
@@ -6969,7 +7013,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23280908);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23328060);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -7001,7 +7045,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsed
 }if (gdjs.ForestCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("HealthBar"), gdjs.ForestCode.GDHealthBarObjects2);
 {gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "PoisonEffect");
-}{runtimeScene.getGame().getVariables().getFromIndex(9).getChild("Health").sub(5);
+}{runtimeScene.getGame().getVariables().getFromIndex(9).getChild("Health").sub(2);
 }{for(var i = 0, len = gdjs.ForestCode.GDHealthBarObjects2.length ;i < len;++i) {
     gdjs.ForestCode.GDHealthBarObjects2[i].returnVariable(gdjs.ForestCode.GDHealthBarObjects2[i].getVariables().getFromIndex(0)).setNumber(1);
 }
@@ -7022,7 +7066,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23284700);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23331852);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -7060,7 +7104,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23288084);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23335236);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -7095,7 +7139,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23291148);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23338300);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -7130,7 +7174,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23294116);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23341268);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -7165,7 +7209,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23297084);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23344236);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -7244,7 +7288,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23300084);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23347236);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -7295,7 +7339,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23305692);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23352844);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -7658,7 +7702,7 @@ gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.ForestCode.GDPlayerObject
 gdjs.ForestCode.condition0IsTrue_0.val = false;
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition0IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23594076);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23642244);
 }
 }if (gdjs.ForestCode.condition0IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(8).setString("Forest");
@@ -7852,7 +7896,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23308044);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23355196);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -7875,7 +7919,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23309684);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23356836);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -7897,7 +7941,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23311100);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23358252);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -7953,7 +7997,7 @@ gdjs.ForestCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsed
 }if ( gdjs.ForestCode.condition0IsTrue_0.val ) {
 {
 {gdjs.ForestCode.conditionTrue_1 = gdjs.ForestCode.condition1IsTrue_0;
-gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23316804);
+gdjs.ForestCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23363956);
 }
 }}
 if (gdjs.ForestCode.condition1IsTrue_0.val) {
@@ -8307,6 +8351,13 @@ gdjs.ForestCode.GDMenuButtonObjects4.length = 0;
 gdjs.ForestCode.GDMenuButtonObjects5.length = 0;
 gdjs.ForestCode.GDMenuButtonObjects6.length = 0;
 gdjs.ForestCode.GDMenuButtonObjects7.length = 0;
+gdjs.ForestCode.GDBedObjects1.length = 0;
+gdjs.ForestCode.GDBedObjects2.length = 0;
+gdjs.ForestCode.GDBedObjects3.length = 0;
+gdjs.ForestCode.GDBedObjects4.length = 0;
+gdjs.ForestCode.GDBedObjects5.length = 0;
+gdjs.ForestCode.GDBedObjects6.length = 0;
+gdjs.ForestCode.GDBedObjects7.length = 0;
 gdjs.ForestCode.GDNewObjectObjects1.length = 0;
 gdjs.ForestCode.GDNewObjectObjects2.length = 0;
 gdjs.ForestCode.GDNewObjectObjects3.length = 0;

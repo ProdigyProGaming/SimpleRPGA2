@@ -9947,6 +9947,114 @@
         "name": "Shop6Item6-1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Building-1-9-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Building-1-9-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Building-1-6-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Building-1-6-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Building-1-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Building-1-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Building-1-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Building-1-14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Bed-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bed-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Bed-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bed-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Bed-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bed-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Bed-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bed-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Bed-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bed-1-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Bed-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bed-1-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Bed-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bed-1-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Bed-1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bed-1-6.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -10879,7 +10987,7 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "30"
+                  "value": "20"
                 },
                 {
                   "name": "Range",
@@ -10905,7 +11013,7 @@
                 {
                   "name": "Damage",
                   "type": "string",
-                  "value": "60"
+                  "value": "50"
                 },
                 {
                   "name": "Range",
@@ -15610,12 +15718,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Building-1.png",
+                  "image": "Building-1-14.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 75,
+                    "y": 89
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -15643,8 +15751,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 56,
+                    "y": 81
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -15951,7 +16059,7 @@
           ]
         },
         {
-          "name": "",
+          "name": "Building-1-6",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -15960,12 +16068,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Building-1-6.png",
+                  "image": "Building-1-6-1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 100,
+                    "y": 79
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -15993,8 +16101,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 89,
+                    "y": 95
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -16022,8 +16130,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 100,
+                    "y": 106
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -16066,12 +16174,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Building-1-9-1.png",
+                  "image": "Building-1-9-1-0.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 65,
+                    "y": 89
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -16183,8 +16291,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 100,
-                    "y": 115
+                    "x": 75,
+                    "y": 86
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -19377,6 +19485,277 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Bed",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Bed.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cabinet1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Bed-1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cabinet2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Bed-1-0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cabinet3",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Bed-1-1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cabinet4",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Bed-1-2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chair",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Bed-1-3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pic1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Bed-1-4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pic2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Bed-1-5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pic3",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Bed-1-6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsGroups": [
@@ -19435,8 +19814,225 @@
       ]
     },
     {
-      "name": "AllObjects",
-      "objects": []
+      "name": "AllObjects1",
+      "objects": [
+        {
+          "name": "Background"
+        },
+        {
+          "name": "FarmLand"
+        },
+        {
+          "name": "FarmLandHover"
+        },
+        {
+          "name": "Temp1"
+        },
+        {
+          "name": "Temp2"
+        },
+        {
+          "name": "Player"
+        },
+        {
+          "name": "Gun"
+        },
+        {
+          "name": "Sword"
+        },
+        {
+          "name": "Bullet"
+        },
+        {
+          "name": "HealthBarBackground"
+        },
+        {
+          "name": "HealthBar"
+        },
+        {
+          "name": "HealthBarValue"
+        },
+        {
+          "name": "CurrencyText"
+        },
+        {
+          "name": "InventoryBackground"
+        },
+        {
+          "name": "InventorySlot"
+        },
+        {
+          "name": "InventoryTrashSlot"
+        },
+        {
+          "name": "InventoryMovingSlot"
+        },
+        {
+          "name": "HotBarSelection"
+        },
+        {
+          "name": "InventoryQuantity"
+        },
+        {
+          "name": "ChangeSceneInteraction"
+        },
+        {
+          "name": "SolidObject"
+        },
+        {
+          "name": "StatsBackground"
+        },
+        {
+          "name": "StatsText"
+        },
+        {
+          "name": "Objective"
+        },
+        {
+          "name": "ObjectivesBackground"
+        },
+        {
+          "name": "HotbarBackground"
+        },
+        {
+          "name": "InventoryTab"
+        },
+        {
+          "name": "InventoryTabText"
+        },
+        {
+          "name": "DialogText"
+        },
+        {
+          "name": "DialogBox"
+        },
+        {
+          "name": "EffectIcons"
+        },
+        {
+          "name": "VolumeControl"
+        },
+        {
+          "name": "VolumeTextTitle"
+        },
+        {
+          "name": "VolumeValue"
+        },
+        {
+          "name": "Building"
+        },
+        {
+          "name": "SleepCollider"
+        },
+        {
+          "name": "Paths"
+        },
+        {
+          "name": "WoodPath"
+        },
+        {
+          "name": "CheatsEnablerTitle"
+        },
+        {
+          "name": "CheatsEnabler"
+        },
+        {
+          "name": "CheatsButtons"
+        },
+        {
+          "name": "CheatsTitle"
+        },
+        {
+          "name": "CheatsValues"
+        },
+        {
+          "name": "CheatsEffects"
+        },
+        {
+          "name": "NextLevel"
+        },
+        {
+          "name": "NPC"
+        },
+        {
+          "name": "RestockShopCheat"
+        },
+        {
+          "name": "FPS"
+        },
+        {
+          "name": "CaveHole"
+        },
+        {
+          "name": "OutdoorDecor"
+        },
+        {
+          "name": "MenuButton"
+        },
+        {
+          "name": "NewObject"
+        },
+        {
+          "name": "ShopInteraction"
+        },
+        {
+          "name": "ShopBackground"
+        },
+        {
+          "name": "ShopButton"
+        },
+        {
+          "name": "ShopButtonName"
+        },
+        {
+          "name": "ShopButtonStockLeft"
+        },
+        {
+          "name": "ShopButtonPrice"
+        },
+        {
+          "name": "QuitButton"
+        },
+        {
+          "name": "Enemy"
+        },
+        {
+          "name": "Enemy02"
+        },
+        {
+          "name": "Enemy03"
+        },
+        {
+          "name": "Enemy04"
+        },
+        {
+          "name": "ExitArrow"
+        },
+        {
+          "name": "EndOfDemoText"
+        },
+        {
+          "name": "CaveLevelText"
+        },
+        {
+          "name": "CaveLevelBackground"
+        },
+        {
+          "name": "NoMonsterSpawnArea"
+        },
+        {
+          "name": "Fireball"
+        },
+        {
+          "name": "Desk"
+        },
+        {
+          "name": "Bed"
+        },
+        {
+          "name": "Black"
+        }
+      ]
     }
   ],
   "variables": [
@@ -27086,32 +27682,32 @@
             {
               "name": "Item1Stock",
               "type": "string",
-              "value": "0"
+              "value": "10"
             },
             {
               "name": "Item2Stock",
               "type": "string",
-              "value": "0"
+              "value": "10"
             },
             {
               "name": "Item3Stock",
               "type": "string",
-              "value": "0"
+              "value": "10"
             },
             {
               "name": "Item4Stock",
               "type": "string",
-              "value": "0"
+              "value": "10"
             },
             {
               "name": "Item5Stock",
               "type": "string",
-              "value": "0"
+              "value": "10"
             },
             {
               "name": "Item6Stock",
               "type": "string",
-              "value": "0"
+              "value": "10"
             }
           ]
         },
@@ -27194,32 +27790,32 @@
             {
               "name": "Item1Stock",
               "type": "string",
-              "value": ""
+              "value": "10"
             },
             {
               "name": "Item2Stock",
               "type": "string",
-              "value": ""
+              "value": "10"
             },
             {
               "name": "Item3Stock",
               "type": "string",
-              "value": ""
+              "value": "10"
             },
             {
               "name": "Item4Stock",
               "type": "string",
-              "value": ""
+              "value": "10"
             },
             {
               "name": "Item5Stock",
               "type": "string",
-              "value": ""
+              "value": "10"
             },
             {
               "name": "Item6Stock",
               "type": "string",
-              "value": ""
+              "value": "10"
             }
           ]
         },
@@ -27230,32 +27826,32 @@
             {
               "name": "Item1Stock",
               "type": "string",
-              "value": ""
+              "value": "10"
             },
             {
               "name": "Item2Stock",
               "type": "string",
-              "value": ""
+              "value": "10"
             },
             {
               "name": "Item3Stock",
               "type": "string",
-              "value": ""
+              "value": "10"
             },
             {
               "name": "Item4Stock",
               "type": "string",
-              "value": ""
+              "value": "10"
             },
             {
               "name": "Item5Stock",
               "type": "string",
-              "value": ""
+              "value": "10"
             },
             {
               "name": "Item6Stock",
               "type": "string",
-              "value": ""
+              "value": "10"
             }
           ]
         },
@@ -44846,6 +45442,184 @@
                                 {
                                   "type": {
                                     "inverted": false,
+                                    "value": "SetSceneVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "child.Completed",
+                                    ""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarSceneTxt"
+                                  },
+                                  "parameters": [
+                                    "child.Text",
+                                    "=",
+                                    "\"Plant and harvest 1000000 seeds\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetSceneVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "child.Active",
+                                    "False"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarSceneTxt"
+                                  },
+                                  "parameters": [
+                                    "child.Type",
+                                    "=",
+                                    "\"Plant\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "GlobalVariablePush"
+                                  },
+                                  "parameters": [
+                                    "Objectives",
+                                    "child"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetGlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "ObjectivesReadyToUpdate",
+                                    "True"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarGlobal"
+                                  },
+                                  "parameters": [
+                                    "ObjectivesStructure.Plant1000000Seeds",
+                                    "=",
+                                    "GlobalVariableChildCount(Objectives)-1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ModVarGlobal"
+                                  },
+                                  "parameters": [
+                                    "SummonDialogBox",
+                                    "=",
+                                    "1"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "TextObject::String"
+                                  },
+                                  "parameters": [
+                                    "DialogText",
+                                    "=",
+                                    "\"New Objective:\nPlant and harvest 1000000 seeds\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "UnPauseTimer"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "\"DialogWait\""
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "ResetTimer"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "\"DialogWait\""
+                                  ],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "events": []
+                            },
+                            {
+                              "disabled": false,
+                              "folded": false,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "GlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "Objectives[GlobalVariable(ObjectivesStructure.Plant1000000Seeds)].Completed",
+                                    "False"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "VarGlobal"
+                                  },
+                                  "parameters": [
+                                    "CropsHarvested",
+                                    "=",
+                                    "1000000"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "BuiltinCommonInstructions::Once"
+                                  },
+                                  "parameters": [],
+                                  "subInstructions": []
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "inverted": false,
+                                    "value": "SetGlobalVariableAsBoolean"
+                                  },
+                                  "parameters": [
+                                    "Objectives[GlobalVariable(ObjectivesStructure.Plant1000000Seeds)].Completed",
+                                    "True"
+                                  ],
+                                  "subInstructions": []
+                                },
+                                {
+                                  "type": {
+                                    "inverted": false,
                                     "value": "SetGlobalVariableAsBoolean"
                                   },
                                   "parameters": [
@@ -45410,7 +46184,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.7500000000000002
+        "zoomFactor": 0.6300000000000001
       },
       "objectsGroups": [
         {
@@ -48850,9 +49624,9 @@
           "name": "Building",
           "persistentUuid": "e74c74a7-38ca-4a8d-9df7-bff51e160c91",
           "width": 0,
-          "x": 741,
-          "y": -12,
-          "zOrder": 53,
+          "x": 815,
+          "y": 103,
+          "zOrder": 150,
           "numberProperties": [
             {
               "name": "animation",
@@ -50297,6 +51071,69 @@
           "x": 634,
           "y": 596,
           "zOrder": 113,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Building",
+          "persistentUuid": "d408deed-e45e-471d-a429-928afc4c3f57",
+          "width": 0,
+          "x": 1342,
+          "y": 97,
+          "zOrder": 151,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 8
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Building",
+          "persistentUuid": "ce2d9510-ee9f-485e-9e02-f9ab5bae1b2b",
+          "width": 0,
+          "x": 1080,
+          "y": 104,
+          "zOrder": 152,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 13
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Building",
+          "persistentUuid": "e729dac3-d17f-4796-97b5-d2175b80a033",
+          "width": 0,
+          "x": 1201,
+          "y": 732,
+          "zOrder": 153,
           "numberProperties": [
             {
               "name": "animation",
@@ -58564,12 +59401,24 @@
                     {
                       "type": {
                         "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "ObjectCount",
+                        "=",
+                        "Count(AllObjects1)"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
                         "value": "TextObject::String"
                       },
                       "parameters": [
                         "StatsText",
                         "=",
-                        "\"Player Stats\nDeaths: \" + GlobalVariableString(Deaths) + \"\nEnemies Killed: \" + GlobalVariableString(EnemiesKilled) + \"\nCrops Harvested: \" + GlobalVariableString(CropsHarvested) + \"\nMax Cave Level: \" + GlobalVariableString(MaxCaveLevelReached) + \"\nTotal Coins Gained: \" + GlobalVariableString(TotalCoinsGained) + \"\nTotal Coins Spent: \" + GlobalVariableString(TotalCoinsSpent) + \"\nGame Stats\nObject Count: \" + ToString(Count(AllObjects))"
+                        "\"Player Stats\nDeaths: \" + GlobalVariableString(Deaths) + \"\nEnemies Killed: \" + GlobalVariableString(EnemiesKilled) + \"\nCrops Harvested: \" + GlobalVariableString(CropsHarvested) + \"\nMax Cave Level: \" + GlobalVariableString(MaxCaveLevelReached) + \"\nTotal Coins Gained: \" + GlobalVariableString(TotalCoinsGained) + \"\nTotal Coins Spent: \" + GlobalVariableString(TotalCoinsSpent) + \"\nGame Stats\nObject Count: \" + VariableString(ObjectCount)"
                       ],
                       "subInstructions": []
                     },
@@ -65724,7 +66573,7 @@
                       "parameters": [
                         "Player.Health",
                         "-",
-                        "5"
+                        "2"
                       ],
                       "subInstructions": []
                     },
@@ -76990,6 +77839,19 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "Enemy",
+                    "Player.AngleToObject(Enemy)",
+                    "500",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "ModVarGlobal"
                   },
                   "parameters": [
@@ -78167,7 +79029,185 @@
                         "value": "SetGlobalVariableAsBoolean"
                       },
                       "parameters": [
-                        "Objectives[GlobalVariable(ObjectivesStructure.Kill100Enemy)].Completed",
+                        "Objectives[GlobalVariable(ObjectivesStructure.Kill1000Enemy)].Completed",
+                        "True"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "child.Completed",
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarSceneTxt"
+                      },
+                      "parameters": [
+                        "child.Text",
+                        "=",
+                        "\"Kill 1000000 Enemies\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "child.Active",
+                        "False"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarSceneTxt"
+                      },
+                      "parameters": [
+                        "child.Type",
+                        "=",
+                        "\"Fight\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "GlobalVariablePush"
+                      },
+                      "parameters": [
+                        "Objectives",
+                        "child"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetGlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "ObjectivesReadyToUpdate",
+                        "True"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "ObjectivesStructure.Kill1000000Enemy",
+                        "=",
+                        "GlobalVariableChildCount(Objectives)-1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "SummonDialogBox",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::String"
+                      },
+                      "parameters": [
+                        "DialogText",
+                        "=",
+                        "\"New Objective:\nKill 1000000 enemies\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "UnPauseTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ResetTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"DialogWait\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "GlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Objectives[GlobalVariable(ObjectivesStructure.Kill1000000Enemy)].Completed",
+                        "False"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarGlobal"
+                      },
+                      "parameters": [
+                        "EnemiesKilled",
+                        "=",
+                        "1000000"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetGlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Objectives[GlobalVariable(ObjectivesStructure.Kill1000000Enemy)].Completed",
                         "True"
                       ],
                       "subInstructions": []
@@ -82122,8 +83162,8 @@
           "name": "OutdoorDecor",
           "persistentUuid": "7627b055-9969-4234-a67c-3984f0d0de56",
           "width": 0,
-          "x": 1277,
-          "y": 272,
+          "x": 1300,
+          "y": 280,
           "zOrder": 54,
           "numberProperties": [
             {
@@ -93813,7 +94853,7 @@
           "name": "NPC",
           "persistentUuid": "e101b33c-5adf-4156-8369-b48e440b6c76",
           "width": 0,
-          "x": 690,
+          "x": 664,
           "y": 237,
           "zOrder": 1,
           "numberProperties": [
@@ -93968,6 +95008,69 @@
             {
               "name": "animation",
               "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Bed",
+          "persistentUuid": "b58c7777-6818-4fbc-83f6-d49d8b96909c",
+          "width": 0,
+          "x": 682,
+          "y": 165,
+          "zOrder": 114,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Bed",
+          "persistentUuid": "beba926f-a790-449e-a6b0-51fbd31418fd",
+          "width": 0,
+          "x": 514,
+          "y": 165,
+          "zOrder": 114,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 4
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Bed",
+          "persistentUuid": "cc3b6af2-d4fe-4742-9487-8076f3aafb27",
+          "width": 0,
+          "x": 378,
+          "y": 169,
+          "zOrder": 115,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 6
             }
           ],
           "stringProperties": [],
@@ -96535,7 +97638,7 @@
                               "parameters": [
                                 "MaxCaveLevelReached",
                                 ">=",
-                                "50"
+                                "30"
                               ],
                               "subInstructions": []
                             }
@@ -96568,7 +97671,7 @@
                               "parameters": [
                                 "MaxCaveLevelReached",
                                 ">=",
-                                "30"
+                                "40"
                               ],
                               "subInstructions": []
                             }
@@ -98762,7 +99865,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "CollisionLayer",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": []
         },
@@ -98924,7 +100027,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.4399999999999926
+        "zoomFactor": 0.819999999999993
       },
       "objectsGroups": [],
       "variables": [],
@@ -101297,6 +102400,195 @@
           ],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Bed",
+          "persistentUuid": "4eaab1be-377a-4bd0-aeb8-632e47efc9c7",
+          "width": 0,
+          "x": 601,
+          "y": 197,
+          "zOrder": 114,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Bed",
+          "persistentUuid": "6d3d8634-78f4-4ff2-a967-27ab50fab22e",
+          "width": 0,
+          "x": 415,
+          "y": 197,
+          "zOrder": 114,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Bed",
+          "persistentUuid": "4939c63a-7a35-449b-8ffd-336cab39e9b2",
+          "width": 0,
+          "x": 522,
+          "y": 207,
+          "zOrder": 114,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 6
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Bed",
+          "persistentUuid": "e7196260-ff34-4b50-9c7c-6d38abb94879",
+          "width": 0,
+          "x": 438,
+          "y": 491,
+          "zOrder": 114,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 7
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Bed",
+          "persistentUuid": "c8803e24-02b4-4b51-86cd-6e7da4928cd6",
+          "width": 0,
+          "x": 961.0244140625,
+          "y": 276.51220703125,
+          "zOrder": 114,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 6
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Bed",
+          "persistentUuid": "e48d43b9-c5a2-47ed-a907-39baf4fe5a62",
+          "width": 0,
+          "x": 977,
+          "y": 485,
+          "zOrder": 114,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 8
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Bed",
+          "persistentUuid": "5fd439e7-71aa-4987-a2bf-99e07a8f6dad",
+          "width": 0,
+          "x": 654,
+          "y": 495,
+          "zOrder": 114,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 5
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Bed",
+          "persistentUuid": "1a62ed04-1afc-4dd5-8160-3cc35f4bda95",
+          "width": 0,
+          "x": 526,
+          "y": 495,
+          "zOrder": 114,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 5
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Bed",
+          "persistentUuid": "b31b395a-174c-41a0-97bc-1940f0200cd9",
+          "width": 0,
+          "x": 831,
+          "y": 487,
+          "zOrder": 114,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 4
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -101319,45 +102611,6 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "InsideHouse.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Bed",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Bed.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -101766,7 +103019,7 @@
                     "HealthBar",
                     "UpdateHealth",
                     "=",
-                    "0"
+                    "1"
                   ],
                   "subInstructions": []
                 }
@@ -101813,7 +103066,7 @@
                     "HealthBar",
                     "UpdateHealth",
                     "=",
-                    "0"
+                    "1"
                   ],
                   "subInstructions": []
                 }
@@ -102050,7 +103303,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "CollisionLayer",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": []
         },
@@ -102072,7 +103325,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "Inventory",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": []
         },

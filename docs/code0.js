@@ -91,6 +91,8 @@ gdjs.Main_32MenuCode.GDOutdoorDecorObjects1= [];
 gdjs.Main_32MenuCode.GDOutdoorDecorObjects2= [];
 gdjs.Main_32MenuCode.GDMenuButtonObjects1= [];
 gdjs.Main_32MenuCode.GDMenuButtonObjects2= [];
+gdjs.Main_32MenuCode.GDBedObjects1= [];
+gdjs.Main_32MenuCode.GDBedObjects2= [];
 gdjs.Main_32MenuCode.GDPlayButtonObjects1= [];
 gdjs.Main_32MenuCode.GDPlayButtonObjects2= [];
 gdjs.Main_32MenuCode.GDOptionsButtonObjects1= [];
@@ -157,7 +159,7 @@ gdjs.Main_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonR
 }if ( gdjs.Main_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Main_32MenuCode.conditionTrue_1 = gdjs.Main_32MenuCode.condition2IsTrue_0;
-gdjs.Main_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22541660);
+gdjs.Main_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22536164);
 }
 }}
 }
@@ -186,7 +188,7 @@ gdjs.Main_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonR
 }if ( gdjs.Main_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Main_32MenuCode.conditionTrue_1 = gdjs.Main_32MenuCode.condition2IsTrue_0;
-gdjs.Main_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22543988);
+gdjs.Main_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22591084);
 }
 }}
 }
@@ -212,7 +214,7 @@ gdjs.Main_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonR
 }if ( gdjs.Main_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Main_32MenuCode.conditionTrue_1 = gdjs.Main_32MenuCode.condition2IsTrue_0;
-gdjs.Main_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22545636);
+gdjs.Main_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22592732);
 }
 }}
 }
@@ -238,7 +240,7 @@ gdjs.Main_32MenuCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonR
 }if ( gdjs.Main_32MenuCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Main_32MenuCode.conditionTrue_1 = gdjs.Main_32MenuCode.condition2IsTrue_0;
-gdjs.Main_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22545884);
+gdjs.Main_32MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22592980);
 }
 }}
 }
@@ -380,6 +382,8 @@ gdjs.Main_32MenuCode.GDOutdoorDecorObjects1.length = 0;
 gdjs.Main_32MenuCode.GDOutdoorDecorObjects2.length = 0;
 gdjs.Main_32MenuCode.GDMenuButtonObjects1.length = 0;
 gdjs.Main_32MenuCode.GDMenuButtonObjects2.length = 0;
+gdjs.Main_32MenuCode.GDBedObjects1.length = 0;
+gdjs.Main_32MenuCode.GDBedObjects2.length = 0;
 gdjs.Main_32MenuCode.GDPlayButtonObjects1.length = 0;
 gdjs.Main_32MenuCode.GDPlayButtonObjects2.length = 0;
 gdjs.Main_32MenuCode.GDOptionsButtonObjects1.length = 0;

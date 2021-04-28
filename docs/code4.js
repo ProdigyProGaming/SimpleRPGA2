@@ -357,6 +357,13 @@ gdjs.FarmCode.GDMenuButtonObjects4= [];
 gdjs.FarmCode.GDMenuButtonObjects5= [];
 gdjs.FarmCode.GDMenuButtonObjects6= [];
 gdjs.FarmCode.GDMenuButtonObjects7= [];
+gdjs.FarmCode.GDBedObjects1= [];
+gdjs.FarmCode.GDBedObjects2= [];
+gdjs.FarmCode.GDBedObjects3= [];
+gdjs.FarmCode.GDBedObjects4= [];
+gdjs.FarmCode.GDBedObjects5= [];
+gdjs.FarmCode.GDBedObjects6= [];
+gdjs.FarmCode.GDBedObjects7= [];
 gdjs.FarmCode.GDBackgroundObjects1= [];
 gdjs.FarmCode.GDBackgroundObjects2= [];
 gdjs.FarmCode.GDBackgroundObjects3= [];
@@ -563,7 +570,7 @@ gdjs.FarmCode.conditionTrue_1.val = (gdjs.evtTools.runtimeScene.getSceneName(run
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22995996);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23043156);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -595,7 +602,7 @@ gdjs.FarmCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(r
 }if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22997284);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23044444);
 }
 }}
 }
@@ -635,7 +642,7 @@ gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23001308);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23048468);
 }
 }}
 }
@@ -1098,7 +1105,7 @@ gdjs.FarmCode.conditionTrue_1.val = (gdjs.evtTools.runtimeScene.getSceneName(run
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23026692);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23073852);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -1348,7 +1355,7 @@ gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23023380);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23070540);
 }
 }}
 }
@@ -1710,7 +1717,7 @@ gdjs.FarmCode.conditionTrue_1.val = true && gdjs.FarmCode.condition0IsTrue_1.val
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23040460);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23087620);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -1783,7 +1790,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDSwordObjects2.length;i<l;++i) {
 gdjs.FarmCode.GDSwordObjects2.length = k;}if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23048084);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23095244);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -1814,7 +1821,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDSwordObjects2.length;i<l;++i) {
 gdjs.FarmCode.GDSwordObjects2.length = k;}if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23049100);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23096260);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -1845,7 +1852,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDSwordObjects2.length;i<l;++i) {
 gdjs.FarmCode.GDSwordObjects2.length = k;}if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23049876);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23097036);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -1876,7 +1883,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDSwordObjects2.length;i<l;++i) {
 gdjs.FarmCode.GDSwordObjects2.length = k;}if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23050524);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23097684);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -1907,7 +1914,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDSwordObjects1.length;i<l;++i) {
 gdjs.FarmCode.GDSwordObjects1.length = k;}if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23051892);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23099052);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -1980,7 +1987,7 @@ gdjs.FarmCode.GDGunObjects2.length = k;}if (gdjs.FarmCode.condition0IsTrue_0.val
 gdjs.FarmCode.condition0IsTrue_0.val = false;
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition0IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23056308);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23103468);
 }
 }if (gdjs.FarmCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.FarmCode.GDGunObjects2, gdjs.FarmCode.GDGunObjects3);
@@ -2070,7 +2077,7 @@ gdjs.FarmCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23059596);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23106756);
 }
 }}
 }
@@ -2247,7 +2254,7 @@ gdjs.FarmCode.conditionTrue_1.val = (gdjs.evtTools.common.toNumber(gdjs.evtTools
 gdjs.FarmCode.condition0IsTrue_0.val = false;
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition0IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23067068);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23114228);
 }
 }if (gdjs.FarmCode.condition0IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(9).getChild("Effects").getChild(gdjs.evtTools.common.toNumber(gdjs.evtTools.string.subStr(gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(9).getChild("Weapon")), 6, 1)) + 2).getChild("TotalDuration").setNumber(30);
@@ -2284,7 +2291,7 @@ gdjs.FarmCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23066396);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23113556);
 }
 }}
 }
@@ -2393,7 +2400,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTi
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23075684);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23122844);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -2442,7 +2449,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 gdjs.FarmCode.condition0IsTrue_0.val = false;
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition0IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23080500);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23127660);
 }
 }if (gdjs.FarmCode.condition0IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(0).setNumber(0);
@@ -2485,7 +2492,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtim
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23084132);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23131292);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -2506,7 +2513,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtim
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23085340);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23132500);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -2527,7 +2534,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtim
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23086556);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23133716);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -2552,7 +2559,7 @@ gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23087804);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23134964);
 }
 }}
 }
@@ -2584,7 +2591,7 @@ if( gdjs.FarmCode.condition0IsTrue_1.val ) {
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23089468);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23136628);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -3032,7 +3039,7 @@ gdjs.FarmCode.GDCheatsEffectsObjects4.push(gdjs.FarmCode.forEachTemporary4);
 gdjs.FarmCode.condition0IsTrue_0.val = false;
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition0IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23114828);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23161988);
 }
 }if (gdjs.FarmCode.condition0IsTrue_0.val) {
 
@@ -3074,7 +3081,7 @@ gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPressed(
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23117772);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23164932);
 }
 }}
 }
@@ -3103,7 +3110,7 @@ gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23120316);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23167476);
 }
 }}
 }
@@ -3131,7 +3138,7 @@ gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPressed(
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23125172);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23172332);
 }
 }}
 }
@@ -3142,7 +3149,7 @@ if (gdjs.FarmCode.condition2IsTrue_0.val) {
 }
 
 
-};gdjs.FarmCode.mapOf = Hashtable.newFrom({});gdjs.FarmCode.mapOfGDgdjs_46FarmCode_46GDVolumeControlObjects3Objects = Hashtable.newFrom({"VolumeControl": gdjs.FarmCode.GDVolumeControlObjects3});gdjs.FarmCode.mapOfGDgdjs_46FarmCode_46GDVolumeTextTitleObjects3Objects = Hashtable.newFrom({"VolumeTextTitle": gdjs.FarmCode.GDVolumeTextTitleObjects3});gdjs.FarmCode.mapOfGDgdjs_46FarmCode_46GDVolumeValueObjects3Objects = Hashtable.newFrom({"VolumeValue": gdjs.FarmCode.GDVolumeValueObjects3});gdjs.FarmCode.mapOfGDgdjs_46FarmCode_46GDVolumeControlObjects3Objects = Hashtable.newFrom({"VolumeControl": gdjs.FarmCode.GDVolumeControlObjects3});gdjs.FarmCode.mapOfGDgdjs_46FarmCode_46GDVolumeValueObjects4Objects = Hashtable.newFrom({"VolumeValue": gdjs.FarmCode.GDVolumeValueObjects4});gdjs.FarmCode.mapOfGDgdjs_46FarmCode_46GDVolumeValueObjects3Objects = Hashtable.newFrom({"VolumeValue": gdjs.FarmCode.GDVolumeValueObjects3});gdjs.FarmCode.eventsList34 = function(runtimeScene) {
+};gdjs.FarmCode.mapOfGDgdjs_46FarmCode_46GDBackgroundObjects2ObjectsGDgdjs_46FarmCode_46GDFarmLandObjects2ObjectsGDgdjs_46FarmCode_46GDFarmLandHoverObjects2ObjectsGDgdjs_46FarmCode_46GDTemp1Objects2ObjectsGDgdjs_46FarmCode_46GDTemp2Objects2ObjectsGDgdjs_46FarmCode_46GDPlayerObjects2ObjectsGDgdjs_46FarmCode_46GDGunObjects2ObjectsGDgdjs_46FarmCode_46GDSwordObjects2ObjectsGDgdjs_46FarmCode_46GDBulletObjects2ObjectsGDgdjs_46FarmCode_46GDHealthBarBackgroundObjects2ObjectsGDgdjs_46FarmCode_46GDHealthBarObjects2ObjectsGDgdjs_46FarmCode_46GDHealthBarValueObjects2ObjectsGDgdjs_46FarmCode_46GDCurrencyTextObjects2ObjectsGDgdjs_46FarmCode_46GDInventoryBackgroundObjects2ObjectsGDgdjs_46FarmCode_46GDInventorySlotObjects2ObjectsGDgdjs_46FarmCode_46GDInventoryTrashSlotObjects2ObjectsGDgdjs_46FarmCode_46GDInventoryMovingSlotObjects2ObjectsGDgdjs_46FarmCode_46GDHotBarSelectionObjects2ObjectsGDgdjs_46FarmCode_46GDInventoryQuantityObjects2ObjectsGDgdjs_46FarmCode_46GDChangeSceneInteractionObjects2ObjectsGDgdjs_46FarmCode_46GDSolidObjectObjects2ObjectsGDgdjs_46FarmCode_46GDStatsBackgroundObjects2ObjectsGDgdjs_46FarmCode_46GDStatsTextObjects2ObjectsGDgdjs_46FarmCode_46GDObjectiveObjects2ObjectsGDgdjs_46FarmCode_46GDObjectivesBackgroundObjects2ObjectsGDgdjs_46FarmCode_46GDHotbarBackgroundObjects2ObjectsGDgdjs_46FarmCode_46GDInventoryTabObjects2ObjectsGDgdjs_46FarmCode_46GDInventoryTabTextObjects2ObjectsGDgdjs_46FarmCode_46GDDialogTextObjects2ObjectsGDgdjs_46FarmCode_46GDDialogBoxObjects2ObjectsGDgdjs_46FarmCode_46GDEffectIconsObjects2ObjectsGDgdjs_46FarmCode_46GDVolumeControlObjects2ObjectsGDgdjs_46FarmCode_46GDVolumeTextTitleObjects2ObjectsGDgdjs_46FarmCode_46GDVolumeValueObjects2ObjectsGDgdjs_46FarmCode_46GDBuildingObjects2ObjectsGDgdjs_46FarmCode_46GDSleepColliderObjects2ObjectsGDgdjs_46FarmCode_46GDPathsObjects2ObjectsGDgdjs_46FarmCode_46GDWoodPathObjects2ObjectsGDgdjs_46FarmCode_46GDCheatsEnablerTitleObjects2ObjectsGDgdjs_46FarmCode_46GDCheatsEnablerObjects2ObjectsGDgdjs_46FarmCode_46GDCheatsButtonsObjects2ObjectsGDgdjs_46FarmCode_46GDCheatsTitleObjects2ObjectsGDgdjs_46FarmCode_46GDCheatsValuesObjects2ObjectsGDgdjs_46FarmCode_46GDCheatsEffectsObjects2ObjectsGDgdjs_46FarmCode_46GDNextLevelObjects2ObjectsGDgdjs_46FarmCode_46GDNPCObjects2ObjectsGDgdjs_46FarmCode_46GDRestockShopCheatObjects2ObjectsGDgdjs_46FarmCode_46GDFPSObjects2ObjectsGDgdjs_46FarmCode_46GDCaveHoleObjects2ObjectsGDgdjs_46FarmCode_46GDOutdoorDecorObjects2ObjectsGDgdjs_46FarmCode_46GDMenuButtonObjects2ObjectsGDgdjs_46FarmCode_46GDBedObjects2Objects = Hashtable.newFrom({"Background": gdjs.FarmCode.GDBackgroundObjects2, "FarmLand": gdjs.FarmCode.GDFarmLandObjects2, "FarmLandHover": gdjs.FarmCode.GDFarmLandHoverObjects2, "Temp1": gdjs.FarmCode.GDTemp1Objects2, "Temp2": gdjs.FarmCode.GDTemp2Objects2, "Player": gdjs.FarmCode.GDPlayerObjects2, "Gun": gdjs.FarmCode.GDGunObjects2, "Sword": gdjs.FarmCode.GDSwordObjects2, "Bullet": gdjs.FarmCode.GDBulletObjects2, "HealthBarBackground": gdjs.FarmCode.GDHealthBarBackgroundObjects2, "HealthBar": gdjs.FarmCode.GDHealthBarObjects2, "HealthBarValue": gdjs.FarmCode.GDHealthBarValueObjects2, "CurrencyText": gdjs.FarmCode.GDCurrencyTextObjects2, "InventoryBackground": gdjs.FarmCode.GDInventoryBackgroundObjects2, "InventorySlot": gdjs.FarmCode.GDInventorySlotObjects2, "InventoryTrashSlot": gdjs.FarmCode.GDInventoryTrashSlotObjects2, "InventoryMovingSlot": gdjs.FarmCode.GDInventoryMovingSlotObjects2, "HotBarSelection": gdjs.FarmCode.GDHotBarSelectionObjects2, "InventoryQuantity": gdjs.FarmCode.GDInventoryQuantityObjects2, "ChangeSceneInteraction": gdjs.FarmCode.GDChangeSceneInteractionObjects2, "SolidObject": gdjs.FarmCode.GDSolidObjectObjects2, "StatsBackground": gdjs.FarmCode.GDStatsBackgroundObjects2, "StatsText": gdjs.FarmCode.GDStatsTextObjects2, "Objective": gdjs.FarmCode.GDObjectiveObjects2, "ObjectivesBackground": gdjs.FarmCode.GDObjectivesBackgroundObjects2, "HotbarBackground": gdjs.FarmCode.GDHotbarBackgroundObjects2, "InventoryTab": gdjs.FarmCode.GDInventoryTabObjects2, "InventoryTabText": gdjs.FarmCode.GDInventoryTabTextObjects2, "DialogText": gdjs.FarmCode.GDDialogTextObjects2, "DialogBox": gdjs.FarmCode.GDDialogBoxObjects2, "EffectIcons": gdjs.FarmCode.GDEffectIconsObjects2, "VolumeControl": gdjs.FarmCode.GDVolumeControlObjects2, "VolumeTextTitle": gdjs.FarmCode.GDVolumeTextTitleObjects2, "VolumeValue": gdjs.FarmCode.GDVolumeValueObjects2, "Building": gdjs.FarmCode.GDBuildingObjects2, "SleepCollider": gdjs.FarmCode.GDSleepColliderObjects2, "Paths": gdjs.FarmCode.GDPathsObjects2, "WoodPath": gdjs.FarmCode.GDWoodPathObjects2, "CheatsEnablerTitle": gdjs.FarmCode.GDCheatsEnablerTitleObjects2, "CheatsEnabler": gdjs.FarmCode.GDCheatsEnablerObjects2, "CheatsButtons": gdjs.FarmCode.GDCheatsButtonsObjects2, "CheatsTitle": gdjs.FarmCode.GDCheatsTitleObjects2, "CheatsValues": gdjs.FarmCode.GDCheatsValuesObjects2, "CheatsEffects": gdjs.FarmCode.GDCheatsEffectsObjects2, "NextLevel": gdjs.FarmCode.GDNextLevelObjects2, "NPC": gdjs.FarmCode.GDNPCObjects2, "RestockShopCheat": gdjs.FarmCode.GDRestockShopCheatObjects2, "FPS": gdjs.FarmCode.GDFPSObjects2, "CaveHole": gdjs.FarmCode.GDCaveHoleObjects2, "OutdoorDecor": gdjs.FarmCode.GDOutdoorDecorObjects2, "MenuButton": gdjs.FarmCode.GDMenuButtonObjects2, "Bed": gdjs.FarmCode.GDBedObjects2});gdjs.FarmCode.mapOfGDgdjs_46FarmCode_46GDVolumeControlObjects3Objects = Hashtable.newFrom({"VolumeControl": gdjs.FarmCode.GDVolumeControlObjects3});gdjs.FarmCode.mapOfGDgdjs_46FarmCode_46GDVolumeTextTitleObjects3Objects = Hashtable.newFrom({"VolumeTextTitle": gdjs.FarmCode.GDVolumeTextTitleObjects3});gdjs.FarmCode.mapOfGDgdjs_46FarmCode_46GDVolumeValueObjects3Objects = Hashtable.newFrom({"VolumeValue": gdjs.FarmCode.GDVolumeValueObjects3});gdjs.FarmCode.mapOfGDgdjs_46FarmCode_46GDVolumeControlObjects3Objects = Hashtable.newFrom({"VolumeControl": gdjs.FarmCode.GDVolumeControlObjects3});gdjs.FarmCode.mapOfGDgdjs_46FarmCode_46GDVolumeValueObjects4Objects = Hashtable.newFrom({"VolumeValue": gdjs.FarmCode.GDVolumeValueObjects4});gdjs.FarmCode.mapOfGDgdjs_46FarmCode_46GDVolumeValueObjects3Objects = Hashtable.newFrom({"VolumeValue": gdjs.FarmCode.GDVolumeValueObjects3});gdjs.FarmCode.eventsList34 = function(runtimeScene) {
 
 {
 
@@ -3547,7 +3554,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDVolumeControlObjects3.length;i<l;++i) 
 gdjs.FarmCode.GDVolumeControlObjects3.length = k;}if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23136940);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23184092);
 }
 }}
 }
@@ -3587,7 +3594,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDVolumeControlObjects3.length;i<l;++i) 
 gdjs.FarmCode.GDVolumeControlObjects3.length = k;}if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23141932);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23189084);
 }
 }}
 }
@@ -3627,7 +3634,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDVolumeControlObjects3.length;i<l;++i) 
 gdjs.FarmCode.GDVolumeControlObjects3.length = k;}if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23147028);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23194180);
 }
 }}
 }
@@ -3657,7 +3664,7 @@ gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPressed(
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23151452);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23198604);
 }
 }}
 }
@@ -3687,7 +3694,7 @@ gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23152876);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23200028);
 }
 }}
 }
@@ -3893,7 +3900,7 @@ gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.camera.layerIsVisible(runti
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23173332);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23220484);
 }
 }}
 }
@@ -4012,7 +4019,7 @@ gdjs.FarmCode.condition2IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased
 }if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23093716);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23140876);
 }
 }}
 }
@@ -4094,7 +4101,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDInventoryQuantityObjects2.length;i<l;+
 gdjs.FarmCode.GDInventoryQuantityObjects2.length = k;}if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23097908);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23145068);
 }
 }}
 }
@@ -4148,7 +4155,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDInventoryTabObjects2.length;i<l;++i) {
 gdjs.FarmCode.GDInventoryTabObjects2.length = k;}if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23101628);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23148788);
 }
 }}
 }
@@ -4191,7 +4198,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDInventoryTabObjects2.length;i<l;++i) {
 gdjs.FarmCode.GDInventoryTabObjects2.length = k;}if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23103884);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23151044);
 }
 }}
 }
@@ -4320,21 +4327,61 @@ gdjs.FarmCode.condition0IsTrue_0.val = false;
 {
 gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(32)) == 3;
 }if (gdjs.FarmCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("Background"), gdjs.FarmCode.GDBackgroundObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Bed"), gdjs.FarmCode.GDBedObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Building"), gdjs.FarmCode.GDBuildingObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Bullet"), gdjs.FarmCode.GDBulletObjects2);
+gdjs.copyArray(runtimeScene.getObjects("CaveHole"), gdjs.FarmCode.GDCaveHoleObjects2);
+gdjs.copyArray(runtimeScene.getObjects("ChangeSceneInteraction"), gdjs.FarmCode.GDChangeSceneInteractionObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsButtons"), gdjs.FarmCode.GDCheatsButtonsObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsEffects"), gdjs.FarmCode.GDCheatsEffectsObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnabler"), gdjs.FarmCode.GDCheatsEnablerObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsEnablerTitle"), gdjs.FarmCode.GDCheatsEnablerTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsTitle"), gdjs.FarmCode.GDCheatsTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("CheatsValues"), gdjs.FarmCode.GDCheatsValuesObjects2);
+gdjs.copyArray(gdjs.FarmCode.GDCurrencyTextObjects1, gdjs.FarmCode.GDCurrencyTextObjects2);
+
+gdjs.copyArray(runtimeScene.getObjects("DialogBox"), gdjs.FarmCode.GDDialogBoxObjects2);
+gdjs.copyArray(runtimeScene.getObjects("DialogText"), gdjs.FarmCode.GDDialogTextObjects2);
+gdjs.copyArray(runtimeScene.getObjects("EffectIcons"), gdjs.FarmCode.GDEffectIconsObjects2);
+gdjs.copyArray(runtimeScene.getObjects("FPS"), gdjs.FarmCode.GDFPSObjects2);
+gdjs.copyArray(runtimeScene.getObjects("FarmLand"), gdjs.FarmCode.GDFarmLandObjects2);
+gdjs.copyArray(runtimeScene.getObjects("FarmLandHover"), gdjs.FarmCode.GDFarmLandHoverObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Gun"), gdjs.FarmCode.GDGunObjects2);
+gdjs.copyArray(runtimeScene.getObjects("HealthBar"), gdjs.FarmCode.GDHealthBarObjects2);
+gdjs.copyArray(runtimeScene.getObjects("HealthBarBackground"), gdjs.FarmCode.GDHealthBarBackgroundObjects2);
+gdjs.copyArray(runtimeScene.getObjects("HealthBarValue"), gdjs.FarmCode.GDHealthBarValueObjects2);
+gdjs.copyArray(runtimeScene.getObjects("HotBarSelection"), gdjs.FarmCode.GDHotBarSelectionObjects2);
+gdjs.copyArray(runtimeScene.getObjects("HotbarBackground"), gdjs.FarmCode.GDHotbarBackgroundObjects2);
+gdjs.copyArray(gdjs.FarmCode.GDInventoryBackgroundObjects1, gdjs.FarmCode.GDInventoryBackgroundObjects2);
+
+gdjs.copyArray(runtimeScene.getObjects("InventoryMovingSlot"), gdjs.FarmCode.GDInventoryMovingSlotObjects2);
+gdjs.copyArray(runtimeScene.getObjects("InventoryQuantity"), gdjs.FarmCode.GDInventoryQuantityObjects2);
+gdjs.copyArray(runtimeScene.getObjects("InventorySlot"), gdjs.FarmCode.GDInventorySlotObjects2);
+gdjs.copyArray(runtimeScene.getObjects("InventoryTab"), gdjs.FarmCode.GDInventoryTabObjects2);
+gdjs.copyArray(gdjs.FarmCode.GDInventoryTabTextObjects1, gdjs.FarmCode.GDInventoryTabTextObjects2);
+
+gdjs.copyArray(runtimeScene.getObjects("InventoryTrashSlot"), gdjs.FarmCode.GDInventoryTrashSlotObjects2);
 gdjs.copyArray(runtimeScene.getObjects("MenuButton"), gdjs.FarmCode.GDMenuButtonObjects2);
+gdjs.copyArray(runtimeScene.getObjects("NPC"), gdjs.FarmCode.GDNPCObjects2);
 gdjs.copyArray(runtimeScene.getObjects("NextLevel"), gdjs.FarmCode.GDNextLevelObjects2);
 gdjs.copyArray(runtimeScene.getObjects("Objective"), gdjs.FarmCode.GDObjectiveObjects2);
 gdjs.copyArray(runtimeScene.getObjects("ObjectivesBackground"), gdjs.FarmCode.GDObjectivesBackgroundObjects2);
+gdjs.copyArray(runtimeScene.getObjects("OutdoorDecor"), gdjs.FarmCode.GDOutdoorDecorObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Paths"), gdjs.FarmCode.GDPathsObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.FarmCode.GDPlayerObjects2);
 gdjs.copyArray(runtimeScene.getObjects("RestockShopCheat"), gdjs.FarmCode.GDRestockShopCheatObjects2);
+gdjs.copyArray(runtimeScene.getObjects("SleepCollider"), gdjs.FarmCode.GDSleepColliderObjects2);
+gdjs.copyArray(runtimeScene.getObjects("SolidObject"), gdjs.FarmCode.GDSolidObjectObjects2);
+gdjs.copyArray(runtimeScene.getObjects("StatsBackground"), gdjs.FarmCode.GDStatsBackgroundObjects2);
 gdjs.copyArray(runtimeScene.getObjects("StatsText"), gdjs.FarmCode.GDStatsTextObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Sword"), gdjs.FarmCode.GDSwordObjects2);
+gdjs.copyArray(runtimeScene.getObjects("Temp1"), gdjs.FarmCode.GDTemp1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("Temp2"), gdjs.FarmCode.GDTemp2Objects2);
 gdjs.copyArray(runtimeScene.getObjects("VolumeControl"), gdjs.FarmCode.GDVolumeControlObjects2);
 gdjs.copyArray(runtimeScene.getObjects("VolumeTextTitle"), gdjs.FarmCode.GDVolumeTextTitleObjects2);
 gdjs.copyArray(runtimeScene.getObjects("VolumeValue"), gdjs.FarmCode.GDVolumeValueObjects2);
+gdjs.copyArray(runtimeScene.getObjects("WoodPath"), gdjs.FarmCode.GDWoodPathObjects2);
 {for(var i = 0, len = gdjs.FarmCode.GDObjectivesBackgroundObjects2.length ;i < len;++i) {
     gdjs.FarmCode.GDObjectivesBackgroundObjects2[i].hide(false);
 }
@@ -4383,8 +4430,9 @@ for(var i = 0, len = gdjs.FarmCode.GDRestockShopCheatObjects2.length ;i < len;++
 }{for(var i = 0, len = gdjs.FarmCode.GDStatsTextObjects2.length ;i < len;++i) {
     gdjs.FarmCode.GDStatsTextObjects2[i].hide(false);
 }
+}{runtimeScene.getVariables().get("ObjectCount").setNumber(gdjs.evtTools.object.pickedObjectsCount(gdjs.FarmCode.mapOfGDgdjs_46FarmCode_46GDBackgroundObjects2ObjectsGDgdjs_46FarmCode_46GDFarmLandObjects2ObjectsGDgdjs_46FarmCode_46GDFarmLandHoverObjects2ObjectsGDgdjs_46FarmCode_46GDTemp1Objects2ObjectsGDgdjs_46FarmCode_46GDTemp2Objects2ObjectsGDgdjs_46FarmCode_46GDPlayerObjects2ObjectsGDgdjs_46FarmCode_46GDGunObjects2ObjectsGDgdjs_46FarmCode_46GDSwordObjects2ObjectsGDgdjs_46FarmCode_46GDBulletObjects2ObjectsGDgdjs_46FarmCode_46GDHealthBarBackgroundObjects2ObjectsGDgdjs_46FarmCode_46GDHealthBarObjects2ObjectsGDgdjs_46FarmCode_46GDHealthBarValueObjects2ObjectsGDgdjs_46FarmCode_46GDCurrencyTextObjects2ObjectsGDgdjs_46FarmCode_46GDInventoryBackgroundObjects2ObjectsGDgdjs_46FarmCode_46GDInventorySlotObjects2ObjectsGDgdjs_46FarmCode_46GDInventoryTrashSlotObjects2ObjectsGDgdjs_46FarmCode_46GDInventoryMovingSlotObjects2ObjectsGDgdjs_46FarmCode_46GDHotBarSelectionObjects2ObjectsGDgdjs_46FarmCode_46GDInventoryQuantityObjects2ObjectsGDgdjs_46FarmCode_46GDChangeSceneInteractionObjects2ObjectsGDgdjs_46FarmCode_46GDSolidObjectObjects2ObjectsGDgdjs_46FarmCode_46GDStatsBackgroundObjects2ObjectsGDgdjs_46FarmCode_46GDStatsTextObjects2ObjectsGDgdjs_46FarmCode_46GDObjectiveObjects2ObjectsGDgdjs_46FarmCode_46GDObjectivesBackgroundObjects2ObjectsGDgdjs_46FarmCode_46GDHotbarBackgroundObjects2ObjectsGDgdjs_46FarmCode_46GDInventoryTabObjects2ObjectsGDgdjs_46FarmCode_46GDInventoryTabTextObjects2ObjectsGDgdjs_46FarmCode_46GDDialogTextObjects2ObjectsGDgdjs_46FarmCode_46GDDialogBoxObjects2ObjectsGDgdjs_46FarmCode_46GDEffectIconsObjects2ObjectsGDgdjs_46FarmCode_46GDVolumeControlObjects2ObjectsGDgdjs_46FarmCode_46GDVolumeTextTitleObjects2ObjectsGDgdjs_46FarmCode_46GDVolumeValueObjects2ObjectsGDgdjs_46FarmCode_46GDBuildingObjects2ObjectsGDgdjs_46FarmCode_46GDSleepColliderObjects2ObjectsGDgdjs_46FarmCode_46GDPathsObjects2ObjectsGDgdjs_46FarmCode_46GDWoodPathObjects2ObjectsGDgdjs_46FarmCode_46GDCheatsEnablerTitleObjects2ObjectsGDgdjs_46FarmCode_46GDCheatsEnablerObjects2ObjectsGDgdjs_46FarmCode_46GDCheatsButtonsObjects2ObjectsGDgdjs_46FarmCode_46GDCheatsTitleObjects2ObjectsGDgdjs_46FarmCode_46GDCheatsValuesObjects2ObjectsGDgdjs_46FarmCode_46GDCheatsEffectsObjects2ObjectsGDgdjs_46FarmCode_46GDNextLevelObjects2ObjectsGDgdjs_46FarmCode_46GDNPCObjects2ObjectsGDgdjs_46FarmCode_46GDRestockShopCheatObjects2ObjectsGDgdjs_46FarmCode_46GDFPSObjects2ObjectsGDgdjs_46FarmCode_46GDCaveHoleObjects2ObjectsGDgdjs_46FarmCode_46GDOutdoorDecorObjects2ObjectsGDgdjs_46FarmCode_46GDMenuButtonObjects2ObjectsGDgdjs_46FarmCode_46GDBedObjects2Objects));
 }{for(var i = 0, len = gdjs.FarmCode.GDStatsTextObjects2.length ;i < len;++i) {
-    gdjs.FarmCode.GDStatsTextObjects2[i].setString("Player Stats\nDeaths: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(22)) + "\nEnemies Killed: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(42)) + "\nCrops Harvested: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(43)) + "\nMax Cave Level: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(30)) + "\nTotal Coins Gained: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(44)) + "\nTotal Coins Spent: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(45)) + "\nGame Stats\nObject Count: " + gdjs.evtTools.common.toString(gdjs.evtTools.object.pickedObjectsCount(gdjs.FarmCode.mapOf)));
+    gdjs.FarmCode.GDStatsTextObjects2[i].setString("Player Stats\nDeaths: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(22)) + "\nEnemies Killed: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(42)) + "\nCrops Harvested: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(43)) + "\nMax Cave Level: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(30)) + "\nTotal Coins Gained: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(44)) + "\nTotal Coins Spent: " + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(45)) + "\nGame Stats\nObject Count: " + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().get("ObjectCount")));
 }
 }{for(var i = 0, len = gdjs.FarmCode.GDStatsTextObjects2.length ;i < len;++i) {
     gdjs.FarmCode.GDStatsTextObjects2[i].setPosition((( gdjs.FarmCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.FarmCode.GDObjectivesBackgroundObjects2[0].getPointX("VolumeTitle")),(( gdjs.FarmCode.GDObjectivesBackgroundObjects2.length === 0 ) ? 0 :gdjs.FarmCode.GDObjectivesBackgroundObjects2[0].getPointY("VolumeTitle")) - 20);
@@ -4731,7 +4779,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23090684);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23137844);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -4913,7 +4961,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23185508);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23232660);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -4934,7 +4982,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23185980);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23233132);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -4955,7 +5003,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23187724);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23234876);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -4976,7 +5024,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23187948);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23235100);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -4997,7 +5045,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23189852);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23237004);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -5320,7 +5368,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDPlayerObjects2.length;i<l;++i) {
 gdjs.FarmCode.GDPlayerObjects2.length = k;}if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23195108);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23242260);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -5354,7 +5402,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDPlayerObjects1.length;i<l;++i) {
 gdjs.FarmCode.GDPlayerObjects1.length = k;}if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23197932);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23245084);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -5383,7 +5431,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23211900);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23259052);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -5405,7 +5453,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23210932);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23258084);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -5430,7 +5478,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23209964);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23257116);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -5455,7 +5503,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23208996);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23256148);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -5480,7 +5528,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23208028);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23255180);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -5505,7 +5553,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23207060);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23254212);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -5542,7 +5590,7 @@ gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtim
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23202796);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23249948);
 }
 }}
 }
@@ -5573,7 +5621,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDChangeSceneInteractionObjects3.length;
 gdjs.FarmCode.GDChangeSceneInteractionObjects3.length = k;}if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23203172);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23250324);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -5603,7 +5651,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDChangeSceneInteractionObjects3.length;
 gdjs.FarmCode.GDChangeSceneInteractionObjects3.length = k;}if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23205180);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23252332);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -5622,7 +5670,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23206092);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23253244);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -5673,7 +5721,7 @@ gdjs.FarmCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(r
 }if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23212900);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23260052);
 }
 }}
 }
@@ -5698,7 +5746,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23214108);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23261260);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -5978,7 +6026,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23224588);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23271740);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -6018,7 +6066,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23229292);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23276444);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -6038,7 +6086,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23230148);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23277300);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -6058,7 +6106,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23231036);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23278188);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -6078,7 +6126,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23231900);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23279052);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -6115,7 +6163,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23232756);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23279908);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -6144,7 +6192,7 @@ gdjs.FarmCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23234364);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23281516);
 }
 }}
 }
@@ -6182,7 +6230,7 @@ gdjs.FarmCode.condition3IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition3IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition4IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23235388);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23282540);
 }
 }}
 }
@@ -6222,7 +6270,7 @@ gdjs.FarmCode.condition3IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased
 }if ( gdjs.FarmCode.condition3IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition4IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23238116);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23285268);
 }
 }}
 }
@@ -6257,7 +6305,7 @@ gdjs.FarmCode.condition2IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23239700);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23286852);
 }
 }}
 }
@@ -6288,7 +6336,7 @@ gdjs.FarmCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23240572);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23287724);
 }
 }}
 }
@@ -6340,7 +6388,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDDialogBoxObjects2.length;i<l;++i) {
 gdjs.FarmCode.GDDialogBoxObjects2.length = k;}if ( gdjs.FarmCode.condition3IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition4IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23243036);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23290188);
 }
 }}
 }
@@ -6443,7 +6491,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDDialogBoxObjects2.length;i<l;++i) {
 gdjs.FarmCode.GDDialogBoxObjects2.length = k;}if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23249100);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23296252);
 }
 }}
 }
@@ -6478,7 +6526,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDDialogBoxObjects2.length;i<l;++i) {
 gdjs.FarmCode.GDDialogBoxObjects2.length = k;}if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23250332);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23297484);
 }
 }}
 }
@@ -6509,7 +6557,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDDialogBoxObjects2.length;i<l;++i) {
 gdjs.FarmCode.GDDialogBoxObjects2.length = k;}if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23250972);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23298124);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -6543,7 +6591,7 @@ for(var i = 0, k = 0, l = gdjs.FarmCode.GDDialogBoxObjects2.length;i<l;++i) {
 gdjs.FarmCode.GDDialogBoxObjects2.length = k;}if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23252172);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23299324);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -6570,7 +6618,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23252668);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23299820);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -6590,7 +6638,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23254420);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23301572);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -6971,7 +7019,7 @@ gdjs.FarmCode.GDEffectIconsObjects3.push(gdjs.FarmCode.forEachTemporary3);
 gdjs.FarmCode.condition0IsTrue_0.val = false;
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition0IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23278684);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23325836);
 }
 }if (gdjs.FarmCode.condition0IsTrue_0.val) {
 {for(var i = 0, len = gdjs.FarmCode.GDEffectIconsObjects3.length ;i < len;++i) {
@@ -6997,7 +7045,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(r
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23280908);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23328060);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -7029,7 +7077,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTi
 }if (gdjs.FarmCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("HealthBar"), gdjs.FarmCode.GDHealthBarObjects2);
 {gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "PoisonEffect");
-}{runtimeScene.getGame().getVariables().getFromIndex(9).getChild("Health").sub(5);
+}{runtimeScene.getGame().getVariables().getFromIndex(9).getChild("Health").sub(2);
 }{for(var i = 0, len = gdjs.FarmCode.GDHealthBarObjects2.length ;i < len;++i) {
     gdjs.FarmCode.GDHealthBarObjects2[i].returnVariable(gdjs.FarmCode.GDHealthBarObjects2[i].getVariables().getFromIndex(0)).setNumber(1);
 }
@@ -7050,7 +7098,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(r
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23284700);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23331852);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -7088,7 +7136,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(r
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23288084);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23335236);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -7123,7 +7171,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(r
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23291148);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23338300);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -7158,7 +7206,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(r
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23294116);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23341268);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -7193,7 +7241,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(r
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23297084);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23344236);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -7272,7 +7320,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(r
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23300084);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23347236);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -7323,7 +7371,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(r
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23305692);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23352844);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -7695,7 +7743,7 @@ gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.FarmCode.GDPlayerObjects3
 gdjs.FarmCode.condition0IsTrue_0.val = false;
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition0IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22641596);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22688892);
 }
 }if (gdjs.FarmCode.condition0IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(8).setString("Farm");
@@ -7768,7 +7816,7 @@ gdjs.FarmCode.eventsList97(runtimeScene);} //Subevents end.
 gdjs.FarmCode.condition0IsTrue_0.val = false;
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition0IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22647900);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22695196);
 }
 }if (gdjs.FarmCode.condition0IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(16).setNumber(0);
@@ -7819,7 +7867,7 @@ gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.FarmCode.GDPlayerObjects1
 gdjs.FarmCode.condition0IsTrue_0.val = false;
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition0IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22653612);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22700908);
 }
 }if (gdjs.FarmCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.FarmCode.GDGunObjects1, gdjs.FarmCode.GDGunObjects2);
@@ -7909,7 +7957,7 @@ gdjs.FarmCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition2IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition3IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22657628);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22704924);
 }
 }}
 }
@@ -8005,7 +8053,7 @@ gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22678628);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22725924);
 }
 }}
 }
@@ -8044,7 +8092,7 @@ gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22685076);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22732372);
 }
 }}
 }
@@ -8083,7 +8131,7 @@ gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22690756);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23136140);
 }
 }}
 }
@@ -8122,12 +8170,51 @@ gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22563236);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22738052);
 }
 }}
 }
 if (gdjs.FarmCode.condition2IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("DialogText"), gdjs.FarmCode.GDDialogTextObjects3);
 {gdjs.evtTools.common.setVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(29).getChild(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(39).getChild("Plant1000Seeds"))).getChild("Completed"), true);
+}{gdjs.evtTools.common.setVariableBoolean(runtimeScene.getVariables().get("child").getChild("Completed"), false);
+}{runtimeScene.getVariables().get("child").getChild("Text").setString("Plant and harvest 1000000 seeds");
+}{gdjs.evtTools.common.setVariableBoolean(runtimeScene.getVariables().get("child").getChild("Active"), false);
+}{runtimeScene.getVariables().get("child").getChild("Type").setString("Plant");
+}{gdjs.evtTools.common.variablePushCopy(runtimeScene.getGame().getVariables().getFromIndex(29), runtimeScene.getVariables().get("child"));
+}{gdjs.evtTools.common.setVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(28), true);
+}{runtimeScene.getGame().getVariables().getFromIndex(39).getChild("Plant1000000Seeds").setNumber(gdjs.evtTools.common.getVariableChildCount(runtimeScene.getGame().getVariables().getFromIndex(29)) - 1);
+}{runtimeScene.getGame().getVariables().getFromIndex(33).setNumber(1);
+}{for(var i = 0, len = gdjs.FarmCode.GDDialogTextObjects3.length ;i < len;++i) {
+    gdjs.FarmCode.GDDialogTextObjects3[i].setString("New Objective:\nPlant and harvest 1000000 seeds");
+}
+}{gdjs.evtTools.runtimeScene.unpauseTimer(runtimeScene, "DialogWait");
+}{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "DialogWait");
+}}
+
+}
+
+
+{
+
+
+gdjs.FarmCode.condition0IsTrue_0.val = false;
+gdjs.FarmCode.condition1IsTrue_0.val = false;
+gdjs.FarmCode.condition2IsTrue_0.val = false;
+{
+gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(29).getChild(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(39).getChild("Plant1000000Seeds"))).getChild("Completed"), false);
+}if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
+{
+gdjs.FarmCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(43)) == 1000000;
+}if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
+{
+{gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22689820);
+}
+}}
+}
+if (gdjs.FarmCode.condition2IsTrue_0.val) {
+{gdjs.evtTools.common.setVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(29).getChild(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(39).getChild("Plant1000000Seeds"))).getChild("Completed"), true);
 }{gdjs.evtTools.common.setVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(28), true);
 }}
 
@@ -8154,7 +8241,7 @@ gdjs.FarmCode.conditionTrue_1.val = (gdjs.evtTools.string.subStr(gdjs.evtTools.c
 }if ( gdjs.FarmCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition2IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22665492);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22712788);
 }
 }}
 }
@@ -8188,7 +8275,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22670868);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22718164);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -8226,7 +8313,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPressed(
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22663164);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22710460);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -8485,7 +8572,7 @@ if( gdjs.FarmCode.condition1IsTrue_1.val ) {
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22683420);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(22672748);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -8651,7 +8738,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23308044);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23355196);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -8674,7 +8761,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeS
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23309684);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23356836);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -8696,7 +8783,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23311100);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23358252);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -8752,7 +8839,7 @@ gdjs.FarmCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTi
 }if ( gdjs.FarmCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FarmCode.conditionTrue_1 = gdjs.FarmCode.condition1IsTrue_0;
-gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23316804);
+gdjs.FarmCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(23363956);
 }
 }}
 if (gdjs.FarmCode.condition1IsTrue_0.val) {
@@ -9111,6 +9198,13 @@ gdjs.FarmCode.GDMenuButtonObjects4.length = 0;
 gdjs.FarmCode.GDMenuButtonObjects5.length = 0;
 gdjs.FarmCode.GDMenuButtonObjects6.length = 0;
 gdjs.FarmCode.GDMenuButtonObjects7.length = 0;
+gdjs.FarmCode.GDBedObjects1.length = 0;
+gdjs.FarmCode.GDBedObjects2.length = 0;
+gdjs.FarmCode.GDBedObjects3.length = 0;
+gdjs.FarmCode.GDBedObjects4.length = 0;
+gdjs.FarmCode.GDBedObjects5.length = 0;
+gdjs.FarmCode.GDBedObjects6.length = 0;
+gdjs.FarmCode.GDBedObjects7.length = 0;
 gdjs.FarmCode.GDBackgroundObjects1.length = 0;
 gdjs.FarmCode.GDBackgroundObjects2.length = 0;
 gdjs.FarmCode.GDBackgroundObjects3.length = 0;
