@@ -159,7 +159,7 @@ gdjs.End_32ScreenCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButton
 }if ( gdjs.End_32ScreenCode.condition1IsTrue_0.val ) {
 {
 {gdjs.End_32ScreenCode.conditionTrue_1 = gdjs.End_32ScreenCode.condition2IsTrue_0;
-gdjs.End_32ScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(24051324);
+gdjs.End_32ScreenCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(24191692);
 }
 }}
 }
